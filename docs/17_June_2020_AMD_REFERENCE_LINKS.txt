@@ -1,0 +1,11 @@
+
+The links referred to add/change paths/variables to make AMD implementation working are: -
+
+1. https://github.com/leela-zero/leela-zero/issues/26
+2. https://github.com/GPUOpen-ProfessionalCompute-Libraries/amdovx-core/issues/5
+3. https://github.com/GPUOpen-ProfessionalCompute-Libraries/amdovx-core
+4. https://github.com/GPUOpen-ProfessionalCompute-Libraries/amdovx-core/blob/develop/runvx/README.md
+5. https://cmake.org/cmake/help/v3.0/command/find_package.html
+6. https://stackoverflow.com/questions/31343813/displaying-cmake-variables
+7. https://cmake.org/pipermail/cmake/2017-October/066495.html
+8. https://github.com/opencv/opencv/issues/10645

@@ -1,0 +1,17 @@
+
+venomfate@venomfate:~$ sudo apt install cmake
+venomfate@venomfate:~$ sudo apt update
+venomfate@venomfate:~$ sudo apt dist-upgrade 
+venomfate@venomfate:~$ sudo apt install libnuma-dev 
+venomfate@venomfate:~$ sudo reboot 
+venomfate@venomfate:~$ wget -q -O - http://repo.radeon.com/rocm/apt/debian/rocm.gpg.key | sudo apt-key add -
+venomfate@venomfate:~$ echo 'deb [arch=amd64] http://repo.radeon.com/rocm/apt/debian/ xenial main' | sudo tee /etc/apt/sources.list.d/rocm.list
+venomfate@venomfate:~$ sudo apt update
+venomfate@venomfate:~$ sudo apt install rocm-dev
+venomfate@venomfate:~$ sudo apt install rocm-dkms
+venomfate@venomfate:~$ bash opencv_3_install.sh 
+venomfate@venomfate:~$ sudo apt install ocl-icd-* opencl-headers
+venomfate@venomfate:~$ sudo apt install nvidia-340      
+venomfate@venomfate:~$ sudo apt install nvidia-prime
+venomfate@venomfate:~$ sudo apt install clinfo
+

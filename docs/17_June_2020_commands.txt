@@ -1,0 +1,8 @@
+venomfate@venomfate:~$ ubuntu-drivers devices
+venomfate@venomfate:~$ sudo apt install nvidia-driver-440
+venomfate@venomfate:~$ sudo reboot 
+venomfate@venomfate:~$ nvidia-smi
+venomfate@venomfate:~$ sudo apt update
+venomfate@venomfate:~$ sudo apt install nvidia-cuda-toolkit 
+venomfate@venomfate:~$ sudo reboot 
+
