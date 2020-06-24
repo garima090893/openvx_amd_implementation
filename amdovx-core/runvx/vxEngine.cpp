@@ -20,6 +20,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
+#define NAUTICS_DEBUG
+#ifdef NAUTICS_DEBUG
+#endif
 #define _CRT_SECURE_NO_WARNINGS
 #include "vxEngine.h"
 #include "vxEngineUtil.h"
@@ -38,6 +41,9 @@ enum {
 
 void RemoveVirtualKeywordFromParamDescription(std::string& paramDesc)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: RemoveVirtualKeywordFromParamDescription()\n");
+#endif
 	size_t pos = paramDesc.find("-virtual:");
 	if (pos != std::string::npos) {
 		paramDesc.erase(pos, 8);
@@ -49,6 +55,9 @@ void RemoveVirtualKeywordFromParamDescription(std::string& paramDesc)
 
 static void VX_CALLBACK log_callback(vx_context context, vx_reference ref, vx_status status, const vx_char string[])
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: log_callback()\n");
+#endif
 	size_t len = strlen(string);
 	if (len > 0) {
 		printf("%s", string);
@@ -60,6 +69,9 @@ static void VX_CALLBACK log_callback(vx_context context, vx_reference ref, vx_st
 
 CVxEngine::CVxEngine()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::CVxEngine()\n");
+#endif
 	m_paramCount = 0;
 	m_usingMultiFrameCapture = false;
 	m_disableVirtual = false;
@@ -83,11 +95,17 @@ CVxEngine::CVxEngine()
 
 CVxEngine::~CVxEngine()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::~CVxEngine()\n");
+#endif
 	Shutdown();
 }
 
 int CVxEngine::Initialize(int argCount, int defaultTargetAffinity, int defaultTargetInfo, bool enableScheduleGraph, bool disableVirtual, bool enableFullProfile, bool disableNodeFlushForCL, std::string discardCommandList)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::Initialize()\n");
+#endif
 	// save configuration
 	m_paramCount = argCount;
 	m_enableScheduleGraph = enableScheduleGraph;
@@ -141,6 +159,9 @@ int CVxEngine::Initialize(int argCount, int defaultTargetAffinity, int defaultTa
 
 int CVxEngine::SetGraphOptimizerFlags(vx_uint32 graph_optimizer_flags)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetGraphOptimizerFlags()\n");
+#endif
 	// set optimizer flags
 	vx_status status = vxSetGraphAttribute(m_graph, VX_GRAPH_ATTRIBUTE_AMD_OPTIMIZER_FLAGS, &graph_optimizer_flags, sizeof(graph_optimizer_flags));
 	if (status)
@@ -150,6 +171,9 @@ int CVxEngine::SetGraphOptimizerFlags(vx_uint32 graph_optimizer_flags)
 
 void CVxEngine::SetDumpDataConfig(std::string dumpDataConfig)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetDumpDataConfig()\n");
+#endif
 	m_dumpDataEnabled = false;
 	// extract dumpDataFilePrefix and dumpDataObjectList (with added ',' at the end)
 	// to check if an object type is specified, use dumpDataObjectList.find(",<object-type>,") != npos
@@ -162,11 +186,17 @@ void CVxEngine::SetDumpDataConfig(std::string dumpDataConfig)
 
 vx_context CVxEngine::getContext()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::getContext()\n");
+#endif
 	return m_context;
 }
 
 int CVxEngine::SetParameter(int index, const char * param)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetParameter()\n");
+#endif
 	std::string paramDesc;
 	if (m_disableVirtual) {
 		paramDesc = param;
@@ -190,6 +220,9 @@ int CVxEngine::SetParameter(int index, const char * param)
 
 int CVxEngine::SetImportedData(vx_reference ref, const char * name, const char * params)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetImportedData()\n");
+#endif
 	if (params) {
 		CVxParameter * obj = CreateDataObject(m_context, m_graph, ref, params, m_frameStart);
 		if (!obj) {
@@ -204,6 +237,9 @@ int CVxEngine::SetImportedData(vx_reference ref, const char * name, const char *
 
 void VX_CALLBACK CVxEngine_data_registry_callback_f(void * obj, vx_reference ref, const char * name, const char * params)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::CVxEngine_data_registry_callback_f()\n");
+#endif
 	int status = ((CVxEngine *)obj)->SetImportedData(ref, name, params);
 	if (status) {
 		printf("ERROR: SetImportedData(*,%s,%s) failed (%d)\n", name, params, status);
@@ -213,6 +249,9 @@ void VX_CALLBACK CVxEngine_data_registry_callback_f(void * obj, vx_reference ref
 
 void CVxEngine::ReleaseAllVirtualObjects()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::ReleaseAllVirtualObjects()\n");
+#endif
 	// close all virtual objects
 	std::vector<std::string> virtualNameList;
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it) {
@@ -228,6 +267,9 @@ void CVxEngine::ReleaseAllVirtualObjects()
 
 int CVxEngine::DumpInternalGDF()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::DumpInternalGDF()\n");
+#endif
 	vx_reference ref[64] = { 0 };
 	int num_ref = 0;
 	for (int i = 0; i < 64; i++) {
@@ -250,6 +292,9 @@ int CVxEngine::DumpInternalGDF()
 
 int CVxEngine::DumpGraphInfo(const char * graphName)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: DumpGraphInfo()\n\n");
+#endif
 	vx_graph graph = m_graph;
 	if (!graphName) {
 		printf("graph info: %s\n", !m_graphVerified ? "current (not verified)" : "current");
@@ -295,6 +340,9 @@ int CVxEngine::DumpGraphInfo(const char * graphName)
 
 int CVxEngine::ProcessGraph(std::vector<const char *> * graphNameList, size_t beginIndex)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::ProcessGraph()\n");
+#endif
 	// update graph process count
 	m_numGraphProcessed++;
 
@@ -470,8 +518,12 @@ int CVxEngine::ProcessGraph(std::vector<const char *> * graphNameList, size_t be
 
 const char * RemoveWhiteSpacesAndComment(char * line)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::RemoveWhiteSpacesAndComment()\n");
+#endif
 	static char buf[4096];
 	int pos = 0;
+	printf("vxEngine.cpp: CVxEngine::RemoveWhiteSpacesAndComment()-- line before operation: %s\n", line);
 	for (char c = ' ', *p = line; *p; c = *p++) {
 		if (*p == '\t' || *p == '\r' || *p == '\n') *p = ' ';
 		if (*p != ' ' || c != ' ')
@@ -480,11 +532,15 @@ const char * RemoveWhiteSpacesAndComment(char * line)
 			break;
 	}
 	buf[pos] = 0;
+	printf("vxEngine.cpp: CVxEngine::RemoveWhiteSpacesAndComment()-- line after operation: %s\n", buf);
 	return buf;
 }
 
 int CVxEngine::RenameData(const char * oldName, const char * newName)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::RenameData()\n");
+#endif
 	auto itOld = m_paramMap.find(oldName);
 	auto itNew = m_paramMap.find(newName);
 	if (itNew != m_paramMap.end()) {
@@ -503,6 +559,9 @@ int CVxEngine::RenameData(const char * oldName, const char * newName)
 
 int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()\n");
+#endif
 	// remove whitespaces and save original text for error reporting
 	std::string originalLine = RemoveWhiteSpacesAndComment(line);
 	const char * originalText = originalLine.c_str();
@@ -522,13 +581,15 @@ int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)
 			t++;
 		char c = *t; *t = '\0';
 		wordList.push_back(s);
+		cout << "vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- " << s << "\n";
 		if (c == '\0')
 			break;
 		s = t + 1;
 	}
+	cout << "vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- wordList.size(): " << wordList.size() <<"\n";
+	cout << "vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- level: " << level <<"\n";
 	if (!wordList.size())
 		return BUILD_GRAPH_SUCCESS;
-
 	// discard command if listed in discardCommandList
 	std::string commandKey = ",";
 	commandKey += wordList[0];
@@ -553,7 +614,7 @@ int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)
 		CFileBuffer txt(fileName);
 		char * txtBuffer = (char *)txt.GetBuffer();
 		if (!txtBuffer)
-			ReportError("ERROR: unable to open: %s\n", fileName);
+			ReportError("vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine() ERROR: unable to open: %s\n", fileName);
 		return BuildAndProcessGraph(level + 1, txtBuffer, true);
 	}
 	else if (!_stricmp(wordList[0], "shell")) {
@@ -852,13 +913,18 @@ int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)
 	}
 	else if (!_stricmp(wordList[0], "data") && wordList.size() == 4 && !strcmp(wordList[2], "="))
 	{ // syntax: data <name> = <data-description>[:<io-operations>]
+		printf("vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- data object\n");
 		for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it)
 			if (strcmp(wordList[1], it->first.c_str()) == 0)
-				ReportError("ERROR: syntax error: %s # <dataName> %s already used.\n", originalText, wordList[1]);
+				ReportError("vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine() ERROR: syntax error: %s # <dataName> %s already used.\n", originalText, wordList[1]);
 		std::string objDesc = wordList[3];
-		if (m_disableVirtual)
+		if (m_disableVirtual){
+		printf("vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- m_disableVirtual: %d\n", m_disableVirtual);
 			RemoveVirtualKeywordFromParamDescription(objDesc);
+		}
 		const char * objDescText = objDesc.c_str();
+		printf("vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- objDescText: %s\n", objDescText);
+		std::cout << "vxEngine.cpp: CVxEngine::BuildAndProcessGraphFromLine()-- m_context: " << m_context << "\n";
 		CVxParameter * obj = CreateDataObject(m_context, m_graph, &m_paramMap, &m_userStructMap, objDescText, m_frameStart);
 		if (!obj)
 			ReportError("ERROR: syntax error: %s\n" "invalid object description\n", originalText);
@@ -1039,9 +1105,14 @@ int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)
 
 int CVxEngine::BuildAndProcessGraph(int level, char * graphScript, bool importMode)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::BuildAndProcessGraph()\n");
+#endif
 	// remove replace whitespace, comments, and line-endings with SP in GDF
 #define CHECK_BACKSLASH_AT_LINE_ENDING(s,i) ((s[i] == ' ' || s[i] == '\t') && s[i + 1] == '\\' && (s[i + 2] == '\n' || (s[i + 2] == '\r' && s[i + 3] == '\n')))
 	char * s = graphScript;
+	printf("vxEngine.cpp: CVxEngine::BuildAndProcessGraph()-- graphScript: \n%s\n", graphScript);
+
 	for (size_t i = 0; s[i]; i++) {
 		if (CHECK_BACKSLASH_AT_LINE_ENDING(s, i)) {
 			// replace line-endings with SP
@@ -1063,6 +1134,7 @@ int CVxEngine::BuildAndProcessGraph(int level, char * graphScript, bool importMo
 			}
 		}
 	}
+	printf("vxEngine.cpp: CVxEngine::BuildAndProcessGraph()-- graphScript after replacing comments and special characters with space: \n%s\n", graphScript);
 #undef CHECK_BACKSLASH_AT_LINE_ENDING
 
 	// process GDF line by line
@@ -1105,6 +1177,9 @@ int CVxEngine::BuildAndProcessGraph(int level, char * graphScript, bool importMo
 
 int CVxEngine::Shell(int level, FILE * fp)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::Shell()\n");
+#endif
 	char line[4096];
 	if (!fp) { printf("%% "); fflush(stdout); }
 	while (fgets(line, sizeof(line) - 1, fp ? fp : stdin) != nullptr) {
@@ -1129,6 +1204,9 @@ int CVxEngine::Shell(int level, FILE * fp)
 
 int CVxEngine::SyncFrame(int frameNumber)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SyncFrame()\n");
+#endif
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		int status = it->second->SyncFrame(frameNumber);
 		if (status)
@@ -1139,6 +1217,9 @@ int CVxEngine::SyncFrame(int frameNumber)
 
 int CVxEngine::ReadFrame(int frameNumber)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::ReadFrame()\n");
+#endif
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		int status = it->second->ReadFrame(frameNumber);
 		if (status)
@@ -1149,6 +1230,9 @@ int CVxEngine::ReadFrame(int frameNumber)
 
 int CVxEngine::WriteFrame(int frameNumber)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::WriteFrame()\n");
+#endif
 	
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		int status = it->second->WriteFrame(frameNumber);
@@ -1160,6 +1244,9 @@ int CVxEngine::WriteFrame(int frameNumber)
 
 int CVxEngine::CompareFrame(int frameNumber)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::CompareFrame()\n");
+#endif
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		int status = it->second->CompareFrame(frameNumber);
 		if (status)
@@ -1170,25 +1257,39 @@ int CVxEngine::CompareFrame(int frameNumber)
 
 void CVxEngine::SetFrameCountOptions(bool enableMultiFrameProcessing, bool framesEofRequested, bool frameCountSpecified, int frameStart, int frameEnd)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetFrameCountOptions()\n");
+#endif
 	m_enableMultiFrameProcessing = enableMultiFrameProcessing;
 	m_framesEofRequested = framesEofRequested;
 	m_frameCountSpecified = frameCountSpecified;
 	m_frameStart = frameStart;
 	m_frameEnd = frameEnd;
+#ifdef NAUTICS_DEBUG
+	printf("vxEngine.cpp: SetFrameCountOptions-- m_enableMultiFrameProcessing: %d, m_framesEofRequested: %d, m_frameCountSpecified: %d, m_frameStart: %d, m_frameEnd: %d\n", m_enableMultiFrameProcessing, m_framesEofRequested,\
+			m_frameCountSpecified, m_frameStart, m_frameEnd);
+#endif
 }
 
 void CVxEngine::SetConfigOptions(bool verbose, bool discardCompareErrors, bool enableDumpProfile, bool enableDumpGDF, int waitKeyDelayInMilliSeconds)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::SetConfigOptions()\n");
+#endif
 	m_verbose = verbose;
 	m_discardCompareErrors = discardCompareErrors;
 	m_enableDumpProfile = enableDumpProfile;
 	m_enableDumpGDF = enableDumpGDF;
 	if (waitKeyDelayInMilliSeconds >= 0)
 		m_waitKeyDelayInMilliSeconds = waitKeyDelayInMilliSeconds;
+	printf("vxEngine.cpp: CVxEngine::SetConfigOptions-- m_verbose: %d,m_discardCompareErrors: %d, m_enableDumpProfile: %d, m_enableDumpGDF: %d\n", m_verbose, m_discardCompareErrors, m_enableDumpProfile, m_enableDumpGDF);
 }
 
 void CVxEngine::MeasureFrame(int frameNumber, int status, std::vector<vx_graph>& graphList)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::MeasureFrame()\n");
+#endif
 	if (m_verbose) printf("csv,FRAME  ,  %s,%6d", (status == 0 ? "PASS" : "FAIL"), frameNumber);
 	if (graphList.size() < 2) {
 		vx_perf_t perf = { 0 };
@@ -1221,6 +1322,9 @@ void CVxEngine::MeasureFrame(int frameNumber, int status, std::vector<vx_graph>&
 
 float CVxEngine::GetMedianRunTime()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::GetMedianRunTime()\n");
+#endif
 	float median = 0.0;
 	size_t count = m_timeMeasurements.size();
 	if (count > 0) {
@@ -1232,6 +1336,9 @@ float CVxEngine::GetMedianRunTime()
 
 void CVxEngine::PerformanceStatistics(int status, std::vector<vx_graph>& graphList)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::PerformanceStatistics()\n");
+#endif
 	if (graphList.size() < 2) {
 		printf("csv,OVERALL,  %s,", (status >= 0 ? "PASS" : "FAIL"));
 		vx_perf_t perf = { 0 };
@@ -1261,6 +1368,9 @@ void CVxEngine::PerformanceStatistics(int status, std::vector<vx_graph>& graphLi
 
 int CVxEngine::Shutdown()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::Shutdown()\n");
+#endif
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		if (it->second){
 			delete it->second;
@@ -1282,6 +1392,9 @@ int CVxEngine::Shutdown()
 
 void CVxEngine::DisableWaitForKeyPress()
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: CVxEngine::DisableWaitForKeyPress()\n");
+#endif
 	for (auto it = m_paramMap.begin(); it != m_paramMap.end(); ++it){
 		if (it->second){
 			it->second->DisableWaitForKeyPress();
@@ -1290,11 +1403,17 @@ void CVxEngine::DisableWaitForKeyPress()
 }
 
 bool CVxEngine::IsUsingMultiFrameCapture(){
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: IsUsingMultiFrameCapture()\n");
+#endif
 	return m_usingMultiFrameCapture;
 }
 
 void PrintHelpGDF(const char * command)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxEngine.cpp: PrintHelpGDF()\n");
+#endif
 	if (!command) {
 		command = "";
 		printf("The available GDF commands are:\n");

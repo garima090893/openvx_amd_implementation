@@ -6,5 +6,5 @@ CXX_FLAGS =  -msse4.2 -std=c++11 -fPIC   -std=gnu++11
 
 CXX_DEFINES = -DENABLE_OPENCL=1 -Dopenvx_EXPORTS
 
-CXX_INCLUDES = -I/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/include -I/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago -I/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api -I/usr/include/Headers 
+CXX_INCLUDES = -I/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/include -I/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago -I/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api -I/usr/include/Headers 
 

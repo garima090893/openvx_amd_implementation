@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl/runcl.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl/CMakeFiles/runcl.dir/runcl.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl/runcl.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl/CMakeFiles/runcl.dir/runcl.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

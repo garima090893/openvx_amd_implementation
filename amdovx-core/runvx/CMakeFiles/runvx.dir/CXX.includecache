@@ -1362,69 +1362,69 @@ opencv2/videostab/log.hpp
 opencv2/core/cuda.hpp
 /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/opencv2/core/cuda.hpp
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxEngineUtil.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
 vxEngine.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp
 vxArray.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp
 vxConvolution.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp
 vxDistribution.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp
 vxEngine.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.h
 vxEngineUtil.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp
 stdio.h
 -
 vxEngineUtil.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
 stdio.h
 -
 stdlib.h
@@ -1432,147 +1432,149 @@ stdlib.h
 string.h
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp
 vxImage.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp
 vxLUT.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp
 vxMatrix.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+stdio.h
+-
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxArray.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.h
 vxConvolution.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.h
 vxDistribution.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.h
 vxImage.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.h
 vxLUT.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.h
 vxMatrix.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.h
 vxPyramid.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.h
 vxRemap.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.h
 vxScalar.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.h
 vxThreshold.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.h
 vxTensor.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp
 vxPyramid.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp
 vxRemap.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp
 vxScalar.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp
 vxTensor.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp
 vxThreshold.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.h
 vxParameter.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
 vxParamHelper.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp
 vxUtils.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
 VX/vx.h
 -
 VX/vx_compatibility.h
@@ -1614,7 +1616,7 @@ openssl/md5.h
 strings.h
 -
 vx_ext_amd.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vx_ext_amd.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vx_ext_amd.h
 math.h
 -
 opencl.h

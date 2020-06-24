@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/CMakeFiles/progress.marks
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/CMakeFiles/progress.marks
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/clean
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 openvx/CMakeFiles/openvx.dir/rule:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/CMakeFiles/openvx.dir/rule
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 openvx/CMakeFiles/openvx.dir/rule
 .PHONY : openvx/CMakeFiles/openvx.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ openvx: openvx/CMakeFiles/openvx.dir/rule
 
 # fast build rule for target.
 openvx/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/build
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/build
 .PHONY : openvx/fast
 
 ago/ago_drama.o: ago/ago_drama.cpp.o
@@ -177,7 +177,7 @@ ago/ago_drama.o: ago/ago_drama.cpp.o
 
 # target to build an object file
 ago/ago_drama.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o
 .PHONY : ago/ago_drama.cpp.o
 
 ago/ago_drama.i: ago/ago_drama.cpp.i
@@ -186,7 +186,7 @@ ago/ago_drama.i: ago/ago_drama.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.i
 .PHONY : ago/ago_drama.cpp.i
 
 ago/ago_drama.s: ago/ago_drama.cpp.s
@@ -195,7 +195,7 @@ ago/ago_drama.s: ago/ago_drama.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.s
 .PHONY : ago/ago_drama.cpp.s
 
 ago/ago_drama_alloc.o: ago/ago_drama_alloc.cpp.o
@@ -204,7 +204,7 @@ ago/ago_drama_alloc.o: ago/ago_drama_alloc.cpp.o
 
 # target to build an object file
 ago/ago_drama_alloc.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o
 .PHONY : ago/ago_drama_alloc.cpp.o
 
 ago/ago_drama_alloc.i: ago/ago_drama_alloc.cpp.i
@@ -213,7 +213,7 @@ ago/ago_drama_alloc.i: ago/ago_drama_alloc.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama_alloc.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i
 .PHONY : ago/ago_drama_alloc.cpp.i
 
 ago/ago_drama_alloc.s: ago/ago_drama_alloc.cpp.s
@@ -222,7 +222,7 @@ ago/ago_drama_alloc.s: ago/ago_drama_alloc.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama_alloc.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s
 .PHONY : ago/ago_drama_alloc.cpp.s
 
 ago/ago_drama_analyze.o: ago/ago_drama_analyze.cpp.o
@@ -231,7 +231,7 @@ ago/ago_drama_analyze.o: ago/ago_drama_analyze.cpp.o
 
 # target to build an object file
 ago/ago_drama_analyze.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o
 .PHONY : ago/ago_drama_analyze.cpp.o
 
 ago/ago_drama_analyze.i: ago/ago_drama_analyze.cpp.i
@@ -240,7 +240,7 @@ ago/ago_drama_analyze.i: ago/ago_drama_analyze.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama_analyze.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i
 .PHONY : ago/ago_drama_analyze.cpp.i
 
 ago/ago_drama_analyze.s: ago/ago_drama_analyze.cpp.s
@@ -249,7 +249,7 @@ ago/ago_drama_analyze.s: ago/ago_drama_analyze.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama_analyze.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s
 .PHONY : ago/ago_drama_analyze.cpp.s
 
 ago/ago_drama_divide.o: ago/ago_drama_divide.cpp.o
@@ -258,7 +258,7 @@ ago/ago_drama_divide.o: ago/ago_drama_divide.cpp.o
 
 # target to build an object file
 ago/ago_drama_divide.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o
 .PHONY : ago/ago_drama_divide.cpp.o
 
 ago/ago_drama_divide.i: ago/ago_drama_divide.cpp.i
@@ -267,7 +267,7 @@ ago/ago_drama_divide.i: ago/ago_drama_divide.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama_divide.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i
 .PHONY : ago/ago_drama_divide.cpp.i
 
 ago/ago_drama_divide.s: ago/ago_drama_divide.cpp.s
@@ -276,7 +276,7 @@ ago/ago_drama_divide.s: ago/ago_drama_divide.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama_divide.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s
 .PHONY : ago/ago_drama_divide.cpp.s
 
 ago/ago_drama_merge.o: ago/ago_drama_merge.cpp.o
@@ -285,7 +285,7 @@ ago/ago_drama_merge.o: ago/ago_drama_merge.cpp.o
 
 # target to build an object file
 ago/ago_drama_merge.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o
 .PHONY : ago/ago_drama_merge.cpp.o
 
 ago/ago_drama_merge.i: ago/ago_drama_merge.cpp.i
@@ -294,7 +294,7 @@ ago/ago_drama_merge.i: ago/ago_drama_merge.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama_merge.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i
 .PHONY : ago/ago_drama_merge.cpp.i
 
 ago/ago_drama_merge.s: ago/ago_drama_merge.cpp.s
@@ -303,7 +303,7 @@ ago/ago_drama_merge.s: ago/ago_drama_merge.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama_merge.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s
 .PHONY : ago/ago_drama_merge.cpp.s
 
 ago/ago_drama_remove.o: ago/ago_drama_remove.cpp.o
@@ -312,7 +312,7 @@ ago/ago_drama_remove.o: ago/ago_drama_remove.cpp.o
 
 # target to build an object file
 ago/ago_drama_remove.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o
 .PHONY : ago/ago_drama_remove.cpp.o
 
 ago/ago_drama_remove.i: ago/ago_drama_remove.cpp.i
@@ -321,7 +321,7 @@ ago/ago_drama_remove.i: ago/ago_drama_remove.cpp.i
 
 # target to preprocess a source file
 ago/ago_drama_remove.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i
 .PHONY : ago/ago_drama_remove.cpp.i
 
 ago/ago_drama_remove.s: ago/ago_drama_remove.cpp.s
@@ -330,7 +330,7 @@ ago/ago_drama_remove.s: ago/ago_drama_remove.cpp.s
 
 # target to generate assembly for a file
 ago/ago_drama_remove.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s
 .PHONY : ago/ago_drama_remove.cpp.s
 
 ago/ago_haf_cpu.o: ago/ago_haf_cpu.cpp.o
@@ -339,7 +339,7 @@ ago/ago_haf_cpu.o: ago/ago_haf_cpu.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o
 .PHONY : ago/ago_haf_cpu.cpp.o
 
 ago/ago_haf_cpu.i: ago/ago_haf_cpu.cpp.i
@@ -348,7 +348,7 @@ ago/ago_haf_cpu.i: ago/ago_haf_cpu.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i
 .PHONY : ago/ago_haf_cpu.cpp.i
 
 ago/ago_haf_cpu.s: ago/ago_haf_cpu.cpp.s
@@ -357,7 +357,7 @@ ago/ago_haf_cpu.s: ago/ago_haf_cpu.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s
 .PHONY : ago/ago_haf_cpu.cpp.s
 
 ago/ago_haf_cpu_arithmetic.o: ago/ago_haf_cpu_arithmetic.cpp.o
@@ -366,7 +366,7 @@ ago/ago_haf_cpu_arithmetic.o: ago/ago_haf_cpu_arithmetic.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_arithmetic.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o
 .PHONY : ago/ago_haf_cpu_arithmetic.cpp.o
 
 ago/ago_haf_cpu_arithmetic.i: ago/ago_haf_cpu_arithmetic.cpp.i
@@ -375,7 +375,7 @@ ago/ago_haf_cpu_arithmetic.i: ago/ago_haf_cpu_arithmetic.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_arithmetic.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i
 .PHONY : ago/ago_haf_cpu_arithmetic.cpp.i
 
 ago/ago_haf_cpu_arithmetic.s: ago/ago_haf_cpu_arithmetic.cpp.s
@@ -384,7 +384,7 @@ ago/ago_haf_cpu_arithmetic.s: ago/ago_haf_cpu_arithmetic.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_arithmetic.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s
 .PHONY : ago/ago_haf_cpu_arithmetic.cpp.s
 
 ago/ago_haf_cpu_canny.o: ago/ago_haf_cpu_canny.cpp.o
@@ -393,7 +393,7 @@ ago/ago_haf_cpu_canny.o: ago/ago_haf_cpu_canny.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_canny.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o
 .PHONY : ago/ago_haf_cpu_canny.cpp.o
 
 ago/ago_haf_cpu_canny.i: ago/ago_haf_cpu_canny.cpp.i
@@ -402,7 +402,7 @@ ago/ago_haf_cpu_canny.i: ago/ago_haf_cpu_canny.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_canny.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i
 .PHONY : ago/ago_haf_cpu_canny.cpp.i
 
 ago/ago_haf_cpu_canny.s: ago/ago_haf_cpu_canny.cpp.s
@@ -411,7 +411,7 @@ ago/ago_haf_cpu_canny.s: ago/ago_haf_cpu_canny.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_canny.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s
 .PHONY : ago/ago_haf_cpu_canny.cpp.s
 
 ago/ago_haf_cpu_ch_extract_combine.o: ago/ago_haf_cpu_ch_extract_combine.cpp.o
@@ -420,7 +420,7 @@ ago/ago_haf_cpu_ch_extract_combine.o: ago/ago_haf_cpu_ch_extract_combine.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_ch_extract_combine.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o
 .PHONY : ago/ago_haf_cpu_ch_extract_combine.cpp.o
 
 ago/ago_haf_cpu_ch_extract_combine.i: ago/ago_haf_cpu_ch_extract_combine.cpp.i
@@ -429,7 +429,7 @@ ago/ago_haf_cpu_ch_extract_combine.i: ago/ago_haf_cpu_ch_extract_combine.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_ch_extract_combine.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i
 .PHONY : ago/ago_haf_cpu_ch_extract_combine.cpp.i
 
 ago/ago_haf_cpu_ch_extract_combine.s: ago/ago_haf_cpu_ch_extract_combine.cpp.s
@@ -438,7 +438,7 @@ ago/ago_haf_cpu_ch_extract_combine.s: ago/ago_haf_cpu_ch_extract_combine.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_ch_extract_combine.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s
 .PHONY : ago/ago_haf_cpu_ch_extract_combine.cpp.s
 
 ago/ago_haf_cpu_color_convert.o: ago/ago_haf_cpu_color_convert.cpp.o
@@ -447,7 +447,7 @@ ago/ago_haf_cpu_color_convert.o: ago/ago_haf_cpu_color_convert.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_color_convert.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o
 .PHONY : ago/ago_haf_cpu_color_convert.cpp.o
 
 ago/ago_haf_cpu_color_convert.i: ago/ago_haf_cpu_color_convert.cpp.i
@@ -456,7 +456,7 @@ ago/ago_haf_cpu_color_convert.i: ago/ago_haf_cpu_color_convert.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_color_convert.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i
 .PHONY : ago/ago_haf_cpu_color_convert.cpp.i
 
 ago/ago_haf_cpu_color_convert.s: ago/ago_haf_cpu_color_convert.cpp.s
@@ -465,7 +465,7 @@ ago/ago_haf_cpu_color_convert.s: ago/ago_haf_cpu_color_convert.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_color_convert.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s
 .PHONY : ago/ago_haf_cpu_color_convert.cpp.s
 
 ago/ago_haf_cpu_fast_corners.o: ago/ago_haf_cpu_fast_corners.cpp.o
@@ -474,7 +474,7 @@ ago/ago_haf_cpu_fast_corners.o: ago/ago_haf_cpu_fast_corners.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_fast_corners.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o
 .PHONY : ago/ago_haf_cpu_fast_corners.cpp.o
 
 ago/ago_haf_cpu_fast_corners.i: ago/ago_haf_cpu_fast_corners.cpp.i
@@ -483,7 +483,7 @@ ago/ago_haf_cpu_fast_corners.i: ago/ago_haf_cpu_fast_corners.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_fast_corners.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i
 .PHONY : ago/ago_haf_cpu_fast_corners.cpp.i
 
 ago/ago_haf_cpu_fast_corners.s: ago/ago_haf_cpu_fast_corners.cpp.s
@@ -492,7 +492,7 @@ ago/ago_haf_cpu_fast_corners.s: ago/ago_haf_cpu_fast_corners.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_fast_corners.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s
 .PHONY : ago/ago_haf_cpu_fast_corners.cpp.s
 
 ago/ago_haf_cpu_filter.o: ago/ago_haf_cpu_filter.cpp.o
@@ -501,7 +501,7 @@ ago/ago_haf_cpu_filter.o: ago/ago_haf_cpu_filter.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_filter.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o
 .PHONY : ago/ago_haf_cpu_filter.cpp.o
 
 ago/ago_haf_cpu_filter.i: ago/ago_haf_cpu_filter.cpp.i
@@ -510,7 +510,7 @@ ago/ago_haf_cpu_filter.i: ago/ago_haf_cpu_filter.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_filter.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i
 .PHONY : ago/ago_haf_cpu_filter.cpp.i
 
 ago/ago_haf_cpu_filter.s: ago/ago_haf_cpu_filter.cpp.s
@@ -519,7 +519,7 @@ ago/ago_haf_cpu_filter.s: ago/ago_haf_cpu_filter.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_filter.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s
 .PHONY : ago/ago_haf_cpu_filter.cpp.s
 
 ago/ago_haf_cpu_geometric.o: ago/ago_haf_cpu_geometric.cpp.o
@@ -528,7 +528,7 @@ ago/ago_haf_cpu_geometric.o: ago/ago_haf_cpu_geometric.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_geometric.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o
 .PHONY : ago/ago_haf_cpu_geometric.cpp.o
 
 ago/ago_haf_cpu_geometric.i: ago/ago_haf_cpu_geometric.cpp.i
@@ -537,7 +537,7 @@ ago/ago_haf_cpu_geometric.i: ago/ago_haf_cpu_geometric.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_geometric.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i
 .PHONY : ago/ago_haf_cpu_geometric.cpp.i
 
 ago/ago_haf_cpu_geometric.s: ago/ago_haf_cpu_geometric.cpp.s
@@ -546,7 +546,7 @@ ago/ago_haf_cpu_geometric.s: ago/ago_haf_cpu_geometric.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_geometric.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s
 .PHONY : ago/ago_haf_cpu_geometric.cpp.s
 
 ago/ago_haf_cpu_harris.o: ago/ago_haf_cpu_harris.cpp.o
@@ -555,7 +555,7 @@ ago/ago_haf_cpu_harris.o: ago/ago_haf_cpu_harris.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_harris.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o
 .PHONY : ago/ago_haf_cpu_harris.cpp.o
 
 ago/ago_haf_cpu_harris.i: ago/ago_haf_cpu_harris.cpp.i
@@ -564,7 +564,7 @@ ago/ago_haf_cpu_harris.i: ago/ago_haf_cpu_harris.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_harris.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i
 .PHONY : ago/ago_haf_cpu_harris.cpp.i
 
 ago/ago_haf_cpu_harris.s: ago/ago_haf_cpu_harris.cpp.s
@@ -573,7 +573,7 @@ ago/ago_haf_cpu_harris.s: ago/ago_haf_cpu_harris.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_harris.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s
 .PHONY : ago/ago_haf_cpu_harris.cpp.s
 
 ago/ago_haf_cpu_histogram.o: ago/ago_haf_cpu_histogram.cpp.o
@@ -582,7 +582,7 @@ ago/ago_haf_cpu_histogram.o: ago/ago_haf_cpu_histogram.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_histogram.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o
 .PHONY : ago/ago_haf_cpu_histogram.cpp.o
 
 ago/ago_haf_cpu_histogram.i: ago/ago_haf_cpu_histogram.cpp.i
@@ -591,7 +591,7 @@ ago/ago_haf_cpu_histogram.i: ago/ago_haf_cpu_histogram.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_histogram.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i
 .PHONY : ago/ago_haf_cpu_histogram.cpp.i
 
 ago/ago_haf_cpu_histogram.s: ago/ago_haf_cpu_histogram.cpp.s
@@ -600,7 +600,7 @@ ago/ago_haf_cpu_histogram.s: ago/ago_haf_cpu_histogram.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_histogram.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s
 .PHONY : ago/ago_haf_cpu_histogram.cpp.s
 
 ago/ago_haf_cpu_logical.o: ago/ago_haf_cpu_logical.cpp.o
@@ -609,7 +609,7 @@ ago/ago_haf_cpu_logical.o: ago/ago_haf_cpu_logical.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_logical.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o
 .PHONY : ago/ago_haf_cpu_logical.cpp.o
 
 ago/ago_haf_cpu_logical.i: ago/ago_haf_cpu_logical.cpp.i
@@ -618,7 +618,7 @@ ago/ago_haf_cpu_logical.i: ago/ago_haf_cpu_logical.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_logical.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i
 .PHONY : ago/ago_haf_cpu_logical.cpp.i
 
 ago/ago_haf_cpu_logical.s: ago/ago_haf_cpu_logical.cpp.s
@@ -627,7 +627,7 @@ ago/ago_haf_cpu_logical.s: ago/ago_haf_cpu_logical.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_logical.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s
 .PHONY : ago/ago_haf_cpu_logical.cpp.s
 
 ago/ago_haf_cpu_opticalflow.o: ago/ago_haf_cpu_opticalflow.cpp.o
@@ -636,7 +636,7 @@ ago/ago_haf_cpu_opticalflow.o: ago/ago_haf_cpu_opticalflow.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_opticalflow.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o
 .PHONY : ago/ago_haf_cpu_opticalflow.cpp.o
 
 ago/ago_haf_cpu_opticalflow.i: ago/ago_haf_cpu_opticalflow.cpp.i
@@ -645,7 +645,7 @@ ago/ago_haf_cpu_opticalflow.i: ago/ago_haf_cpu_opticalflow.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_opticalflow.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i
 .PHONY : ago/ago_haf_cpu_opticalflow.cpp.i
 
 ago/ago_haf_cpu_opticalflow.s: ago/ago_haf_cpu_opticalflow.cpp.s
@@ -654,7 +654,7 @@ ago/ago_haf_cpu_opticalflow.s: ago/ago_haf_cpu_opticalflow.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_opticalflow.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s
 .PHONY : ago/ago_haf_cpu_opticalflow.cpp.s
 
 ago/ago_haf_cpu_pyramid.o: ago/ago_haf_cpu_pyramid.cpp.o
@@ -663,7 +663,7 @@ ago/ago_haf_cpu_pyramid.o: ago/ago_haf_cpu_pyramid.cpp.o
 
 # target to build an object file
 ago/ago_haf_cpu_pyramid.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o
 .PHONY : ago/ago_haf_cpu_pyramid.cpp.o
 
 ago/ago_haf_cpu_pyramid.i: ago/ago_haf_cpu_pyramid.cpp.i
@@ -672,7 +672,7 @@ ago/ago_haf_cpu_pyramid.i: ago/ago_haf_cpu_pyramid.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_cpu_pyramid.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i
 .PHONY : ago/ago_haf_cpu_pyramid.cpp.i
 
 ago/ago_haf_cpu_pyramid.s: ago/ago_haf_cpu_pyramid.cpp.s
@@ -681,7 +681,7 @@ ago/ago_haf_cpu_pyramid.s: ago/ago_haf_cpu_pyramid.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_cpu_pyramid.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s
 .PHONY : ago/ago_haf_cpu_pyramid.cpp.s
 
 ago/ago_haf_gpu_common.o: ago/ago_haf_gpu_common.cpp.o
@@ -690,7 +690,7 @@ ago/ago_haf_gpu_common.o: ago/ago_haf_gpu_common.cpp.o
 
 # target to build an object file
 ago/ago_haf_gpu_common.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o
 .PHONY : ago/ago_haf_gpu_common.cpp.o
 
 ago/ago_haf_gpu_common.i: ago/ago_haf_gpu_common.cpp.i
@@ -699,7 +699,7 @@ ago/ago_haf_gpu_common.i: ago/ago_haf_gpu_common.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_gpu_common.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i
 .PHONY : ago/ago_haf_gpu_common.cpp.i
 
 ago/ago_haf_gpu_common.s: ago/ago_haf_gpu_common.cpp.s
@@ -708,7 +708,7 @@ ago/ago_haf_gpu_common.s: ago/ago_haf_gpu_common.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_gpu_common.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s
 .PHONY : ago/ago_haf_gpu_common.cpp.s
 
 ago/ago_haf_gpu_conversion.o: ago/ago_haf_gpu_conversion.cpp.o
@@ -717,7 +717,7 @@ ago/ago_haf_gpu_conversion.o: ago/ago_haf_gpu_conversion.cpp.o
 
 # target to build an object file
 ago/ago_haf_gpu_conversion.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o
 .PHONY : ago/ago_haf_gpu_conversion.cpp.o
 
 ago/ago_haf_gpu_conversion.i: ago/ago_haf_gpu_conversion.cpp.i
@@ -726,7 +726,7 @@ ago/ago_haf_gpu_conversion.i: ago/ago_haf_gpu_conversion.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_gpu_conversion.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i
 .PHONY : ago/ago_haf_gpu_conversion.cpp.i
 
 ago/ago_haf_gpu_conversion.s: ago/ago_haf_gpu_conversion.cpp.s
@@ -735,7 +735,7 @@ ago/ago_haf_gpu_conversion.s: ago/ago_haf_gpu_conversion.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_gpu_conversion.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s
 .PHONY : ago/ago_haf_gpu_conversion.cpp.s
 
 ago/ago_haf_gpu_corners.o: ago/ago_haf_gpu_corners.cpp.o
@@ -744,7 +744,7 @@ ago/ago_haf_gpu_corners.o: ago/ago_haf_gpu_corners.cpp.o
 
 # target to build an object file
 ago/ago_haf_gpu_corners.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o
 .PHONY : ago/ago_haf_gpu_corners.cpp.o
 
 ago/ago_haf_gpu_corners.i: ago/ago_haf_gpu_corners.cpp.i
@@ -753,7 +753,7 @@ ago/ago_haf_gpu_corners.i: ago/ago_haf_gpu_corners.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_gpu_corners.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i
 .PHONY : ago/ago_haf_gpu_corners.cpp.i
 
 ago/ago_haf_gpu_corners.s: ago/ago_haf_gpu_corners.cpp.s
@@ -762,7 +762,7 @@ ago/ago_haf_gpu_corners.s: ago/ago_haf_gpu_corners.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_gpu_corners.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s
 .PHONY : ago/ago_haf_gpu_corners.cpp.s
 
 ago/ago_haf_gpu_linear_filter.o: ago/ago_haf_gpu_linear_filter.cpp.o
@@ -771,7 +771,7 @@ ago/ago_haf_gpu_linear_filter.o: ago/ago_haf_gpu_linear_filter.cpp.o
 
 # target to build an object file
 ago/ago_haf_gpu_linear_filter.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o
 .PHONY : ago/ago_haf_gpu_linear_filter.cpp.o
 
 ago/ago_haf_gpu_linear_filter.i: ago/ago_haf_gpu_linear_filter.cpp.i
@@ -780,7 +780,7 @@ ago/ago_haf_gpu_linear_filter.i: ago/ago_haf_gpu_linear_filter.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_gpu_linear_filter.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i
 .PHONY : ago/ago_haf_gpu_linear_filter.cpp.i
 
 ago/ago_haf_gpu_linear_filter.s: ago/ago_haf_gpu_linear_filter.cpp.s
@@ -789,7 +789,7 @@ ago/ago_haf_gpu_linear_filter.s: ago/ago_haf_gpu_linear_filter.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_gpu_linear_filter.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s
 .PHONY : ago/ago_haf_gpu_linear_filter.cpp.s
 
 ago/ago_haf_gpu_special_filters.o: ago/ago_haf_gpu_special_filters.cpp.o
@@ -798,7 +798,7 @@ ago/ago_haf_gpu_special_filters.o: ago/ago_haf_gpu_special_filters.cpp.o
 
 # target to build an object file
 ago/ago_haf_gpu_special_filters.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o
 .PHONY : ago/ago_haf_gpu_special_filters.cpp.o
 
 ago/ago_haf_gpu_special_filters.i: ago/ago_haf_gpu_special_filters.cpp.i
@@ -807,7 +807,7 @@ ago/ago_haf_gpu_special_filters.i: ago/ago_haf_gpu_special_filters.cpp.i
 
 # target to preprocess a source file
 ago/ago_haf_gpu_special_filters.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i
 .PHONY : ago/ago_haf_gpu_special_filters.cpp.i
 
 ago/ago_haf_gpu_special_filters.s: ago/ago_haf_gpu_special_filters.cpp.s
@@ -816,7 +816,7 @@ ago/ago_haf_gpu_special_filters.s: ago/ago_haf_gpu_special_filters.cpp.s
 
 # target to generate assembly for a file
 ago/ago_haf_gpu_special_filters.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s
 .PHONY : ago/ago_haf_gpu_special_filters.cpp.s
 
 ago/ago_interface.o: ago/ago_interface.cpp.o
@@ -825,7 +825,7 @@ ago/ago_interface.o: ago/ago_interface.cpp.o
 
 # target to build an object file
 ago/ago_interface.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o
 .PHONY : ago/ago_interface.cpp.o
 
 ago/ago_interface.i: ago/ago_interface.cpp.i
@@ -834,7 +834,7 @@ ago/ago_interface.i: ago/ago_interface.cpp.i
 
 # target to preprocess a source file
 ago/ago_interface.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.i
 .PHONY : ago/ago_interface.cpp.i
 
 ago/ago_interface.s: ago/ago_interface.cpp.s
@@ -843,7 +843,7 @@ ago/ago_interface.s: ago/ago_interface.cpp.s
 
 # target to generate assembly for a file
 ago/ago_interface.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.s
 .PHONY : ago/ago_interface.cpp.s
 
 ago/ago_kernel_api.o: ago/ago_kernel_api.cpp.o
@@ -852,7 +852,7 @@ ago/ago_kernel_api.o: ago/ago_kernel_api.cpp.o
 
 # target to build an object file
 ago/ago_kernel_api.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o
 .PHONY : ago/ago_kernel_api.cpp.o
 
 ago/ago_kernel_api.i: ago/ago_kernel_api.cpp.i
@@ -861,7 +861,7 @@ ago/ago_kernel_api.i: ago/ago_kernel_api.cpp.i
 
 # target to preprocess a source file
 ago/ago_kernel_api.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i
 .PHONY : ago/ago_kernel_api.cpp.i
 
 ago/ago_kernel_api.s: ago/ago_kernel_api.cpp.s
@@ -870,7 +870,7 @@ ago/ago_kernel_api.s: ago/ago_kernel_api.cpp.s
 
 # target to generate assembly for a file
 ago/ago_kernel_api.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s
 .PHONY : ago/ago_kernel_api.cpp.s
 
 ago/ago_kernel_list.o: ago/ago_kernel_list.cpp.o
@@ -879,7 +879,7 @@ ago/ago_kernel_list.o: ago/ago_kernel_list.cpp.o
 
 # target to build an object file
 ago/ago_kernel_list.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o
 .PHONY : ago/ago_kernel_list.cpp.o
 
 ago/ago_kernel_list.i: ago/ago_kernel_list.cpp.i
@@ -888,7 +888,7 @@ ago/ago_kernel_list.i: ago/ago_kernel_list.cpp.i
 
 # target to preprocess a source file
 ago/ago_kernel_list.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i
 .PHONY : ago/ago_kernel_list.cpp.i
 
 ago/ago_kernel_list.s: ago/ago_kernel_list.cpp.s
@@ -897,7 +897,7 @@ ago/ago_kernel_list.s: ago/ago_kernel_list.cpp.s
 
 # target to generate assembly for a file
 ago/ago_kernel_list.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s
 .PHONY : ago/ago_kernel_list.cpp.s
 
 ago/ago_platform.o: ago/ago_platform.cpp.o
@@ -906,7 +906,7 @@ ago/ago_platform.o: ago/ago_platform.cpp.o
 
 # target to build an object file
 ago/ago_platform.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o
 .PHONY : ago/ago_platform.cpp.o
 
 ago/ago_platform.i: ago/ago_platform.cpp.i
@@ -915,7 +915,7 @@ ago/ago_platform.i: ago/ago_platform.cpp.i
 
 # target to preprocess a source file
 ago/ago_platform.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.i
 .PHONY : ago/ago_platform.cpp.i
 
 ago/ago_platform.s: ago/ago_platform.cpp.s
@@ -924,7 +924,7 @@ ago/ago_platform.s: ago/ago_platform.cpp.s
 
 # target to generate assembly for a file
 ago/ago_platform.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.s
 .PHONY : ago/ago_platform.cpp.s
 
 ago/ago_util.o: ago/ago_util.cpp.o
@@ -933,7 +933,7 @@ ago/ago_util.o: ago/ago_util.cpp.o
 
 # target to build an object file
 ago/ago_util.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o
 .PHONY : ago/ago_util.cpp.o
 
 ago/ago_util.i: ago/ago_util.cpp.i
@@ -942,7 +942,7 @@ ago/ago_util.i: ago/ago_util.cpp.i
 
 # target to preprocess a source file
 ago/ago_util.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.i
 .PHONY : ago/ago_util.cpp.i
 
 ago/ago_util.s: ago/ago_util.cpp.s
@@ -951,7 +951,7 @@ ago/ago_util.s: ago/ago_util.cpp.s
 
 # target to generate assembly for a file
 ago/ago_util.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.s
 .PHONY : ago/ago_util.cpp.s
 
 ago/ago_util_opencl.o: ago/ago_util_opencl.cpp.o
@@ -960,7 +960,7 @@ ago/ago_util_opencl.o: ago/ago_util_opencl.cpp.o
 
 # target to build an object file
 ago/ago_util_opencl.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o
 .PHONY : ago/ago_util_opencl.cpp.o
 
 ago/ago_util_opencl.i: ago/ago_util_opencl.cpp.i
@@ -969,7 +969,7 @@ ago/ago_util_opencl.i: ago/ago_util_opencl.cpp.i
 
 # target to preprocess a source file
 ago/ago_util_opencl.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i
 .PHONY : ago/ago_util_opencl.cpp.i
 
 ago/ago_util_opencl.s: ago/ago_util_opencl.cpp.s
@@ -978,7 +978,7 @@ ago/ago_util_opencl.s: ago/ago_util_opencl.cpp.s
 
 # target to generate assembly for a file
 ago/ago_util_opencl.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s
 .PHONY : ago/ago_util_opencl.cpp.s
 
 api/vx_api.o: api/vx_api.cpp.o
@@ -987,7 +987,7 @@ api/vx_api.o: api/vx_api.cpp.o
 
 # target to build an object file
 api/vx_api.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o
 .PHONY : api/vx_api.cpp.o
 
 api/vx_api.i: api/vx_api.cpp.i
@@ -996,7 +996,7 @@ api/vx_api.i: api/vx_api.cpp.i
 
 # target to preprocess a source file
 api/vx_api.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.i
 .PHONY : api/vx_api.cpp.i
 
 api/vx_api.s: api/vx_api.cpp.s
@@ -1005,7 +1005,7 @@ api/vx_api.s: api/vx_api.cpp.s
 
 # target to generate assembly for a file
 api/vx_api.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.s
 .PHONY : api/vx_api.cpp.s
 
 api/vx_nodes.o: api/vx_nodes.cpp.o
@@ -1014,7 +1014,7 @@ api/vx_nodes.o: api/vx_nodes.cpp.o
 
 # target to build an object file
 api/vx_nodes.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o
 .PHONY : api/vx_nodes.cpp.o
 
 api/vx_nodes.i: api/vx_nodes.cpp.i
@@ -1023,7 +1023,7 @@ api/vx_nodes.i: api/vx_nodes.cpp.i
 
 # target to preprocess a source file
 api/vx_nodes.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.i
 .PHONY : api/vx_nodes.cpp.i
 
 api/vx_nodes.s: api/vx_nodes.cpp.s
@@ -1032,7 +1032,7 @@ api/vx_nodes.s: api/vx_nodes.cpp.s
 
 # target to generate assembly for a file
 api/vx_nodes.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.s
 .PHONY : api/vx_nodes.cpp.s
 
 api/vxu.o: api/vxu.cpp.o
@@ -1041,7 +1041,7 @@ api/vxu.o: api/vxu.cpp.o
 
 # target to build an object file
 api/vxu.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o
 .PHONY : api/vxu.cpp.o
 
 api/vxu.i: api/vxu.cpp.i
@@ -1050,7 +1050,7 @@ api/vxu.i: api/vxu.cpp.i
 
 # target to preprocess a source file
 api/vxu.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.i
 .PHONY : api/vxu.cpp.i
 
 api/vxu.s: api/vxu.cpp.s
@@ -1059,7 +1059,7 @@ api/vxu.s: api/vxu.cpp.s
 
 # target to generate assembly for a file
 api/vxu.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f openvx/CMakeFiles/openvx.dir/build.make openvx/CMakeFiles/openvx.dir/api/vxu.cpp.s
 .PHONY : api/vxu.cpp.s
 
 # Help Target
@@ -1185,6 +1185,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

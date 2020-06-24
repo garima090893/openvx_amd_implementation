@@ -141,12 +141,12 @@ runvx/CMakeFiles/runvx.dir/runvx.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -296,11 +296,11 @@ runvx/CMakeFiles/runvx.dir/vxArray.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -450,11 +450,11 @@ runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -604,11 +604,11 @@ runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -758,12 +758,12 @@ runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -774,8 +774,8 @@ runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o
  runvx/../openvx/include/VX/vx_vendors.h
  runvx/../openvx/include/vx_ext_amd.h
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.h
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.o
  /home/venomfate/opencv/build/cv_cpu_config.h
  /home/venomfate/opencv/build/cvconfig.h
@@ -916,11 +916,11 @@ runvx/CMakeFiles/runvx.dir/vxImage.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1070,11 +1070,11 @@ runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1224,11 +1224,11 @@ runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1378,9 +1378,9 @@ runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1530,21 +1530,21 @@ runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1694,11 +1694,11 @@ runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -1848,11 +1848,11 @@ runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -2002,11 +2002,11 @@ runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -2156,11 +2156,11 @@ runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -2310,11 +2310,11 @@ runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.h
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h
@@ -2464,8 +2464,8 @@ runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/stabilizer.hpp
  /home/venomfate/opencv/modules/videostab/include/opencv2/videostab/wobble_suppression.hpp
  /home/venomfate/opencv_contrib/modules/xfeatures2d/include/opencv2/xfeatures2d/cuda.hpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp
- /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.h
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp
+ /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.h
  runvx/../openvx/include/VX/vx.h
  runvx/../openvx/include/VX/vx_api.h
  runvx/../openvx/include/VX/vx_compatibility.h

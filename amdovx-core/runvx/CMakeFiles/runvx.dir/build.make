@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # Include any dependencies generated for this target.
 include runvx/CMakeFiles/runvx.dir/depend.make
@@ -59,16 +59,16 @@ include runvx/CMakeFiles/runvx.dir/flags.make
 
 runvx/CMakeFiles/runvx.dir/runvx.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/runvx.cpp.o: runvx/runvx.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object runvx/CMakeFiles/runvx.dir/runvx.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/runvx.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object runvx/CMakeFiles/runvx.dir/runvx.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/runvx.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp
 
 runvx/CMakeFiles/runvx.dir/runvx.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/runvx.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp > CMakeFiles/runvx.dir/runvx.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp > CMakeFiles/runvx.dir/runvx.cpp.i
 
 runvx/CMakeFiles/runvx.dir/runvx.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/runvx.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp -o CMakeFiles/runvx.dir/runvx.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp -o CMakeFiles/runvx.dir/runvx.cpp.s
 
 runvx/CMakeFiles/runvx.dir/runvx.cpp.o.requires:
 
@@ -83,16 +83,16 @@ runvx/CMakeFiles/runvx.dir/runvx.cpp.o.provides.build: runvx/CMakeFiles/runvx.di
 
 runvx/CMakeFiles/runvx.dir/vxArray.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxArray.cpp.o: runvx/vxArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object runvx/CMakeFiles/runvx.dir/vxArray.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxArray.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object runvx/CMakeFiles/runvx.dir/vxArray.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxArray.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp
 
 runvx/CMakeFiles/runvx.dir/vxArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxArray.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp > CMakeFiles/runvx.dir/vxArray.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp > CMakeFiles/runvx.dir/vxArray.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxArray.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp -o CMakeFiles/runvx.dir/vxArray.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp -o CMakeFiles/runvx.dir/vxArray.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxArray.cpp.o.requires:
 
@@ -107,16 +107,16 @@ runvx/CMakeFiles/runvx.dir/vxArray.cpp.o.provides.build: runvx/CMakeFiles/runvx.
 
 runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o: runvx/vxConvolution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxConvolution.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxConvolution.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp
 
 runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxConvolution.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp > CMakeFiles/runvx.dir/vxConvolution.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp > CMakeFiles/runvx.dir/vxConvolution.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxConvolution.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp -o CMakeFiles/runvx.dir/vxConvolution.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp -o CMakeFiles/runvx.dir/vxConvolution.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o.requires:
 
@@ -131,16 +131,16 @@ runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o.provides.build: runvx/CMakeFiles/
 
 runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o: runvx/vxDistribution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxDistribution.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxDistribution.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp
 
 runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxDistribution.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp > CMakeFiles/runvx.dir/vxDistribution.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp > CMakeFiles/runvx.dir/vxDistribution.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxDistribution.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp -o CMakeFiles/runvx.dir/vxDistribution.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp -o CMakeFiles/runvx.dir/vxDistribution.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o.requires:
 
@@ -155,16 +155,16 @@ runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o.provides.build: runvx/CMakeFiles
 
 runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o: runvx/vxEngine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxEngine.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxEngine.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp
 
 runvx/CMakeFiles/runvx.dir/vxEngine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxEngine.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp > CMakeFiles/runvx.dir/vxEngine.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp > CMakeFiles/runvx.dir/vxEngine.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxEngine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxEngine.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp -o CMakeFiles/runvx.dir/vxEngine.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp -o CMakeFiles/runvx.dir/vxEngine.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o.requires:
 
@@ -179,16 +179,16 @@ runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o.provides.build: runvx/CMakeFiles/runvx
 
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o: runvx/vxEngineUtil.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxEngineUtil.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxEngineUtil.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp
 
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxEngineUtil.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp > CMakeFiles/runvx.dir/vxEngineUtil.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp > CMakeFiles/runvx.dir/vxEngineUtil.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxEngineUtil.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp -o CMakeFiles/runvx.dir/vxEngineUtil.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp -o CMakeFiles/runvx.dir/vxEngineUtil.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o.requires:
 
@@ -203,16 +203,16 @@ runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o.provides.build: runvx/CMakeFiles/r
 
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.o: runvx/vxImage.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object runvx/CMakeFiles/runvx.dir/vxImage.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxImage.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object runvx/CMakeFiles/runvx.dir/vxImage.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxImage.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp
 
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxImage.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp > CMakeFiles/runvx.dir/vxImage.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp > CMakeFiles/runvx.dir/vxImage.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxImage.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp -o CMakeFiles/runvx.dir/vxImage.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp -o CMakeFiles/runvx.dir/vxImage.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxImage.cpp.o.requires:
 
@@ -227,16 +227,16 @@ runvx/CMakeFiles/runvx.dir/vxImage.cpp.o.provides.build: runvx/CMakeFiles/runvx.
 
 runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o: runvx/vxLUT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxLUT.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxLUT.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp
 
 runvx/CMakeFiles/runvx.dir/vxLUT.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxLUT.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp > CMakeFiles/runvx.dir/vxLUT.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp > CMakeFiles/runvx.dir/vxLUT.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxLUT.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxLUT.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp -o CMakeFiles/runvx.dir/vxLUT.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp -o CMakeFiles/runvx.dir/vxLUT.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o.requires:
 
@@ -251,16 +251,16 @@ runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o.provides.build: runvx/CMakeFiles/runvx.di
 
 runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o: runvx/vxMatrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxMatrix.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxMatrix.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp
 
 runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxMatrix.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp > CMakeFiles/runvx.dir/vxMatrix.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp > CMakeFiles/runvx.dir/vxMatrix.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxMatrix.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp -o CMakeFiles/runvx.dir/vxMatrix.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp -o CMakeFiles/runvx.dir/vxMatrix.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o.requires:
 
@@ -275,16 +275,16 @@ runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o.provides.build: runvx/CMakeFiles/runvx
 
 runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o: runvx/vxParameter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxParameter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxParameter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp
 
 runvx/CMakeFiles/runvx.dir/vxParameter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxParameter.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp > CMakeFiles/runvx.dir/vxParameter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp > CMakeFiles/runvx.dir/vxParameter.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxParameter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxParameter.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp -o CMakeFiles/runvx.dir/vxParameter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp -o CMakeFiles/runvx.dir/vxParameter.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o.requires:
 
@@ -299,16 +299,16 @@ runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o.provides.build: runvx/CMakeFiles/ru
 
 runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o: runvx/vxParamHelper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxParamHelper.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxParamHelper.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp
 
 runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxParamHelper.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp > CMakeFiles/runvx.dir/vxParamHelper.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp > CMakeFiles/runvx.dir/vxParamHelper.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxParamHelper.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp -o CMakeFiles/runvx.dir/vxParamHelper.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp -o CMakeFiles/runvx.dir/vxParamHelper.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o.requires:
 
@@ -323,16 +323,16 @@ runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o.provides.build: runvx/CMakeFiles/
 
 runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o: runvx/vxPyramid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxPyramid.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxPyramid.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp
 
 runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxPyramid.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp > CMakeFiles/runvx.dir/vxPyramid.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp > CMakeFiles/runvx.dir/vxPyramid.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxPyramid.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp -o CMakeFiles/runvx.dir/vxPyramid.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp -o CMakeFiles/runvx.dir/vxPyramid.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o.requires:
 
@@ -347,16 +347,16 @@ runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o.provides.build: runvx/CMakeFiles/runv
 
 runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o: runvx/vxRemap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxRemap.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxRemap.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp
 
 runvx/CMakeFiles/runvx.dir/vxRemap.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxRemap.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp > CMakeFiles/runvx.dir/vxRemap.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp > CMakeFiles/runvx.dir/vxRemap.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxRemap.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxRemap.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp -o CMakeFiles/runvx.dir/vxRemap.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp -o CMakeFiles/runvx.dir/vxRemap.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o.requires:
 
@@ -371,16 +371,16 @@ runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o.provides.build: runvx/CMakeFiles/runvx.
 
 runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o: runvx/vxScalar.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxScalar.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxScalar.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp
 
 runvx/CMakeFiles/runvx.dir/vxScalar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxScalar.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp > CMakeFiles/runvx.dir/vxScalar.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp > CMakeFiles/runvx.dir/vxScalar.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxScalar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxScalar.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp -o CMakeFiles/runvx.dir/vxScalar.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp -o CMakeFiles/runvx.dir/vxScalar.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o.requires:
 
@@ -395,16 +395,16 @@ runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o.provides.build: runvx/CMakeFiles/runvx
 
 runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o: runvx/vxThreshold.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxThreshold.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxThreshold.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp
 
 runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxThreshold.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp > CMakeFiles/runvx.dir/vxThreshold.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp > CMakeFiles/runvx.dir/vxThreshold.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxThreshold.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp -o CMakeFiles/runvx.dir/vxThreshold.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp -o CMakeFiles/runvx.dir/vxThreshold.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o.requires:
 
@@ -419,16 +419,16 @@ runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o.provides.build: runvx/CMakeFiles/ru
 
 runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o: runvx/vxTensor.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxTensor.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxTensor.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp
 
 runvx/CMakeFiles/runvx.dir/vxTensor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxTensor.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp > CMakeFiles/runvx.dir/vxTensor.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp > CMakeFiles/runvx.dir/vxTensor.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxTensor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxTensor.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp -o CMakeFiles/runvx.dir/vxTensor.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp -o CMakeFiles/runvx.dir/vxTensor.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o.requires:
 
@@ -443,16 +443,16 @@ runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o.provides.build: runvx/CMakeFiles/runvx
 
 runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o: runvx/CMakeFiles/runvx.dir/flags.make
 runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o: runvx/vxUtils.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxUtils.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/runvx.dir/vxUtils.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp
 
 runvx/CMakeFiles/runvx.dir/vxUtils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/runvx.dir/vxUtils.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp > CMakeFiles/runvx.dir/vxUtils.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp > CMakeFiles/runvx.dir/vxUtils.cpp.i
 
 runvx/CMakeFiles/runvx.dir/vxUtils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/runvx.dir/vxUtils.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp -o CMakeFiles/runvx.dir/vxUtils.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp -o CMakeFiles/runvx.dir/vxUtils.cpp.s
 
 runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o.requires:
 
@@ -557,8 +557,8 @@ bin/runvx: /home/venomfate/opencv/build/lib/libopencv_photo.so.3.4.11
 bin/runvx: /home/venomfate/opencv/build/lib/libopencv_imgproc.so.3.4.11
 bin/runvx: /home/venomfate/opencv/build/lib/libopencv_core.so.3.4.11
 bin/runvx: runvx/CMakeFiles/runvx.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable ../bin/runvx"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/runvx.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable ../bin/runvx"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/runvx.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 runvx/CMakeFiles/runvx.dir/build: bin/runvx
@@ -586,10 +586,10 @@ runvx/CMakeFiles/runvx.dir/requires: runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o.re
 .PHONY : runvx/CMakeFiles/runvx.dir/requires
 
 runvx/CMakeFiles/runvx.dir/clean:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx && $(CMAKE_COMMAND) -P CMakeFiles/runvx.dir/cmake_clean.cmake
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx && $(CMAKE_COMMAND) -P CMakeFiles/runvx.dir/cmake_clean.cmake
 .PHONY : runvx/CMakeFiles/runvx.dir/clean
 
 runvx/CMakeFiles/runvx.dir/depend:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : runvx/CMakeFiles/runvx.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+# Install script for directory: /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,9 +39,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/cmake_install.cmake")
-  include("/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/cmake_install.cmake")
-  include("/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl/cmake_install.cmake")
+  include("/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/cmake_install.cmake")
+  include("/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/cmake_install.cmake")
+  include("/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl/cmake_install.cmake")
 
 endif()
 
@@ -53,5 +53,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,4 +1,4 @@
-# Install script for directory: /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl
+# Install script for directory: /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/runcl"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/bin/runcl")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/bin/runcl")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/runcl" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/runcl")
     if(CMAKE_INSTALL_DO_STRIP)

@@ -20,6 +20,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
+#define NAUTICS_DEBUG
+#ifdef NAUTICS_DEBUG
+#endif
 #define _CRT_SECURE_NO_WARNINGS
 #include "vxUtils.h"
 
@@ -237,10 +240,16 @@ const char * stristr(const char * str1, const char * str2)
 static char s_rootDir[512] = ".";
 void SetRootDir(const char * rootDir)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxUtils.cpp: SetRootDir()\n");
+#endif
 	strcpy(s_rootDir, rootDir);
 }
 const char * RootDirUpdated(const char * filePath)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxUtils.cpp: RootDirUpdated()\n");
+#endif
 	static char updatedFilePath[8192];
 	int j = 0;
 	for (int i = 0; filePath[i]; i++) {
@@ -252,6 +261,7 @@ const char * RootDirUpdated(const char * filePath)
 		}
 	}
 	updatedFilePath[j] = 0;
+	printf("vxUtils.cpp: RootDirUpdated()-- updatedFilePath: %s\n", updatedFilePath);
 	return updatedFilePath;
 }
 
@@ -282,6 +292,9 @@ vector<string> &split(const string &s, char delim, vector<string> &elems){
 }
 
 int convert_image_format(string format){
+#ifdef NAUTICS_DEBUG
+	printf("\nvxUtils.cpp: convert_image_format()\n");
+#endif
 	if (format.size() == 4){
 		return ((format[0]) | (format[1] << 8) | (format[2] << 16) | (format[3] << 24));
 	}

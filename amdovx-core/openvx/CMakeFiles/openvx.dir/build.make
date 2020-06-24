@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # Include any dependencies generated for this target.
 include openvx/CMakeFiles/openvx.dir/depend.make
@@ -59,16 +59,16 @@ include openvx/CMakeFiles/openvx.dir/flags.make
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o: openvx/ago/ago_drama.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama.cpp > CMakeFiles/openvx.dir/ago/ago_drama.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama.cpp > CMakeFiles/openvx.dir/ago/ago_drama.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama.cpp -o CMakeFiles/openvx.dir/ago/ago_drama.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama.cpp -o CMakeFiles/openvx.dir/ago/ago_drama.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o.requires:
 
@@ -83,16 +83,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama.cpp.o.provides.build: openvx/CMakeFil
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o: openvx/ago/ago_drama_alloc.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_alloc.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_alloc.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_alloc.cpp > CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_alloc.cpp > CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_alloc.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_alloc.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o.requires:
 
@@ -107,16 +107,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama_alloc.cpp.o.provides.build: openvx/CM
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o: openvx/ago/ago_drama_analyze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_analyze.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_analyze.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_analyze.cpp > CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_analyze.cpp > CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_analyze.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_analyze.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o.requires:
 
@@ -131,16 +131,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama_analyze.cpp.o.provides.build: openvx/
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o: openvx/ago/ago_drama_divide.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_divide.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_divide.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_divide.cpp > CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_divide.cpp > CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_divide.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_divide.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o.requires:
 
@@ -155,16 +155,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama_divide.cpp.o.provides.build: openvx/C
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o: openvx/ago/ago_drama_merge.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_merge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_merge.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_merge.cpp > CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_merge.cpp > CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_merge.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_merge.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o.requires:
 
@@ -179,16 +179,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama_merge.cpp.o.provides.build: openvx/CM
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o: openvx/ago/ago_drama_remove.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_remove.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_remove.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_remove.cpp > CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_remove.cpp > CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_remove.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_remove.cpp -o CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o.requires:
 
@@ -203,16 +203,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_drama_remove.cpp.o.provides.build: openvx/C
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o: openvx/ago/ago_haf_cpu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o.requires:
 
@@ -227,16 +227,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu.cpp.o.provides.build: openvx/CMakeF
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o: openvx/ago/ago_haf_cpu_arithmetic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o.requires:
 
@@ -251,16 +251,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_arithmetic.cpp.o.provides.build: op
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o: openvx/ago/ago_haf_cpu_canny.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o.requires:
 
@@ -275,16 +275,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_canny.cpp.o.provides.build: openvx/
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o: openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o.requires:
 
@@ -299,16 +299,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_ch_extract_combine.cpp.o.provides.b
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o: openvx/ago/ago_haf_cpu_color_convert.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o.requires:
 
@@ -323,16 +323,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_color_convert.cpp.o.provides.build:
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o: openvx/ago/ago_haf_cpu_fast_corners.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o.requires:
 
@@ -347,16 +347,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_fast_corners.cpp.o.provides.build: 
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o: openvx/ago/ago_haf_cpu_filter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o.requires:
 
@@ -371,16 +371,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_filter.cpp.o.provides.build: openvx
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o: openvx/ago/ago_haf_cpu_geometric.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o.requires:
 
@@ -395,16 +395,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_geometric.cpp.o.provides.build: ope
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o: openvx/ago/ago_haf_cpu_harris.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o.requires:
 
@@ -419,16 +419,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_harris.cpp.o.provides.build: openvx
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o: openvx/ago/ago_haf_cpu_histogram.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o.requires:
 
@@ -443,16 +443,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_histogram.cpp.o.provides.build: ope
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o: openvx/ago/ago_haf_cpu_logical.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o.requires:
 
@@ -467,16 +467,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_logical.cpp.o.provides.build: openv
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o: openvx/ago/ago_haf_cpu_opticalflow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o.requires:
 
@@ -491,16 +491,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_opticalflow.cpp.o.provides.build: o
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o: openvx/ago/ago_haf_cpu_pyramid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp > CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o.requires:
 
@@ -515,16 +515,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_cpu_pyramid.cpp.o.provides.build: openv
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o: openvx/ago/ago_haf_gpu_common.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o.requires:
 
@@ -539,16 +539,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_common.cpp.o.provides.build: openvx
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o: openvx/ago/ago_haf_gpu_conversion.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o.requires:
 
@@ -563,16 +563,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_conversion.cpp.o.provides.build: op
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o: openvx/ago/ago_haf_gpu_corners.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o.requires:
 
@@ -587,16 +587,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_corners.cpp.o.provides.build: openv
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o: openvx/ago/ago_haf_gpu_linear_filter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o.requires:
 
@@ -611,16 +611,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_linear_filter.cpp.o.provides.build:
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o: openvx/ago/ago_haf_gpu_special_filters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp > CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp -o CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o.requires:
 
@@ -635,16 +635,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_haf_gpu_special_filters.cpp.o.provides.buil
 
 openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o: openvx/ago/ago_interface.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_interface.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_interface.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_interface.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_interface.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_interface.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_interface.cpp > CMakeFiles/openvx.dir/ago/ago_interface.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_interface.cpp > CMakeFiles/openvx.dir/ago/ago_interface.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_interface.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_interface.cpp -o CMakeFiles/openvx.dir/ago/ago_interface.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_interface.cpp -o CMakeFiles/openvx.dir/ago/ago_interface.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o.requires:
 
@@ -659,16 +659,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_interface.cpp.o.provides.build: openvx/CMak
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o: openvx/ago/ago_kernel_api.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.cpp > CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.cpp > CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.cpp -o CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.cpp -o CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o.requires:
 
@@ -683,16 +683,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_kernel_api.cpp.o.provides.build: openvx/CMa
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o: openvx/ago/ago_kernel_list.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_list.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_list.cpp > CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_list.cpp > CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_list.cpp -o CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_list.cpp -o CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o.requires:
 
@@ -707,16 +707,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_kernel_list.cpp.o.provides.build: openvx/CM
 
 openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o: openvx/ago/ago_platform.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_platform.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_platform.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_platform.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.cpp > CMakeFiles/openvx.dir/ago/ago_platform.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.cpp > CMakeFiles/openvx.dir/ago/ago_platform.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_platform.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.cpp -o CMakeFiles/openvx.dir/ago/ago_platform.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.cpp -o CMakeFiles/openvx.dir/ago/ago_platform.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o.requires:
 
@@ -731,16 +731,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_platform.cpp.o.provides.build: openvx/CMake
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o: openvx/ago/ago_util.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_util.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_util.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_util.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util.cpp > CMakeFiles/openvx.dir/ago/ago_util.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util.cpp > CMakeFiles/openvx.dir/ago/ago_util.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_util.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util.cpp -o CMakeFiles/openvx.dir/ago/ago_util.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util.cpp -o CMakeFiles/openvx.dir/ago/ago_util.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o.requires:
 
@@ -755,16 +755,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_util.cpp.o.provides.build: openvx/CMakeFile
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o: openvx/ago/ago_util_opencl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util_opencl.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util_opencl.cpp
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util_opencl.cpp > CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util_opencl.cpp > CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.i
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util_opencl.cpp -o CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util_opencl.cpp -o CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.s
 
 openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o.requires:
 
@@ -779,16 +779,16 @@ openvx/CMakeFiles/openvx.dir/ago/ago_util_opencl.cpp.o.provides.build: openvx/CM
 
 openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o: openvx/api/vxu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vxu.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vxu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vxu.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vxu.cpp
 
 openvx/CMakeFiles/openvx.dir/api/vxu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/api/vxu.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vxu.cpp > CMakeFiles/openvx.dir/api/vxu.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vxu.cpp > CMakeFiles/openvx.dir/api/vxu.cpp.i
 
 openvx/CMakeFiles/openvx.dir/api/vxu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/api/vxu.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vxu.cpp -o CMakeFiles/openvx.dir/api/vxu.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vxu.cpp -o CMakeFiles/openvx.dir/api/vxu.cpp.s
 
 openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o.requires:
 
@@ -803,16 +803,16 @@ openvx/CMakeFiles/openvx.dir/api/vxu.cpp.o.provides.build: openvx/CMakeFiles/ope
 
 openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o: openvx/api/vx_api.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vx_api.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_api.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vx_api.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_api.cpp
 
 openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/api/vx_api.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_api.cpp > CMakeFiles/openvx.dir/api/vx_api.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_api.cpp > CMakeFiles/openvx.dir/api/vx_api.cpp.i
 
 openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/api/vx_api.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_api.cpp -o CMakeFiles/openvx.dir/api/vx_api.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_api.cpp -o CMakeFiles/openvx.dir/api/vx_api.cpp.s
 
 openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o.requires:
 
@@ -827,16 +827,16 @@ openvx/CMakeFiles/openvx.dir/api/vx_api.cpp.o.provides.build: openvx/CMakeFiles/
 
 openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o: openvx/CMakeFiles/openvx.dir/flags.make
 openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o: openvx/api/vx_nodes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vx_nodes.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_nodes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/openvx.dir/api/vx_nodes.cpp.o -c /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_nodes.cpp
 
 openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/openvx.dir/api/vx_nodes.cpp.i"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_nodes.cpp > CMakeFiles/openvx.dir/api/vx_nodes.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_nodes.cpp > CMakeFiles/openvx.dir/api/vx_nodes.cpp.i
 
 openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/openvx.dir/api/vx_nodes.cpp.s"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_nodes.cpp -o CMakeFiles/openvx.dir/api/vx_nodes.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_nodes.cpp -o CMakeFiles/openvx.dir/api/vx_nodes.cpp.s
 
 openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o.requires:
 
@@ -924,8 +924,8 @@ lib/libopenvx.so: openvx/CMakeFiles/openvx.dir/api/vx_nodes.cpp.o
 lib/libopenvx.so: openvx/CMakeFiles/openvx.dir/build.make
 lib/libopenvx.so: /usr/lib/x86_64-linux-gnu/libOpenCL.so
 lib/libopenvx.so: openvx/CMakeFiles/openvx.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking CXX shared library ../lib/libopenvx.so"
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/openvx.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking CXX shared library ../lib/libopenvx.so"
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/openvx.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 openvx/CMakeFiles/openvx.dir/build: lib/libopenvx.so
@@ -969,10 +969,10 @@ openvx/CMakeFiles/openvx.dir/requires: openvx/CMakeFiles/openvx.dir/api/vx_nodes
 .PHONY : openvx/CMakeFiles/openvx.dir/requires
 
 openvx/CMakeFiles/openvx.dir/clean:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx && $(CMAKE_COMMAND) -P CMakeFiles/openvx.dir/cmake_clean.cmake
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx && $(CMAKE_COMMAND) -P CMakeFiles/openvx.dir/cmake_clean.cmake
 .PHONY : openvx/CMakeFiles/openvx.dir/clean
 
 openvx/CMakeFiles/openvx.dir/depend:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/CMakeFiles/openvx.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/CMakeFiles/openvx.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : openvx/CMakeFiles/openvx.dir/depend
 

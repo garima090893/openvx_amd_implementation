@@ -6,149 +6,149 @@
 
 #IncludeRegexTransform: 
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_alloc.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_alloc.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_analyze.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_analyze.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_divide.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_divide.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_merge.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_merge.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_drama_remove.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_drama_remove.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.h
 VX/vx.h
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_arithmetic.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_canny.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_ch_extract_combine.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_color_convert.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_fast_corners.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_filter.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_geometric.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_harris.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_histogram.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_logical.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_opticalflow.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu_pyramid.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_common.cpp
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_conversion.cpp
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_corners.cpp
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_linear_filter.cpp
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu_special_filters.cpp
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_interface.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_interface.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 ago_platform.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.h
 ago_kernels.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernels.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernels.h
 ago_haf_cpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_cpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_cpu.h
 vx_ext_amd.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/vx_ext_amd.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/vx_ext_amd.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 ago_kernel_api.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.h
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.h
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_list.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_list.cpp
 ago_kernel_api.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernel_api.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernel_api.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_kernels.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_kernels.h
 VX/vx.h
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.cpp
 ago_platform.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.h
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 mutex
 -
 condition_variable
@@ -158,7 +158,7 @@ fenv.h
 dlfcn.h
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_platform.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_platform.h
 VX/vx.h
 -
 VX/vx_compatibility.h
@@ -214,29 +214,31 @@ opencl.h
 CL/cl.h
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 math.h
 -
 sstream
 -
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_util_opencl.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_util_opencl.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_internal.h
 ago_haf_gpu.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/ago/ago_haf_gpu.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/ago/ago_haf_gpu.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_api.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_api.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/ago_internal.h
+stdio.h
+-
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vx_nodes.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_nodes.cpp
 ago_internal.h
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/ago_internal.h
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/ago_internal.h
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/api/vxu.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vxu.cpp
 VX/vx.h
 -
 VX/vxu.h

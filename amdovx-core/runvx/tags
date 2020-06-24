@@ -1,0 +1,558 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AddToArrayListForView	vxParameter.cpp	/^void CVxParameter::AddToArrayListForView(int colorIndex, int x, int y)$/;"	f	class:CVxParameter
+AddToArrayListForView	vxParameter.cpp	/^void CVxParameter::AddToArrayListForView(int colorIndex, int x, int y, float strength)$/;"	f	class:CVxParameter
+ArrayItemForView	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	s	class:CVxParameter
+BUILD_GRAPH_ABORT	vxEngine.cpp	/^	BUILD_GRAPH_ABORT = 3,$/;"	e	enum:__anon1	file:
+BUILD_GRAPH_EXIT	vxEngine.cpp	/^	BUILD_GRAPH_EXIT = 2,$/;"	e	enum:__anon1	file:
+BUILD_GRAPH_FAILURE	vxEngine.cpp	/^	BUILD_GRAPH_FAILURE = -1,$/;"	e	enum:__anon1	file:
+BUILD_GRAPH_LAUNCHED	vxEngine.cpp	/^	BUILD_GRAPH_LAUNCHED = 1,$/;"	e	enum:__anon1	file:
+BUILD_GRAPH_SUCCESS	vxEngine.cpp	/^	BUILD_GRAPH_SUCCESS = 0,$/;"	e	enum:__anon1	file:
+BuildAndProcessGraph	vxEngine.cpp	/^int CVxEngine::BuildAndProcessGraph(int level, char * graphScript, bool importMode)$/;"	f	class:CVxEngine
+BuildAndProcessGraphFromLine	vxEngine.cpp	/^int CVxEngine::BuildAndProcessGraphFromLine(int level, char * line)$/;"	f	class:CVxEngine
+CFileBuffer	vxEngineUtil.h	/^	CFileBuffer(const char * fileName) {$/;"	f	class:CFileBuffer
+CFileBuffer	vxEngineUtil.h	/^	CFileBuffer(size_t _size_in_bytes, size_t _prefix_bytes = 0, size_t _postfix_bytes = 0) {$/;"	f	class:CFileBuffer
+CFileBuffer	vxEngineUtil.h	/^class CFileBuffer {$/;"	c
+CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1107;"	d	file:
+CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1133;"	d	file:
+CHasher	vxUtils.cpp	/^CHasher::CHasher(){$/;"	f	class:CHasher
+CHasher	vxUtils.h	/^class CHasher {$/;"	c
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/venomfate\/workspace\/office\/verisilicon\/amd_imp\/openvx_amd_implementation\/amdovx-core$/;"	m
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/venomfate\/workspace\/office\/verisilicon\/amd_imp\/openvx_amd_implementation\/amdovx-core$/;"	m
+CVX_ENGINE_H	vxEngine.h	25;"	d
+CVxEngine	vxEngine.cpp	/^CVxEngine::CVxEngine()$/;"	f	class:CVxEngine
+CVxEngine	vxEngine.h	/^class CVxEngine {$/;"	c
+CVxEngine_data_registry_callback_f	vxEngine.cpp	/^void VX_CALLBACK CVxEngine_data_registry_callback_f(void * obj, vx_reference ref, const char * name, const char * params)$/;"	f
+CVxParamArray	vxArray.cpp	/^CVxParamArray::CVxParamArray()$/;"	f	class:CVxParamArray
+CVxParamArray	vxArray.h	/^class CVxParamArray : public CVxParameter$/;"	c
+CVxParamConvolution	vxConvolution.cpp	/^CVxParamConvolution::CVxParamConvolution()$/;"	f	class:CVxParamConvolution
+CVxParamConvolution	vxConvolution.h	/^class CVxParamConvolution : public CVxParameter$/;"	c
+CVxParamDelay	vxParameter.cpp	/^CVxParamDelay::CVxParamDelay()$/;"	f	class:CVxParamDelay
+CVxParamDelay	vxParameter.h	/^class CVxParamDelay : public CVxParameter$/;"	c
+CVxParamDistribution	vxDistribution.cpp	/^CVxParamDistribution::CVxParamDistribution()$/;"	f	class:CVxParamDistribution
+CVxParamDistribution	vxDistribution.h	/^class CVxParamDistribution : public CVxParameter$/;"	c
+CVxParamImage	vxImage.cpp	/^CVxParamImage::CVxParamImage()$/;"	f	class:CVxParamImage
+CVxParamImage	vxImage.h	/^class CVxParamImage : public CVxParameter$/;"	c
+CVxParamLUT	vxLUT.cpp	/^CVxParamLUT::CVxParamLUT()$/;"	f	class:CVxParamLUT
+CVxParamLUT	vxLUT.h	/^class CVxParamLUT : public CVxParameter$/;"	c
+CVxParamMatrix	vxMatrix.cpp	/^CVxParamMatrix::CVxParamMatrix()$/;"	f	class:CVxParamMatrix
+CVxParamMatrix	vxMatrix.h	/^class CVxParamMatrix : public CVxParameter$/;"	c
+CVxParamPyramid	vxPyramid.cpp	/^CVxParamPyramid::CVxParamPyramid()$/;"	f	class:CVxParamPyramid
+CVxParamPyramid	vxPyramid.h	/^class CVxParamPyramid : public CVxParameter$/;"	c
+CVxParamRemap	vxRemap.cpp	/^CVxParamRemap::CVxParamRemap()$/;"	f	class:CVxParamRemap
+CVxParamRemap	vxRemap.h	/^class CVxParamRemap : public CVxParameter$/;"	c
+CVxParamScalar	vxScalar.cpp	/^CVxParamScalar::CVxParamScalar()$/;"	f	class:CVxParamScalar
+CVxParamScalar	vxScalar.h	/^class CVxParamScalar : public CVxParameter$/;"	c
+CVxParamTensor	vxTensor.cpp	/^CVxParamTensor::CVxParamTensor()$/;"	f	class:CVxParamTensor
+CVxParamTensor	vxTensor.h	/^class CVxParamTensor : public CVxParameter$/;"	c
+CVxParamThreshold	vxThreshold.cpp	/^CVxParamThreshold::CVxParamThreshold()$/;"	f	class:CVxParamThreshold
+CVxParamThreshold	vxThreshold.h	/^class CVxParamThreshold : public CVxParameter$/;"	c
+CVxParameter	vxParameter.cpp	/^CVxParameter::CVxParameter()$/;"	f	class:CVxParameter
+CVxParameter	vxParameter.h	/^class CVxParameter$/;"	c
+CalculateImageWidthInBytes	vxUtils.cpp	/^vx_size CalculateImageWidthInBytes(vx_image image)$/;"	f
+CompareFrame	vxArray.cpp	/^int CVxParamArray::CompareFrame(int frameNumber)$/;"	f	class:CVxParamArray
+CompareFrame	vxConvolution.cpp	/^int CVxParamConvolution::CompareFrame(int frameNumber)$/;"	f	class:CVxParamConvolution
+CompareFrame	vxDistribution.cpp	/^int CVxParamDistribution::CompareFrame(int frameNumber)$/;"	f	class:CVxParamDistribution
+CompareFrame	vxEngine.cpp	/^int CVxEngine::CompareFrame(int frameNumber)$/;"	f	class:CVxEngine
+CompareFrame	vxImage.cpp	/^int CVxParamImage::CompareFrame(int frameNumber)$/;"	f	class:CVxParamImage
+CompareFrame	vxLUT.cpp	/^int CVxParamLUT::CompareFrame(int frameNumber)$/;"	f	class:CVxParamLUT
+CompareFrame	vxMatrix.cpp	/^int CVxParamMatrix::CompareFrame(int frameNumber)$/;"	f	class:CVxParamMatrix
+CompareFrame	vxParameter.cpp	/^int CVxParamDelay::CompareFrame(int frameNumber)$/;"	f	class:CVxParamDelay
+CompareFrame	vxPyramid.cpp	/^int CVxParamPyramid::CompareFrame(int frameNumber)$/;"	f	class:CVxParamPyramid
+CompareFrame	vxRemap.cpp	/^int CVxParamRemap::CompareFrame(int frameNumber)$/;"	f	class:CVxParamRemap
+CompareFrame	vxScalar.cpp	/^int CVxParamScalar::CompareFrame(int frameNumber)$/;"	f	class:CVxParamScalar
+CompareFrame	vxTensor.cpp	/^int CVxParamTensor::CompareFrame(int frameNumber)$/;"	f	class:CVxParamTensor
+CompareFrame	vxThreshold.cpp	/^int CVxParamThreshold::CompareFrame(int frameNumber)$/;"	f	class:CVxParamThreshold
+CompareFrameBitwiseExact	vxArray.cpp	/^bool CVxParamArray::CompareFrameBitwiseExact(size_t numItems, size_t numItemsRef, vx_uint8 * bufItems, int frameNumber, const char * fileName)$/;"	f	class:CVxParamArray
+CompareFrameCoord2d	vxArray.cpp	/^bool CVxParamArray::CompareFrameCoord2d(size_t numItems, size_t numItemsRef, vx_uint8 * bufItems, int frameNumber, const char * fileName)$/;"	f	class:CVxParamArray
+CompareFrameKeypoints	vxArray.cpp	/^bool CVxParamArray::CompareFrameKeypoints(size_t numItems, size_t numItemsRef, vx_uint8 * bufItems, int frameNumber, const char * fileName)$/;"	f	class:CVxParamArray
+CompareImage	vxUtils.cpp	/^size_t CompareImage(vx_image image, vx_rectangle_t * rectRegion, vx_uint8 * refImage, float errLimitMin, float errLimitMax, int frameNumber, const char * fileNameRef)$/;"	f
+ComparePixels	vxUtils.cpp	/^size_t ComparePixels(PixelType * pImg_, size_t img_stride_y, PixelType * pRef_, size_t ref_stride_y, vx_uint32 width, vx_uint32 height, CompareType errLimitMin, CompareType errLimitMax)$/;"	f
+ComparePixelsU001	vxUtils.cpp	/^size_t ComparePixelsU001(vx_uint8 * pImg, size_t img_stride_y, vx_uint8 * pRef, size_t ref_stride_y, vx_uint32 width, vx_uint32 height)$/;"	f
+ComputeChecksum	vxUtils.cpp	/^void ComputeChecksum(char checkSumString[64], vx_image image, vx_rectangle_t * rectRegion)$/;"	f
+CreateDataObject	vxParameter.cpp	/^CVxParameter * CreateDataObject(vx_context context, vx_graph graph, std::map<std::string, CVxParameter *> * m_paramMap, map<string, vx_enum> * m_userStructMap, const char * desc, vx_uint32 captureFrameStart)$/;"	f
+CreateDataObject	vxParameter.cpp	/^CVxParameter * CreateDataObject(vx_context context, vx_graph graph, vx_reference ref, const char * params, vx_uint32 captureFrameStart)$/;"	f
+DisableWaitForKeyPress	vxEngine.cpp	/^void CVxEngine::DisableWaitForKeyPress()$/;"	f	class:CVxEngine
+DisableWaitForKeyPress	vxImage.cpp	/^void CVxParamImage::DisableWaitForKeyPress()$/;"	f	class:CVxParamImage
+DisableWaitForKeyPress	vxParameter.cpp	/^void CVxParameter::DisableWaitForKeyPress()$/;"	f	class:CVxParameter
+DumpGraphInfo	vxEngine.cpp	/^int CVxEngine::DumpGraphInfo(const char * graphName)$/;"	f	class:CVxEngine
+DumpInternalGDF	vxEngine.cpp	/^int CVxEngine::DumpInternalGDF()$/;"	f	class:CVxEngine
+ENABLE_OPENCL	vxUtils.h	29;"	d
+ENABLE_OPENCV	vxUtils.h	33;"	d
+EQUALS	Makefile	/^EQUALS = =$/;"	m
+ERROR_CHECK	vxUtils.h	95;"	d
+ERROR_CHECK_AND_WARN	vxUtils.h	96;"	d
+Finalize	vxArray.cpp	/^int CVxParamArray::Finalize()$/;"	f	class:CVxParamArray
+Finalize	vxConvolution.cpp	/^int CVxParamConvolution::Finalize()$/;"	f	class:CVxParamConvolution
+Finalize	vxDistribution.cpp	/^int CVxParamDistribution::Finalize()$/;"	f	class:CVxParamDistribution
+Finalize	vxImage.cpp	/^int CVxParamImage::Finalize()$/;"	f	class:CVxParamImage
+Finalize	vxLUT.cpp	/^int CVxParamLUT::Finalize()$/;"	f	class:CVxParamLUT
+Finalize	vxMatrix.cpp	/^int CVxParamMatrix::Finalize()$/;"	f	class:CVxParamMatrix
+Finalize	vxParameter.cpp	/^int CVxParamDelay::Finalize()$/;"	f	class:CVxParamDelay
+Finalize	vxPyramid.cpp	/^int CVxParamPyramid::Finalize()$/;"	f	class:CVxParamPyramid
+Finalize	vxRemap.cpp	/^int CVxParamRemap::Finalize()$/;"	f	class:CVxParamRemap
+Finalize	vxScalar.cpp	/^int CVxParamScalar::Finalize()$/;"	f	class:CVxParamScalar
+Finalize	vxTensor.cpp	/^int CVxParamTensor::Finalize()$/;"	f	class:CVxParamTensor
+Finalize	vxThreshold.cpp	/^int CVxParamThreshold::Finalize()$/;"	f	class:CVxParamThreshold
+GetArrayListForViewCount	vxParameter.h	/^	size_t GetArrayListForViewCount() { return m_arrayListForView.size(); }$/;"	f	class:CVxParameter
+GetArrayListForViewItemAt	vxParameter.h	/^	const ArrayItemForView * GetArrayListForViewItemAt(size_t index) { return &m_arrayListForView[index]; }$/;"	f	class:CVxParameter
+GetBuffer	vxEngineUtil.h	/^	void * GetBuffer() { return buffer_aligned; }$/;"	f	class:CFileBuffer
+GetCheckSum	vxUtils.cpp	/^const char * CHasher::GetCheckSum(){$/;"	f	class:CHasher
+GetMedianRunTime	vxEngine.cpp	/^float CVxEngine::GetMedianRunTime()$/;"	f	class:CVxEngine
+GetScalarValueForStructTypes	vxUtils.cpp	/^int GetScalarValueForStructTypes(vx_enum type, const char str[], void * value)$/;"	f
+GetScalarValueFromString	vxUtils.cpp	/^int GetScalarValueFromString(vx_enum type, const char str[], vx_uint64 * value)$/;"	f
+GetSizeInBytes	vxEngineUtil.h	/^	size_t GetSizeInBytes() { return size_in_bytes; }$/;"	f	class:CFileBuffer
+GetVxObject	vxParameter.h	/^	vx_reference& GetVxObject() { return m_vxObjRef; }$/;"	f	class:CVxParameter
+GetVxObjectName	vxParameter.cpp	/^const char * CVxParameter::GetVxObjectName()$/;"	f	class:CVxParameter
+GetVxObjectType	vxParameter.h	/^	vx_enum GetVxObjectType() { return m_vxObjType; }$/;"	f	class:CVxParameter
+GuiTrackBarInitializeMatrix	vxParamHelper.cpp	/^int GuiTrackBarInitializeMatrix(vx_reference obj, int id, float valueR, float valueInc)$/;"	f
+GuiTrackBarInitializeScalar	vxParamHelper.cpp	/^int GuiTrackBarInitializeScalar(vx_reference obj, int id, float valueMin, float valueMax, float valueInc)$/;"	f
+GuiTrackBarProcessKey	vxParamHelper.cpp	/^int GuiTrackBarProcessKey(int key)$/;"	f
+GuiTrackBarShutdown	vxParamHelper.cpp	/^int GuiTrackBarShutdown(vx_reference obj)$/;"	f
+IS_ALPHA	vxUtils.cpp	29;"	d	file:
+Initialize	vxArray.cpp	/^int CVxParamArray::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamArray
+Initialize	vxConvolution.cpp	/^int CVxParamConvolution::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamConvolution
+Initialize	vxDistribution.cpp	/^int CVxParamDistribution::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamDistribution
+Initialize	vxEngine.cpp	/^int CVxEngine::Initialize(int argCount, int defaultTargetAffinity, int defaultTargetInfo, bool enableScheduleGraph, bool disableVirtual, bool enableFullProfile, bool disableNodeFlushForCL, std::string discardCommandList)$/;"	f	class:CVxEngine
+Initialize	vxImage.cpp	/^int CVxParamImage::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamImage
+Initialize	vxLUT.cpp	/^int CVxParamLUT::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamLUT
+Initialize	vxMatrix.cpp	/^int CVxParamMatrix::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamMatrix
+Initialize	vxParameter.cpp	/^int CVxParamDelay::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamDelay
+Initialize	vxPyramid.cpp	/^int CVxParamPyramid::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamPyramid
+Initialize	vxRemap.cpp	/^int CVxParamRemap::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamRemap
+Initialize	vxScalar.cpp	/^int CVxParamScalar::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamScalar
+Initialize	vxTensor.cpp	/^int CVxParamTensor::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamTensor
+Initialize	vxThreshold.cpp	/^int CVxParamThreshold::Initialize(vx_context context, vx_graph graph, const char * desc)$/;"	f	class:CVxParamThreshold
+Initialize	vxUtils.cpp	/^void CHasher::Initialize(){$/;"	f	class:CHasher
+InitializeIO	vxArray.cpp	/^int CVxParamArray::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamArray
+InitializeIO	vxConvolution.cpp	/^int CVxParamConvolution::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamConvolution
+InitializeIO	vxDistribution.cpp	/^int CVxParamDistribution::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamDistribution
+InitializeIO	vxImage.cpp	/^int CVxParamImage::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamImage
+InitializeIO	vxLUT.cpp	/^int CVxParamLUT::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamLUT
+InitializeIO	vxMatrix.cpp	/^int CVxParamMatrix::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamMatrix
+InitializeIO	vxParameter.cpp	/^int CVxParamDelay::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamDelay
+InitializeIO	vxPyramid.cpp	/^int CVxParamPyramid::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamPyramid
+InitializeIO	vxRemap.cpp	/^int CVxParamRemap::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamRemap
+InitializeIO	vxScalar.cpp	/^int CVxParamScalar::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamScalar
+InitializeIO	vxTensor.cpp	/^int CVxParamTensor::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamTensor
+InitializeIO	vxThreshold.cpp	/^int CVxParamThreshold::InitializeIO(vx_context context, vx_graph graph, vx_reference ref, const char * io_params)$/;"	f	class:CVxParamThreshold
+IsUsingMultiFrameCapture	vxEngine.cpp	/^bool CVxEngine::IsUsingMultiFrameCapture(){$/;"	f	class:CVxEngine
+IsUsingMultiFrameCapture	vxParameter.h	/^	bool IsUsingMultiFrameCapture(){ return m_usingMultiFrameCapture; }$/;"	f	class:CVxParameter
+IsVirtualObject	vxParameter.h	/^	bool IsVirtualObject() { return m_isVirtualObject; }$/;"	f	class:CVxParameter
+MAX_BUFFER_HANDLES	vxParameter.h	30;"	d
+MAX_FILE_NAME_LENGTH	vxParameter.h	33;"	d
+MAX_GDF_LEVELS	vxEngine.cpp	31;"	d	file:
+MAX_INPUT_TRACK_BARS	vxParamHelper.cpp	34;"	d	file:
+MAX_MODE_STRING_LENGTH	vxParameter.h	34;"	d
+MAX_TENSOR_DIMENSIONS	vxTensor.h	31;"	d
+MeasureFrame	vxEngine.cpp	/^void CVxEngine::MeasureFrame(int frameNumber, int status, std::vector<vx_graph>& graphList)$/;"	f	class:CVxEngine
+NANO2MILLISECONDS	vxEngine.cpp	32;"	d	file:
+NAUTICS_DEBUG	runvx.cpp	23;"	d	file:
+NAUTICS_DEBUG	vxEngine.cpp	23;"	d	file:
+NAUTICS_DEBUG	vxEngineUtil.h	24;"	d
+NAUTICS_DEBUG	vxParamHelper.cpp	23;"	d	file:
+NAUTICS_DEBUG	vxUtils.cpp	23;"	d	file:
+NULLPTR_CHECK	vxUtils.h	97;"	d
+PerformanceStatistics	vxEngine.cpp	/^void CVxEngine::PerformanceStatistics(int status, std::vector<vx_graph>& graphList)$/;"	f	class:CVxEngine
+PrintHelpGDF	vxEngine.cpp	/^void PrintHelpGDF(const char * command)$/;"	f
+Process	vxUtils.cpp	/^void CHasher::Process(vx_uint8 * data_ptr, vx_size count){$/;"	f	class:CHasher
+ProcessCvWindowKeyRefresh	vxParamHelper.cpp	/^int ProcessCvWindowKeyRefresh(int waitKeyDelayInMilliSeconds)$/;"	f
+ProcessGraph	vxEngine.cpp	/^int CVxEngine::ProcessGraph(std::vector<const char *> * graphNameList, size_t beginIndex)$/;"	f	class:CVxEngine
+PutScalarValueToString	vxUtils.cpp	/^int PutScalarValueToString(vx_enum type, const void * value, char str[])$/;"	f
+RM	Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RUNVX_PROGRAM	runvx.cpp	35;"	d	file:
+RUNVX_PROGRAM	runvx.cpp	37;"	d	file:
+RUNVX_VERSION	runvx.cpp	33;"	d	file:
+ReadFileIntoBuffer	vxArray.cpp	/^size_t CVxParamArray::ReadFileIntoBuffer(FILE * fp, bool readFileIsBinary)$/;"	f	class:CVxParamArray
+ReadFileIntoBuffer	vxDistribution.cpp	/^int CVxParamDistribution::ReadFileIntoBuffer(FILE * fp, vx_uint32 * buf)$/;"	f	class:CVxParamDistribution
+ReadFrame	vxArray.cpp	/^int CVxParamArray::ReadFrame(int frameNumber)$/;"	f	class:CVxParamArray
+ReadFrame	vxConvolution.cpp	/^int CVxParamConvolution::ReadFrame(int frameNumber)$/;"	f	class:CVxParamConvolution
+ReadFrame	vxDistribution.cpp	/^int CVxParamDistribution::ReadFrame(int frameNumber)$/;"	f	class:CVxParamDistribution
+ReadFrame	vxEngine.cpp	/^int CVxEngine::ReadFrame(int frameNumber)$/;"	f	class:CVxEngine
+ReadFrame	vxImage.cpp	/^int CVxParamImage::ReadFrame(int frameNumber)$/;"	f	class:CVxParamImage
+ReadFrame	vxLUT.cpp	/^int CVxParamLUT::ReadFrame(int frameNumber)$/;"	f	class:CVxParamLUT
+ReadFrame	vxMatrix.cpp	/^int CVxParamMatrix::ReadFrame(int frameNumber)$/;"	f	class:CVxParamMatrix
+ReadFrame	vxParameter.cpp	/^int CVxParamDelay::ReadFrame(int frameNumber)$/;"	f	class:CVxParamDelay
+ReadFrame	vxPyramid.cpp	/^int CVxParamPyramid::ReadFrame(int frameNumber)$/;"	f	class:CVxParamPyramid
+ReadFrame	vxRemap.cpp	/^int CVxParamRemap::ReadFrame(int frameNumber)$/;"	f	class:CVxParamRemap
+ReadFrame	vxScalar.cpp	/^int CVxParamScalar::ReadFrame(int frameNumber)$/;"	f	class:CVxParamScalar
+ReadFrame	vxTensor.cpp	/^int CVxParamTensor::ReadFrame(int frameNumber)$/;"	f	class:CVxParamTensor
+ReadFrame	vxThreshold.cpp	/^int CVxParamThreshold::ReadFrame(int frameNumber)$/;"	f	class:CVxParamThreshold
+ReadImage	vxUtils.cpp	/^int ReadImage(vx_image image, vx_rectangle_t * rectFull, FILE * fp)$/;"	f
+ReadScalarToString	vxUtils.cpp	/^int ReadScalarToString(vx_scalar scalar, char str[])$/;"	f
+ReleaseAllVirtualObjects	vxEngine.cpp	/^void CVxEngine::ReleaseAllVirtualObjects()$/;"	f	class:CVxEngine
+RemoveVirtualKeywordFromParamDescription	vxEngine.cpp	/^void RemoveVirtualKeywordFromParamDescription(std::string& paramDesc)$/;"	f
+RemoveWhiteSpacesAndComment	vxEngine.cpp	/^const char * RemoveWhiteSpacesAndComment(char * line)$/;"	f
+RenameData	vxEngine.cpp	/^int CVxEngine::RenameData(const char * oldName, const char * newName)$/;"	f	class:CVxEngine
+ReportError	vxUtils.h	94;"	d
+ResetArrayListForView	vxParameter.cpp	/^void CVxParameter::ResetArrayListForView()$/;"	f	class:CVxParameter
+RootDirUpdated	vxUtils.cpp	/^const char * RootDirUpdated(const char * filePath)$/;"	f
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SUFFIXES	Makefile	/^SUFFIXES =$/;"	m
+ScanParameters	vxParameter.cpp	/^const char * ScanParameters(const char * s_, const char * syntax, const char * fmt_, ...)$/;"	f
+SetCaptureFrameStart	vxParameter.h	/^	void SetCaptureFrameStart(vx_uint32 frameStart) { m_captureFrameStart = frameStart; }$/;"	f	class:CVxParameter
+SetConfigOptions	vxEngine.cpp	/^void CVxEngine::SetConfigOptions(bool verbose, bool discardCompareErrors, bool enableDumpProfile, bool enableDumpGDF, int waitKeyDelayInMilliSeconds)$/;"	f	class:CVxEngine
+SetDiscardCompareErrors	vxParameter.h	/^	void SetDiscardCompareErrors(bool discardCompareErrors) { m_discardCompareErrors = discardCompareErrors; }$/;"	f	class:CVxParameter
+SetDumpDataConfig	vxEngine.cpp	/^void CVxEngine::SetDumpDataConfig(std::string dumpDataConfig)$/;"	f	class:CVxEngine
+SetFrameCountOptions	vxEngine.cpp	/^void CVxEngine::SetFrameCountOptions(bool enableMultiFrameProcessing, bool framesEofRequested, bool frameCountSpecified, int frameStart, int frameEnd)$/;"	f	class:CVxEngine
+SetGraphOptimizerFlags	vxEngine.cpp	/^int CVxEngine::SetGraphOptimizerFlags(vx_uint32 graph_optimizer_flags)$/;"	f	class:CVxEngine
+SetImportedData	vxEngine.cpp	/^int CVxEngine::SetImportedData(vx_reference ref, const char * name, const char * params)$/;"	f	class:CVxEngine
+SetParamMap	vxParameter.h	/^	void SetParamMap(std::map<std::string, CVxParameter *> * paramMap) { m_paramMap = paramMap; }$/;"	f	class:CVxParameter
+SetParameter	vxEngine.cpp	/^int CVxEngine::SetParameter(int index, const char * param)$/;"	f	class:CVxEngine
+SetRootDir	vxUtils.cpp	/^void SetRootDir(const char * rootDir)$/;"	f
+SetUserStructMap	vxParameter.h	/^	void SetUserStructMap(std::map<std::string, vx_enum> * userStructMap){ m_userStructMap = userStructMap;  }$/;"	f	class:CVxParameter
+SetVerbose	vxParameter.h	/^	void SetVerbose(bool verbose) { m_verbose = verbose; }$/;"	f	class:CVxParameter
+Shell	vxEngine.cpp	/^int CVxEngine::Shell(int level, FILE * fp)$/;"	f	class:CVxEngine
+Shutdown	vxArray.cpp	/^int CVxParamArray::Shutdown(void)$/;"	f	class:CVxParamArray
+Shutdown	vxConvolution.cpp	/^int CVxParamConvolution::Shutdown(void)$/;"	f	class:CVxParamConvolution
+Shutdown	vxDistribution.cpp	/^int CVxParamDistribution::Shutdown(void)$/;"	f	class:CVxParamDistribution
+Shutdown	vxEngine.cpp	/^int CVxEngine::Shutdown()$/;"	f	class:CVxEngine
+Shutdown	vxImage.cpp	/^int CVxParamImage::Shutdown(void)$/;"	f	class:CVxParamImage
+Shutdown	vxLUT.cpp	/^int CVxParamLUT::Shutdown(void)$/;"	f	class:CVxParamLUT
+Shutdown	vxMatrix.cpp	/^int CVxParamMatrix::Shutdown(void)$/;"	f	class:CVxParamMatrix
+Shutdown	vxParameter.cpp	/^int CVxParamDelay::Shutdown(void)$/;"	f	class:CVxParamDelay
+Shutdown	vxPyramid.cpp	/^int CVxParamPyramid::Shutdown(void)$/;"	f	class:CVxParamPyramid
+Shutdown	vxRemap.cpp	/^int CVxParamRemap::Shutdown(void)$/;"	f	class:CVxParamRemap
+Shutdown	vxScalar.cpp	/^int CVxParamScalar::Shutdown(void)$/;"	f	class:CVxParamScalar
+Shutdown	vxTensor.cpp	/^int CVxParamTensor::Shutdown(void)$/;"	f	class:CVxParamTensor
+Shutdown	vxThreshold.cpp	/^int CVxParamThreshold::Shutdown(void)$/;"	f	class:CVxParamThreshold
+Shutdown	vxUtils.cpp	/^void CHasher::Shutdown(){$/;"	f	class:CHasher
+SyncFrame	vxEngine.cpp	/^int CVxEngine::SyncFrame(int frameNumber)$/;"	f	class:CVxEngine
+SyncFrame	vxImage.cpp	/^int CVxParamImage::SyncFrame(int frameNumber)$/;"	f	class:CVxParamImage
+SyncFrame	vxParameter.cpp	/^int CVxParameter::SyncFrame(int frameNumber)$/;"	f	class:CVxParameter
+SyncFrame	vxTensor.cpp	/^int CVxParamTensor::SyncFrame(int frameNumber)$/;"	f	class:CVxParamTensor
+TO_UPPER	vxUtils.cpp	30;"	d	file:
+VX_MAX_FILE_NAME	vxParameter.cpp	38;"	d	file:
+ViewFrame	vxImage.cpp	/^int CVxParamImage::ViewFrame(int frameNumber)$/;"	f	class:CVxParamImage
+WriteFile	vxEngineUtil.h	/^	int WriteFile(const char * fileName) {$/;"	f	class:CFileBuffer
+WriteFrame	vxArray.cpp	/^int CVxParamArray::WriteFrame(int frameNumber)$/;"	f	class:CVxParamArray
+WriteFrame	vxConvolution.cpp	/^int CVxParamConvolution::WriteFrame(int frameNumber)$/;"	f	class:CVxParamConvolution
+WriteFrame	vxDistribution.cpp	/^int CVxParamDistribution::WriteFrame(int frameNumber)$/;"	f	class:CVxParamDistribution
+WriteFrame	vxEngine.cpp	/^int CVxEngine::WriteFrame(int frameNumber)$/;"	f	class:CVxEngine
+WriteFrame	vxImage.cpp	/^int CVxParamImage::WriteFrame(int frameNumber)$/;"	f	class:CVxParamImage
+WriteFrame	vxLUT.cpp	/^int CVxParamLUT::WriteFrame(int frameNumber)$/;"	f	class:CVxParamLUT
+WriteFrame	vxMatrix.cpp	/^int CVxParamMatrix::WriteFrame(int frameNumber)$/;"	f	class:CVxParamMatrix
+WriteFrame	vxParameter.cpp	/^int CVxParamDelay::WriteFrame(int frameNumber)$/;"	f	class:CVxParamDelay
+WriteFrame	vxPyramid.cpp	/^int CVxParamPyramid::WriteFrame(int frameNumber)$/;"	f	class:CVxParamPyramid
+WriteFrame	vxRemap.cpp	/^int CVxParamRemap::WriteFrame(int frameNumber)$/;"	f	class:CVxParamRemap
+WriteFrame	vxScalar.cpp	/^int CVxParamScalar::WriteFrame(int frameNumber)$/;"	f	class:CVxParamScalar
+WriteFrame	vxTensor.cpp	/^int CVxParamTensor::WriteFrame(int frameNumber)$/;"	f	class:CVxParamTensor
+WriteFrame	vxThreshold.cpp	/^int CVxParamThreshold::WriteFrame(int frameNumber)$/;"	f	class:CVxParamThreshold
+WriteImage	vxUtils.cpp	/^int WriteImage(vx_image image, vx_rectangle_t * rectFull, FILE * fp)$/;"	f
+WriteImageCompressed	vxUtils.cpp	/^int WriteImageCompressed(vx_image image, vx_rectangle_t * rectFull, const char * fileName) $/;"	f
+WriteScalarFromString	vxUtils.cpp	/^int WriteScalarFromString(vx_scalar scalar, const char str[])$/;"	f
+_CRT_SECURE_NO_WARNINGS	runvx.cpp	27;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxArray.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxConvolution.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxDistribution.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxEngine.cpp	26;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxEngineUtil.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxImage.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxLUT.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxMatrix.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxParamHelper.cpp	27;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxParameter.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxPyramid.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxRemap.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxScalar.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxTensor.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxThreshold.cpp	23;"	d	file:
+_CRT_SECURE_NO_WARNINGS	vxUtils.cpp	26;"	d	file:
+_USE_MATH_DEFINES	vxUtils.h	69;"	d
+__VX_ARRAY_H__	vxArray.h	25;"	d
+__VX_CONVOLUTION_H__	vxConvolution.h	25;"	d
+__VX_DISTRIBUTION_H__	vxDistribution.h	25;"	d
+__VX_IMAGE_H__	vxImage.h	25;"	d
+__VX_LUT_H__	vxLUT.h	25;"	d
+__VX_MATRIX_H__	vxMatrix.h	25;"	d
+__VX_PARAMETER_H__	vxParameter.h	25;"	d
+__VX_PARAMHELPER_H__	vxParamHelper.h	25;"	d
+__VX_PYRAMID_H__	vxPyramid.h	25;"	d
+__VX_REMAP_H__	vxRemap.h	25;"	d
+__VX_SCALAR_H__	vxScalar.h	25;"	d
+__VX_TENSOR_H__	vxTensor.h	25;"	d
+__VX_THRESHOLD_H__	vxThreshold.h	25;"	d
+__VX_UTILS_H__	vxUtils.h	25;"	d
+__vxEngineUtil_h__	vxEngineUtil.h	29;"	d
+_stricmp	vxUtils.h	65;"	d
+_strnicmp	vxUtils.h	64;"	d
+buffer_aligned	vxEngineUtil.h	/^	unsigned char * buffer_allocated, *buffer_aligned;$/;"	m	class:CFileBuffer
+buffer_allocated	vxEngineUtil.h	/^	unsigned char * buffer_allocated, *buffer_aligned;$/;"	m	class:CFileBuffer
+colorIndex	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+convert_image_format	vxUtils.cpp	/^int convert_image_format(string format){$/;"	f
+g_numCvUse	vxParamHelper.cpp	/^int g_numCvUse = 0;$/;"	v
+g_trackBarActive	vxParamHelper.cpp	/^static int g_trackBarActive = 0;$/;"	v	file:
+g_trackBarAngle	vxParamHelper.cpp	/^static float g_trackBarValueR[MAX_INPUT_TRACK_BARS] = { 0.0f }, g_trackBarAngle[MAX_INPUT_TRACK_BARS][3] = { 0.0f, 0.0f, 0.0f };$/;"	v	file:
+g_trackBarObj	vxParamHelper.cpp	/^static vx_reference g_trackBarObj[MAX_INPUT_TRACK_BARS] = { 0 };$/;"	v	file:
+g_trackBarValueInc	vxParamHelper.cpp	/^static float g_trackBarValueMin[MAX_INPUT_TRACK_BARS], g_trackBarValueMax[MAX_INPUT_TRACK_BARS], g_trackBarValueInc[MAX_INPUT_TRACK_BARS];$/;"	v	file:
+g_trackBarValueMax	vxParamHelper.cpp	/^static float g_trackBarValueMin[MAX_INPUT_TRACK_BARS], g_trackBarValueMax[MAX_INPUT_TRACK_BARS], g_trackBarValueInc[MAX_INPUT_TRACK_BARS];$/;"	v	file:
+g_trackBarValueMin	vxParamHelper.cpp	/^static float g_trackBarValueMin[MAX_INPUT_TRACK_BARS], g_trackBarValueMax[MAX_INPUT_TRACK_BARS], g_trackBarValueInc[MAX_INPUT_TRACK_BARS];$/;"	v	file:
+g_trackBarValueR	vxParamHelper.cpp	/^static float g_trackBarValueR[MAX_INPUT_TRACK_BARS] = { 0.0f }, g_trackBarAngle[MAX_INPUT_TRACK_BARS][3] = { 0.0f, 0.0f, 0.0f };$/;"	v	file:
+getContext	vxEngine.cpp	/^vx_context CVxEngine::getContext()$/;"	f	class:CVxEngine
+getDisplayName	vxParameter.h	/^	string getDisplayName() { return m_displayName; }$/;"	f	class:CVxParameter
+h	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+itemtype	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+log_callback	vxEngine.cpp	/^static void VX_CALLBACK log_callback(vx_context context, vx_reference ref, vx_status status, const vx_char string[])$/;"	f	file:
+m_active_handle	vxImage.h	/^	int m_active_handle;$/;"	m	class:CVxParamImage
+m_active_handle	vxTensor.h	/^	vx_size m_active_handle;$/;"	m	class:CVxParamTensor
+m_addr	vxImage.h	/^	vx_imagepatch_addressing_t m_addr[4];$/;"	m	class:CVxParamImage
+m_array	vxArray.h	/^	vx_array m_array;$/;"	m	class:CVxParamArray
+m_arrayListForView	vxParameter.h	/^	std::vector<ArrayItemForView> m_arrayListForView;$/;"	m	class:CVxParameter
+m_avgErrorLimit	vxTensor.h	/^	float m_avgErrorLimit;$/;"	m	class:CVxParamTensor
+m_bufForAccess	vxConvolution.h	/^	vx_int16 * m_bufForAccess;$/;"	m	class:CVxParamConvolution
+m_bufForAccess	vxMatrix.h	/^	vx_uint8 * m_bufForAccess;$/;"	m	class:CVxParamMatrix
+m_bufForCompare	vxDistribution.h	/^	vx_uint32 * m_bufForCompare;$/;"	m	class:CVxParamDistribution
+m_bufForCompare	vxImage.h	/^	vx_uint8 * m_bufForCompare;$/;"	m	class:CVxParamImage
+m_bufForCompare	vxPyramid.h	/^	vx_uint8 * m_bufForCompare;$/;"	m	class:CVxParamPyramid
+m_bufForRead	vxArray.h	/^	vx_uint8 * m_bufForRead;$/;"	m	class:CVxParamArray
+m_cameraName	vxImage.h	/^	char m_cameraName[256];$/;"	m	class:CVxParamImage
+m_capacity	vxArray.h	/^	vx_size m_capacity;$/;"	m	class:CVxParamArray
+m_captureFrameStart	vxParameter.h	/^	vx_uint32 m_captureFrameStart;$/;"	m	class:CVxParameter
+m_captureHeight	vxImage.h	/^	vx_uint32 m_captureHeight;$/;"	m	class:CVxParamImage
+m_captureWidth	vxImage.h	/^	vx_uint32 m_captureWidth;$/;"	m	class:CVxParamImage
+m_checkSum	vxUtils.h	/^	char m_checkSum[33];$/;"	m	class:CHasher
+m_colorIndexDefault	vxImage.h	/^	int m_colorIndexDefault;$/;"	m	class:CVxParamImage
+m_columns	vxConvolution.h	/^	vx_size m_columns;$/;"	m	class:CVxParamConvolution
+m_columns	vxMatrix.h	/^	vx_size m_columns;$/;"	m	class:CVxParamMatrix
+m_compareCountMatches	vxArray.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamArray
+m_compareCountMatches	vxConvolution.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamConvolution
+m_compareCountMatches	vxDistribution.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamDistribution
+m_compareCountMatches	vxImage.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamImage
+m_compareCountMatches	vxLUT.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamLUT
+m_compareCountMatches	vxMatrix.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamMatrix
+m_compareCountMatches	vxPyramid.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamPyramid
+m_compareCountMatches	vxRemap.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamRemap
+m_compareCountMatches	vxScalar.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamScalar
+m_compareCountMatches	vxTensor.h	/^	int m_compareCountMatches;$/;"	m	class:CVxParamTensor
+m_compareCountMismatches	vxArray.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamArray
+m_compareCountMismatches	vxConvolution.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamConvolution
+m_compareCountMismatches	vxDistribution.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamDistribution
+m_compareCountMismatches	vxImage.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamImage
+m_compareCountMismatches	vxLUT.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamLUT
+m_compareCountMismatches	vxMatrix.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamMatrix
+m_compareCountMismatches	vxPyramid.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamPyramid
+m_compareCountMismatches	vxRemap.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamRemap
+m_compareCountMismatches	vxScalar.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamScalar
+m_compareCountMismatches	vxTensor.h	/^	int m_compareCountMismatches;$/;"	m	class:CVxParamTensor
+m_compareFileIsBinary	vxArray.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamArray
+m_compareFileIsBinary	vxConvolution.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamConvolution
+m_compareFileIsBinary	vxDistribution.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamDistribution
+m_compareFileIsBinary	vxLUT.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamLUT
+m_compareFileIsBinary	vxMatrix.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamMatrix
+m_compareFileIsBinary	vxTensor.h	/^	bool m_compareFileIsBinary;$/;"	m	class:CVxParamTensor
+m_compareFileWithScale	vxConvolution.h	/^	bool m_compareFileWithScale;$/;"	m	class:CVxParamConvolution
+m_comparePixelErrorMax	vxImage.h	/^	float m_comparePixelErrorMax;$/;"	m	class:CVxParamImage
+m_comparePixelErrorMax	vxPyramid.h	/^	float m_comparePixelErrorMax;$/;"	m	class:CVxParamPyramid
+m_comparePixelErrorMin	vxImage.h	/^	float m_comparePixelErrorMin;$/;"	m	class:CVxParamImage
+m_comparePixelErrorMin	vxPyramid.h	/^	float m_comparePixelErrorMin;$/;"	m	class:CVxParamPyramid
+m_compareRangeInRef	vxScalar.h	/^	bool m_compareRangeInRef;$/;"	m	class:CVxParamScalar
+m_context	vxEngine.h	/^	vx_context m_context;$/;"	m	class:CVxEngine
+m_convolution	vxConvolution.h	/^	vx_convolution m_convolution;$/;"	m	class:CVxParamConvolution
+m_count	vxLUT.h	/^	vx_size m_count;$/;"	m	class:CVxParamLUT
+m_count	vxParameter.h	/^	vx_size m_count;$/;"	m	class:CVxParamDelay
+m_countFrames	vxImage.h	/^	int m_countFrames;$/;"	m	class:CVxParamImage
+m_countInitializeIO	vxImage.h	/^	int m_countInitializeIO;$/;"	m	class:CVxParamImage
+m_cryptHash	vxUtils.h	/^	HCRYPTHASH m_cryptHash;$/;"	m	class:CHasher
+m_cryptProv	vxUtils.h	/^	HCRYPTPROV m_cryptProv;$/;"	m	class:CHasher
+m_cvCapDev	vxImage.h	/^	void * m_cvCapDev;$/;"	m	class:CVxParamImage
+m_cvCapMat	vxImage.h	/^	void * m_cvCapMat;$/;"	m	class:CVxParamImage
+m_cvDispMat	vxImage.h	/^	cv::Mat * m_cvDispMat;$/;"	m	class:CVxParamImage
+m_cvImage	vxImage.h	/^	cv::Mat * m_cvImage;$/;"	m	class:CVxParamImage
+m_cvReadEofOccured	vxImage.h	/^	bool m_cvReadEofOccured;$/;"	m	class:CVxParamImage
+m_cvWriter	vxImage.h	/^	void * m_cvWriter;$/;"	m	class:CVxParamImage
+m_data	vxTensor.h	/^	vx_uint8 * m_data;$/;"	m	class:CVxParamTensor
+m_data_type	vxLUT.h	/^	vx_enum m_data_type;$/;"	m	class:CVxParamLUT
+m_data_type	vxMatrix.h	/^	vx_enum m_data_type;$/;"	m	class:CVxParamMatrix
+m_data_type	vxTensor.h	/^	vx_enum m_data_type;$/;"	m	class:CVxParamTensor
+m_data_type	vxThreshold.h	/^	vx_enum m_data_type;$/;"	m	class:CVxParamThreshold
+m_delay	vxParameter.h	/^	vx_delay m_delay;$/;"	m	class:CVxParamDelay
+m_dims	vxTensor.h	/^	vx_size m_dims[MAX_TENSOR_DIMENSIONS];$/;"	m	class:CVxParamTensor
+m_disableCompare	vxEngine.h	/^	bool m_disableCompare;$/;"	m	class:CVxEngine
+m_disableVirtual	vxEngine.h	/^	bool m_disableVirtual;$/;"	m	class:CVxEngine
+m_disableWaitForKeyPress	vxImage.h	/^	bool m_disableWaitForKeyPress;$/;"	m	class:CVxParamImage
+m_discardCommandList	vxEngine.h	/^	std::string m_discardCommandList;$/;"	m	class:CVxEngine
+m_discardCompareErrors	vxEngine.h	/^	bool m_discardCompareErrors;$/;"	m	class:CVxEngine
+m_discardCompareErrors	vxParameter.h	/^	bool m_discardCompareErrors;$/;"	m	class:CVxParameter
+m_displayName	vxParameter.h	/^	string m_displayName;$/;"	m	class:CVxParameter
+m_distribution	vxDistribution.h	/^	vx_distribution m_distribution;$/;"	m	class:CVxParamDistribution
+m_doNotResizeCapturedImages	vxImage.h	/^	bool m_doNotResizeCapturedImages;$/;"	m	class:CVxParamImage
+m_dstHeight	vxRemap.h	/^	vx_uint32 m_dstHeight;$/;"	m	class:CVxParamRemap
+m_dstWidth	vxRemap.h	/^	vx_uint32 m_dstWidth;$/;"	m	class:CVxParamRemap
+m_dumpDataCount	vxEngine.h	/^	int m_dumpDataCount;$/;"	m	class:CVxEngine
+m_dumpDataEnabled	vxEngine.h	/^	bool m_dumpDataEnabled;$/;"	m	class:CVxEngine
+m_dumpDataFilePrefix	vxEngine.h	/^	std::string m_dumpDataFilePrefix;$/;"	m	class:CVxEngine
+m_dumpDataObjectList	vxEngine.h	/^	std::string m_dumpDataObjectList;$/;"	m	class:CVxEngine
+m_enableDumpGDF	vxEngine.h	/^	bool m_enableDumpGDF;$/;"	m	class:CVxEngine
+m_enableDumpProfile	vxEngine.h	/^	bool m_enableDumpProfile;$/;"	m	class:CVxEngine
+m_enableMultiFrameProcessing	vxEngine.h	/^	bool m_enableMultiFrameProcessing;$/;"	m	class:CVxEngine
+m_enableScheduleGraph	vxEngine.h	/^	bool m_enableScheduleGraph;$/;"	m	class:CVxEngine
+m_end	vxTensor.h	/^	vx_size m_end[MAX_TENSOR_DIMENSIONS];$/;"	m	class:CVxParamTensor
+m_errMismatchPercent	vxArray.h	/^	vx_float32 m_errMismatchPercent;$/;"	m	class:CVxParamArray
+m_errStrength	vxArray.h	/^	vx_float32 m_errStrength;$/;"	m	class:CVxParamArray
+m_errTolerance	vxMatrix.h	/^	float m_errTolerance;$/;"	m	class:CVxParamMatrix
+m_errX	vxArray.h	/^	vx_int32 m_errX;$/;"	m	class:CVxParamArray
+m_errY	vxArray.h	/^	vx_int32 m_errY;$/;"	m	class:CVxParamArray
+m_fileNameCompare	vxParameter.h	/^	string m_fileNameCompare;$/;"	m	class:CVxParameter
+m_fileNameCompareCurrent	vxImage.h	/^	char m_fileNameCompareCurrent[256];$/;"	m	class:CVxParamImage
+m_fileNameCompareLog	vxArray.h	/^	std::string m_fileNameCompareLog;$/;"	m	class:CVxParamArray
+m_fileNameForCompareHasIndex	vxParameter.h	/^	bool m_fileNameForCompareHasIndex;$/;"	m	class:CVxParameter
+m_fileNameForReadHasIndex	vxParameter.h	/^	bool m_fileNameForReadHasIndex;$/;"	m	class:CVxParameter
+m_fileNameForWriteHasIndex	vxParameter.h	/^	bool m_fileNameForWriteHasIndex;$/;"	m	class:CVxParameter
+m_fileNameRead	vxParameter.h	/^	string m_fileNameRead;$/;"	m	class:CVxParameter
+m_fileNameWrite	vxParameter.h	/^	string m_fileNameWrite;$/;"	m	class:CVxParameter
+m_fixed_point_pos	vxTensor.h	/^	vx_uint32 m_fixed_point_pos;$/;"	m	class:CVxParamTensor
+m_format	vxArray.h	/^	vx_enum m_format;$/;"	m	class:CVxParamArray
+m_format	vxImage.h	/^	vx_df_image m_format;$/;"	m	class:CVxParamImage
+m_format	vxPyramid.h	/^	vx_df_image m_format;$/;"	m	class:CVxParamPyramid
+m_format	vxScalar.h	/^	vx_enum m_format;$/;"	m	class:CVxParamScalar
+m_fpCompare	vxParameter.h	/^	FILE * m_fpCompare;$/;"	m	class:CVxParameter
+m_fpCompareImage	vxPyramid.h	/^	FILE ** m_fpCompareImage;$/;"	m	class:CVxParamPyramid
+m_fpRead	vxParameter.h	/^	FILE * m_fpRead;$/;"	m	class:CVxParameter
+m_fpReadImage	vxPyramid.h	/^	FILE ** m_fpReadImage;$/;"	m	class:CVxParamPyramid
+m_fpWrite	vxParameter.h	/^	FILE * m_fpWrite;$/;"	m	class:CVxParameter
+m_fpWriteImage	vxPyramid.h	/^	FILE ** m_fpWriteImage;$/;"	m	class:CVxParamPyramid
+m_frameCountSpecified	vxEngine.h	/^	bool m_frameCountSpecified;$/;"	m	class:CVxEngine
+m_frameEnd	vxEngine.h	/^	int m_frameEnd;$/;"	m	class:CVxEngine
+m_frameSize	vxImage.h	/^	size_t m_frameSize;$/;"	m	class:CVxParamImage
+m_frameStart	vxEngine.h	/^	int m_frameStart;$/;"	m	class:CVxEngine
+m_framesEofRequested	vxEngine.h	/^	bool m_framesEofRequested;$/;"	m	class:CVxEngine
+m_generateCheckSumForCompare	vxImage.h	/^	bool m_generateCheckSumForCompare;$/;"	m	class:CVxParamImage
+m_generateCheckSumForCompare	vxPyramid.h	/^	bool m_generateCheckSumForCompare;$/;"	m	class:CVxParamPyramid
+m_gotCaptureVideoSize	vxImage.h	/^	bool m_gotCaptureVideoSize;$/;"	m	class:CVxParamImage
+m_graph	vxEngine.h	/^	vx_graph m_graph;$/;"	m	class:CVxEngine
+m_graphAutoAgeList	vxEngine.h	/^	std::vector<std::string> m_graphAutoAgeList;$/;"	m	class:CVxEngine
+m_graphNameListForAge	vxEngine.h	/^	std::map<std::string, std::vector<std::string> > m_graphNameListForAge;$/;"	m	class:CVxEngine
+m_graphNameListForObj	vxEngine.h	/^	std::map<std::string, vx_graph> m_graphNameListForObj;$/;"	m	class:CVxEngine
+m_graphVerified	vxEngine.h	/^	bool m_graphVerified;$/;"	m	class:CVxEngine
+m_handle	vxUtils.h	/^	MD5_CTX m_handle;$/;"	m	class:CHasher
+m_hash	vxUtils.h	/^	vx_uint8 m_hash[16];$/;"	m	class:CHasher
+m_height	vxImage.h	/^	vx_uint32 m_height;$/;"	m	class:CVxParamImage
+m_height	vxPyramid.h	/^	vx_uint32 m_height;$/;"	m	class:CVxParamPyramid
+m_image	vxImage.h	/^	vx_image m_image;$/;"	m	class:CVxParamImage
+m_imageFrameSize	vxPyramid.h	/^	size_t * m_imageFrameSize;$/;"	m	class:CVxParamPyramid
+m_isVirtualObject	vxParameter.h	/^	bool m_isVirtualObject;$/;"	m	class:CVxParameter
+m_itemSize	vxArray.h	/^	vx_size m_itemSize;$/;"	m	class:CVxParamArray
+m_lut	vxLUT.h	/^	vx_lut m_lut;$/;"	m	class:CVxParamLUT
+m_matrix	vxMatrix.h	/^	vx_matrix m_matrix;$/;"	m	class:CVxParamMatrix
+m_maxErrorLimit	vxTensor.h	/^	float m_maxErrorLimit;$/;"	m	class:CVxParamTensor
+m_memory_handle	vxImage.h	/^	void * m_memory_handle[2][4];$/;"	m	class:CVxParamImage
+m_memory_handle	vxTensor.h	/^	void * m_memory_handle[MAX_BUFFER_HANDLES];$/;"	m	class:CVxParamTensor
+m_memory_type	vxImage.h	/^	vx_enum m_memory_type;$/;"	m	class:CVxParamImage
+m_memory_type	vxTensor.h	/^	vx_enum m_memory_type;$/;"	m	class:CVxParamTensor
+m_numBins	vxDistribution.h	/^	vx_size m_numBins;$/;"	m	class:CVxParamDistribution
+m_numGraphProcessed	vxEngine.h	/^	int m_numGraphProcessed;$/;"	m	class:CVxEngine
+m_numLevels	vxPyramid.h	/^	vx_size m_numLevels;$/;"	m	class:CVxParamPyramid
+m_num_handles	vxTensor.h	/^	vx_size m_num_handles;$/;"	m	class:CVxParamTensor
+m_num_of_dims	vxTensor.h	/^	vx_size m_num_of_dims;$/;"	m	class:CVxParamTensor
+m_offset	vxDistribution.h	/^	vx_int32 m_offset;$/;"	m	class:CVxParamDistribution
+m_paramCount	vxEngine.h	/^	int m_paramCount;$/;"	m	class:CVxEngine
+m_paramList	vxParameter.cpp	/^list<CVxParameter *> CVxParameter::m_paramList;$/;"	m	class:CVxParameter	file:
+m_paramList	vxParameter.h	/^	static list<CVxParameter *> m_paramList;$/;"	m	class:CVxParameter
+m_paramMap	vxEngine.h	/^	map<string, CVxParameter *> m_paramMap;$/;"	m	class:CVxEngine
+m_paramMap	vxParameter.h	/^	std::map<std::string, CVxParameter *> * m_paramMap;$/;"	m	class:CVxParameter
+m_planes	vxImage.h	/^	vx_size m_planes;$/;"	m	class:CVxParamImage
+m_pyramid	vxPyramid.h	/^	vx_pyramid m_pyramid;$/;"	m	class:CVxParamPyramid
+m_pyramidFrameSize	vxPyramid.h	/^	size_t m_pyramidFrameSize;$/;"	m	class:CVxParamPyramid
+m_radiusDefault	vxImage.h	/^	float m_radiusDefault;$/;"	m	class:CVxParamImage
+m_range	vxDistribution.h	/^	vx_uint32 m_range;$/;"	m	class:CVxParamDistribution
+m_readFileIsBinary	vxArray.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamArray
+m_readFileIsBinary	vxConvolution.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamConvolution
+m_readFileIsBinary	vxDistribution.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamDistribution
+m_readFileIsBinary	vxLUT.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamLUT
+m_readFileIsBinary	vxMatrix.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamMatrix
+m_readFileIsBinary	vxRemap.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamRemap
+m_readFileIsBinary	vxTensor.h	/^	bool m_readFileIsBinary;$/;"	m	class:CVxParamTensor
+m_readFileWithScale	vxConvolution.h	/^	bool m_readFileWithScale;$/;"	m	class:CVxParamConvolution
+m_rectCompare	vxImage.h	/^	vx_rectangle_t m_rectCompare;  \/\/ rectangle used to save rectangular region used for compare$/;"	m	class:CVxParamImage
+m_rectCompare	vxPyramid.h	/^	vx_rectangle_t m_rectCompare;        \/\/ rectangle used to save rectangular region used for compare$/;"	m	class:CVxParamPyramid
+m_rectCompareLevel	vxPyramid.h	/^	vx_rectangle_t * m_rectCompareLevel; \/\/ rectangle for image compate at each level$/;"	m	class:CVxParamPyramid
+m_rectFull	vxImage.h	/^	vx_rectangle_t m_rectFull;     \/\/ rectangle with full image size for use by access\/commit$/;"	m	class:CVxParamImage
+m_rectFullLevel	vxPyramid.h	/^	vx_rectangle_t * m_rectFullLevel;    \/\/ rectangle for full image size for use by access\/commit$/;"	m	class:CVxParamPyramid
+m_remap	vxRemap.h	/^	vx_remap m_remap;$/;"	m	class:CVxParamRemap
+m_repeatFrames	vxImage.h	/^	int m_repeatFrames;$/;"	m	class:CVxParamImage
+m_roiMasterName	vxImage.h	/^	char m_roiMasterName[64];      \/\/ name of ROI image master$/;"	m	class:CVxParamImage
+m_roiRegion	vxImage.h	/^	vx_rectangle_t m_roiRegion;    \/\/ rectangle used to save ROI image dimensions$/;"	m	class:CVxParamImage
+m_rows	vxConvolution.h	/^	vx_size m_rows;$/;"	m	class:CVxParamConvolution
+m_rows	vxMatrix.h	/^	vx_size m_rows;$/;"	m	class:CVxParamMatrix
+m_scalar	vxScalar.h	/^	vx_scalar m_scalar;$/;"	m	class:CVxParamScalar
+m_scale	vxConvolution.h	/^	vx_uint32 m_scale;$/;"	m	class:CVxParamConvolution
+m_scale	vxPyramid.h	/^	vx_float32 m_scale;$/;"	m	class:CVxParamPyramid
+m_size	vxMatrix.h	/^	vx_size m_size;$/;"	m	class:CVxParamMatrix
+m_size	vxTensor.h	/^	vx_size m_size;$/;"	m	class:CVxParamTensor
+m_srcHeight	vxRemap.h	/^	vx_uint32 m_srcHeight;$/;"	m	class:CVxParamRemap
+m_srcWidth	vxRemap.h	/^	vx_uint32 m_srcWidth;$/;"	m	class:CVxParamRemap
+m_start	vxTensor.h	/^	vx_size m_start[MAX_TENSOR_DIMENSIONS];$/;"	m	class:CVxParamTensor
+m_stride	vxTensor.h	/^	vx_size m_stride[MAX_TENSOR_DIMENSIONS];$/;"	m	class:CVxParamTensor
+m_swap_handles	vxImage.h	/^	bool m_swap_handles;$/;"	m	class:CVxParamImage
+m_tensor	vxTensor.h	/^	vx_tensor m_tensor;$/;"	m	class:CVxParamTensor
+m_thresh_type	vxThreshold.h	/^	vx_enum m_thresh_type;$/;"	m	class:CVxParamThreshold
+m_threshold	vxThreshold.h	/^	vx_threshold m_threshold;$/;"	m	class:CVxParamThreshold
+m_timeMeasurements	vxEngine.h	/^	std::vector<float> m_timeMeasurements;$/;"	m	class:CVxEngine
+m_uniformValue	vxImage.h	/^	vx_pixel_value_t m_uniformValue; \/\/ uniform image value$/;"	m	class:CVxParamImage
+m_useCheckSumForCompare	vxImage.h	/^	bool m_useCheckSumForCompare;$/;"	m	class:CVxParamImage
+m_useCheckSumForCompare	vxPyramid.h	/^	bool m_useCheckSumForCompare;$/;"	m	class:CVxParamPyramid
+m_useSyncOpenCLWriteDirective	vxParameter.h	/^	bool m_useSyncOpenCLWriteDirective;$/;"	m	class:CVxParameter
+m_userStructMap	vxEngine.h	/^	map<string, vx_enum> m_userStructMap;$/;"	m	class:CVxEngine
+m_userStructMap	vxParameter.h	/^	std::map<std::string, vx_enum> * m_userStructMap;$/;"	m	class:CVxParameter
+m_usingDisplay	vxImage.h	/^	bool m_usingDisplay;$/;"	m	class:CVxParamImage
+m_usingMultiFrameCapture	vxEngine.h	/^	bool m_usingMultiFrameCapture;$/;"	m	class:CVxEngine
+m_usingMultiFrameCapture	vxParameter.h	/^	bool m_usingMultiFrameCapture;$/;"	m	class:CVxParameter
+m_usingWriter	vxImage.h	/^	bool m_usingWriter;$/;"	m	class:CVxParamImage
+m_verbose	vxEngine.h	/^	bool m_verbose;$/;"	m	class:CVxEngine
+m_verbose	vxParameter.h	/^	bool m_verbose;$/;"	m	class:CVxParameter
+m_viewKeypointFilenameList	vxImage.h	/^	std::list<std::string> m_viewKeypointFilenameList;$/;"	m	class:CVxParamImage
+m_vxObjName	vxParameter.h	/^	char m_vxObjName[64];$/;"	m	class:CVxParameter
+m_vxObjRef	vxParameter.h	/^	vx_reference m_vxObjRef;$/;"	m	class:CVxParameter
+m_vxObjType	vxParameter.h	/^	vx_enum m_vxObjType;$/;"	m	class:CVxParameter
+m_waitKeyDelayInMilliSeconds	vxEngine.h	/^	int m_waitKeyDelayInMilliSeconds;$/;"	m	class:CVxEngine
+m_width	vxImage.h	/^	vx_uint32 m_width;$/;"	m	class:CVxParamImage
+m_width	vxPyramid.h	/^	vx_uint32 m_width;$/;"	m	class:CVxParamPyramid
+m_writeFileIsBinary	vxArray.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamArray
+m_writeFileIsBinary	vxConvolution.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamConvolution
+m_writeFileIsBinary	vxDistribution.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamDistribution
+m_writeFileIsBinary	vxLUT.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamLUT
+m_writeFileIsBinary	vxMatrix.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamMatrix
+m_writeFileIsBinary	vxTensor.h	/^	bool m_writeFileIsBinary;$/;"	m	class:CVxParamTensor
+m_writeFileWithScale	vxConvolution.h	/^	bool m_writeFileWithScale;$/;"	m	class:CVxParamConvolution
+m_xyErr	vxRemap.h	/^	float m_xyErr[2];$/;"	m	class:CVxParamRemap
+main	runvx.cpp	/^int main(int argc, char * argv[])$/;"	f
+name	vxUtils.cpp	/^static struct { const char * name; vx_enum value; } s_table_constants[] = {$/;"	m	struct:__anon2	file:
+ovxEnum2Name	vxUtils.cpp	/^const char * ovxEnum2Name(vx_enum e)$/;"	f
+ovxEnum2String	vxUtils.cpp	/^void ovxEnum2String(vx_enum e, char str[])$/;"	f
+ovxName2Enum	vxUtils.cpp	/^vx_enum ovxName2Enum(const char * name)$/;"	f
+postfix_bytes	vxEngineUtil.h	/^	size_t size_in_bytes, prefix_bytes, postfix_bytes;$/;"	m	class:CFileBuffer
+prefix_bytes	vxEngineUtil.h	/^	size_t size_in_bytes, prefix_bytes, postfix_bytes;$/;"	m	class:CFileBuffer
+s_rootDir	vxUtils.cpp	/^static char s_rootDir[512] = ".";$/;"	v	file:
+s_table_constants	vxUtils.cpp	/^static struct { const char * name; vx_enum value; } s_table_constants[] = {$/;"	v	typeref:struct:__anon2	file:
+show_usage	runvx.cpp	/^void show_usage(const char * program, bool detail)$/;"	f
+size_in_bytes	vxEngineUtil.h	/^	size_t size_in_bytes, prefix_bytes, postfix_bytes;$/;"	m	class:CFileBuffer
+split	vxUtils.cpp	/^vector<string> &split(const string &s, char delim, vector<string> &elems){$/;"	f
+strength	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+stristr	vxUtils.cpp	/^const char * stristr(const char * str1, const char * str2)$/;"	f
+utilGetClockCounter	vxUtils.h	/^inline int64_t utilGetClockCounter()$/;"	f
+utilGetClockFrequency	vxUtils.h	/^inline int64_t utilGetClockFrequency()$/;"	f
+value	vxUtils.cpp	/^static struct { const char * name; vx_enum value; } s_table_constants[] = {$/;"	m	struct:__anon2	file:
+w	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+x	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+y	vxParameter.h	/^	struct ArrayItemForView { vx_enum itemtype; int colorIndex; int x, y; float strength; int w, h; };$/;"	m	struct:CVxParameter::ArrayItemForView
+~CFileBuffer	vxEngineUtil.h	/^	~CFileBuffer() { if (buffer_allocated) delete[] buffer_allocated; }$/;"	f	class:CFileBuffer
+~CHasher	vxUtils.cpp	/^CHasher::~CHasher(){$/;"	f	class:CHasher
+~CVxEngine	vxEngine.cpp	/^CVxEngine::~CVxEngine()$/;"	f	class:CVxEngine
+~CVxParamArray	vxArray.cpp	/^CVxParamArray::~CVxParamArray()$/;"	f	class:CVxParamArray
+~CVxParamConvolution	vxConvolution.cpp	/^CVxParamConvolution::~CVxParamConvolution()$/;"	f	class:CVxParamConvolution
+~CVxParamDelay	vxParameter.cpp	/^CVxParamDelay::~CVxParamDelay()$/;"	f	class:CVxParamDelay
+~CVxParamDistribution	vxDistribution.cpp	/^CVxParamDistribution::~CVxParamDistribution()$/;"	f	class:CVxParamDistribution
+~CVxParamImage	vxImage.cpp	/^CVxParamImage::~CVxParamImage()$/;"	f	class:CVxParamImage
+~CVxParamLUT	vxLUT.cpp	/^CVxParamLUT::~CVxParamLUT()$/;"	f	class:CVxParamLUT
+~CVxParamMatrix	vxMatrix.cpp	/^CVxParamMatrix::~CVxParamMatrix()$/;"	f	class:CVxParamMatrix
+~CVxParamPyramid	vxPyramid.cpp	/^CVxParamPyramid::~CVxParamPyramid()$/;"	f	class:CVxParamPyramid
+~CVxParamRemap	vxRemap.cpp	/^CVxParamRemap::~CVxParamRemap()$/;"	f	class:CVxParamRemap
+~CVxParamScalar	vxScalar.cpp	/^CVxParamScalar::~CVxParamScalar()$/;"	f	class:CVxParamScalar
+~CVxParamTensor	vxTensor.cpp	/^CVxParamTensor::~CVxParamTensor()$/;"	f	class:CVxParamTensor
+~CVxParamThreshold	vxThreshold.cpp	/^CVxParamThreshold::~CVxParamThreshold()$/;"	f	class:CVxParamThreshold
+~CVxParameter	vxParameter.cpp	/^CVxParameter::~CVxParameter()$/;"	f	class:CVxParameter

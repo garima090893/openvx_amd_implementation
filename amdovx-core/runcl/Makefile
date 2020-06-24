@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl/CMakeFiles/progress.marks
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl/CMakeFiles/progress.marks
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/clean
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 runcl/CMakeFiles/runcl.dir/rule:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/CMakeFiles/runcl.dir/rule
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runcl/CMakeFiles/runcl.dir/rule
 .PHONY : runcl/CMakeFiles/runcl.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ runcl: runcl/CMakeFiles/runcl.dir/rule
 
 # fast build rule for target.
 runcl/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/build
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/build
 .PHONY : runcl/fast
 
 runcl.o: runcl.cpp.o
@@ -177,7 +177,7 @@ runcl.o: runcl.cpp.o
 
 # target to build an object file
 runcl.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.o
 .PHONY : runcl.cpp.o
 
 runcl.i: runcl.cpp.i
@@ -186,7 +186,7 @@ runcl.i: runcl.cpp.i
 
 # target to preprocess a source file
 runcl.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.i
 .PHONY : runcl.cpp.i
 
 runcl.s: runcl.cpp.s
@@ -195,7 +195,7 @@ runcl.s: runcl.cpp.s
 
 # target to generate assembly for a file
 runcl.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runcl/CMakeFiles/runcl.dir/build.make runcl/CMakeFiles/runcl.dir/runcl.cpp.s
 .PHONY : runcl.cpp.s
 
 # Help Target
@@ -225,6 +225,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

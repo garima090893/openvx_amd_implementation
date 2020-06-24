@@ -4,23 +4,23 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/runvx.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/runvx.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxArray.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxArray.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxConvolution.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxDistribution.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngine.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxEngineUtil.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxImage.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxImage.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxLUT.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxMatrix.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParamHelper.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxParameter.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxPyramid.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxRemap.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxScalar.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxTensor.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxThreshold.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o"
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/vxUtils.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/runvx.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/runvx.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxArray.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxArray.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxConvolution.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxDistribution.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngine.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxEngineUtil.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxImage.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxImage.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxLUT.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxMatrix.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParamHelper.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxParameter.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxPyramid.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxRemap.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxScalar.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxTensor.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxThreshold.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/vxUtils.cpp" "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -90,7 +90,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/openvx/CMakeFiles/openvx.dir/DependInfo.cmake"
+  "/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/CMakeFiles/openvx.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

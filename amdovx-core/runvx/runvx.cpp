@@ -20,6 +20,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
+#define NAUTICS_DEBUG
+#ifdef NAUTICS_DEBUG
+#endif
+
 #define _CRT_SECURE_NO_WARNINGS
 #include "vxParamHelper.h"
 #include "vxEngineUtil.h"
@@ -35,6 +39,9 @@ THE SOFTWARE.
 
 void show_usage(const char * program, bool detail)
 {
+#ifdef NAUTICS_DEBUG
+	printf("runvx.cpp: show_usage()\n");
+#endif
 	printf("\n");
 	printf("Usage:\n");
 	printf("  %s [options] [file] <file.gdf> [argument(s)]\n", RUNVX_PROGRAM);
@@ -79,6 +86,9 @@ void show_usage(const char * program, bool detail)
 
 int main(int argc, char * argv[])
 {	
+#ifdef NAUTICS_DEBUG
+	printf("\nrunvx.cpp: main()\n");
+#endif
 	printf("%s %s\n", RUNVX_PROGRAM, RUNVX_VERSION);
 	// process command-line options
 	const char * program = RUNVX_PROGRAM;
@@ -101,6 +111,9 @@ int main(int argc, char * argv[])
 	std::string dumpDataConfig = "";
 	std::string discardCommandList = "";
 	for (arg = 1; arg < argc; arg++){
+#ifdef NAUTICS_DEBUG
+	printf("runvx.cpp: main()- Commandline params- %s\n", argv[arg]);
+#endif
 		if (argv[arg][0] == '-'){
 			if (!_stricmp(argv[arg], "-h")) {
 				show_usage(program, true);
@@ -135,7 +148,7 @@ int main(int argc, char * argv[])
 					else {
 						int k = sscanf(&argv[arg][spos], "%d:%d", &frameStart, &frameEnd);
 						if (k == 1) { frameEnd = frameStart, frameStart = 0; }
-						else if (k != 2) { printf("ERROR: invalid -frames option\n"); return -1; }
+						else if (k != 2) { printf("runvx.cpp: main() ERROR: invalid -frames option\n"); return -1; }
 						frameCountSpecified = true;
 						while (argv[arg][spos] && argv[arg][spos] != ',')
 							spos++;
@@ -145,7 +158,7 @@ int main(int argc, char * argv[])
 			else if (!_strnicmp(argv[arg], "-affinity:", 10)) {
 				if (!_strnicmp(&argv[arg][10], "cpu", 3)) defaultTargetAffinity = AGO_TARGET_AFFINITY_CPU;
 				else if (!_strnicmp(&argv[arg][10], "gpu", 3)) defaultTargetAffinity = AGO_TARGET_AFFINITY_GPU;
-				else { printf("ERROR: unsupported affinity target: %s\n", &argv[arg][10]); return -1; }
+				else { printf("runvx.cpp: main() ERROR: unsupported affinity target: %s\n", &argv[arg][10]); return -1; }
 				if (argv[arg][13] >= '0' && argv[arg][13] <= '9')
 					defaultTargetInfo = atoi(&argv[arg][13]);
 			}
@@ -180,7 +193,7 @@ int main(int argc, char * argv[])
 				if (sscanf(&argv[arg][23], "%i", &graphOptimizerFlags) == 1) {
 					doSetGraphOptimizerFlags = true;
 				}
-				else { printf("ERROR: invalid graph optimizer flags: %s\n", argv[arg]); return -1; }
+				else { printf("runvx.cpp: main() ERROR: invalid graph optimizer flags: %s\n", argv[arg]); return -1; }
 			}
 			else if (!_strnicmp(argv[arg], "-key-wait-delay:", 16)) {
 				(void)sscanf(&argv[arg][16], "%i", &waitKeyDelayInMilliSeconds);
@@ -191,23 +204,38 @@ int main(int argc, char * argv[])
 			else if (!_stricmp(argv[arg], "-no-pause")) {
 				noPauseBeforeExit = true;
 			}
-			else { printf("ERROR: invalid option: %s\n", argv[arg]); return -1; }
+			else { printf("runvx.cpp: main() ERROR: invalid option: %s\n", argv[arg]); return -1; }
 		}
 		else break;
 	}
 	if (arg == argc) { show_usage(program, false); return -1; }
 	int argCount = argc - arg - 1;
 	int argParamOffset = 1;
+#ifdef NAUTICS_DEBUG
+	printf("\nrunvx.cpp: main() - argCount, argParamOffset: %d %d \n", argCount, argParamOffset);
+#endif
+	
 	if (!_stricmp(argv[arg], "node") || !_stricmp(argv[arg], "file")) {
 		argParamOffset++;
 		argCount--;
+#ifdef NAUTICS_DEBUG
+		printf("\nrunvx.cpp: main() - argCount, argParamOffset: %d %d \n", argCount, argParamOffset);
+#endif
 	}
 	fflush(stdout);
 
+#ifdef NAUTICS_DEBUG
+	printf("\nrunvx.cpp: main() - Creating OpenCV object CVxEngine engine\n");
+#endif
 	CVxEngine engine;
 	int errorCode = 0;
 	try {
 		// initialize engine
+#ifdef NAUTICS_DEBUG
+		printf("runvx.cpp: main() - Initializing CVxEngine engine as per commandline arguments:\n");
+		printf("runvx.cpp: main() - argCount: %d , defaultTargetAffinity: %d, defaultTargetInfo: %d , enableScheduleGraph: %d, disableVirtual: %d\n", argCount, defaultTargetAffinity, defaultTargetInfo, enableScheduleGraph, disableVirtual);
+		printf("runvx.cpp: main() - enableFullProfile: %d , disableNodeFlushForCL: %d, discardCommandList: %s\n", enableFullProfile, disableNodeFlushForCL, discardCommandList);
+#endif
 		if (engine.Initialize(argCount, defaultTargetAffinity, defaultTargetInfo, enableScheduleGraph, disableVirtual, enableFullProfile, disableNodeFlushForCL, discardCommandList) < 0) throw - 1;
 		if (doSetGraphOptimizerFlags) {
 			engine.SetGraphOptimizerFlags(graphOptimizerFlags);
@@ -229,7 +257,7 @@ int main(int argc, char * argv[])
 		char * fullText = nullptr;
 		if (!_stricmp(argv[arg], "node")) {
 			if ((arg + 1) == argc)
-				ReportError("ERROR: missing kernel name on command-line (see help for details)\n");
+				ReportError("runvx.cpp: main() ERROR: missing kernel name on command-line (see help for details)\n");
 			int paramCount = argc - arg - 2;
 			arg++;
 			size_t size = strlen("node") + 1 + strlen(argv[arg]) + paramCount*6 + 1;
@@ -244,13 +272,14 @@ int main(int argc, char * argv[])
 		else {
 			if (!_stricmp(argv[arg], "file")) {
 				if ((arg + 1) == argc)
-					ReportError("ERROR: missing file name on command-line (see help for details)\n");
+					ReportError("runvx.cpp: main() ERROR: missing file name on command-line (see help for details)\n");
 				arg++;
 			}
 			const char * fileName = RootDirUpdated(argv[arg]);
 			size_t size = strlen("include") + 1 + strlen(fileName) + 1;
 			fullText = new char[size];
 			sprintf(fullText, "include %s", fileName);
+			printf("runvx.cpp: main() fullText: %s\n", fullText);
 		}
 
 		if (fullText) {

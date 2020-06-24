@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runcl/runcl.cpp
+/home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runcl/runcl.cpp
 stdio.h
 -
 string.h

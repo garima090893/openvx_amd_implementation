@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_SOURCE_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core
+CMAKE_BINARY_DIR = /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/runvx/CMakeFiles/progress.marks
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core/CMakeFiles 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/runvx/CMakeFiles/progress.marks
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/clean
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/preinstall
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 runvx/CMakeFiles/runvx.dir/rule:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/CMakeFiles/runvx.dir/rule
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f CMakeFiles/Makefile2 runvx/CMakeFiles/runvx.dir/rule
 .PHONY : runvx/CMakeFiles/runvx.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ runvx: runvx/CMakeFiles/runvx.dir/rule
 
 # fast build rule for target.
 runvx/fast:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/build
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/build
 .PHONY : runvx/fast
 
 runvx.o: runvx.cpp.o
@@ -177,7 +177,7 @@ runvx.o: runvx.cpp.o
 
 # target to build an object file
 runvx.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.o
 .PHONY : runvx.cpp.o
 
 runvx.i: runvx.cpp.i
@@ -186,7 +186,7 @@ runvx.i: runvx.cpp.i
 
 # target to preprocess a source file
 runvx.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.i
 .PHONY : runvx.cpp.i
 
 runvx.s: runvx.cpp.s
@@ -195,7 +195,7 @@ runvx.s: runvx.cpp.s
 
 # target to generate assembly for a file
 runvx.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/runvx.cpp.s
 .PHONY : runvx.cpp.s
 
 vxArray.o: vxArray.cpp.o
@@ -204,7 +204,7 @@ vxArray.o: vxArray.cpp.o
 
 # target to build an object file
 vxArray.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.o
 .PHONY : vxArray.cpp.o
 
 vxArray.i: vxArray.cpp.i
@@ -213,7 +213,7 @@ vxArray.i: vxArray.cpp.i
 
 # target to preprocess a source file
 vxArray.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.i
 .PHONY : vxArray.cpp.i
 
 vxArray.s: vxArray.cpp.s
@@ -222,7 +222,7 @@ vxArray.s: vxArray.cpp.s
 
 # target to generate assembly for a file
 vxArray.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxArray.cpp.s
 .PHONY : vxArray.cpp.s
 
 vxConvolution.o: vxConvolution.cpp.o
@@ -231,7 +231,7 @@ vxConvolution.o: vxConvolution.cpp.o
 
 # target to build an object file
 vxConvolution.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.o
 .PHONY : vxConvolution.cpp.o
 
 vxConvolution.i: vxConvolution.cpp.i
@@ -240,7 +240,7 @@ vxConvolution.i: vxConvolution.cpp.i
 
 # target to preprocess a source file
 vxConvolution.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.i
 .PHONY : vxConvolution.cpp.i
 
 vxConvolution.s: vxConvolution.cpp.s
@@ -249,7 +249,7 @@ vxConvolution.s: vxConvolution.cpp.s
 
 # target to generate assembly for a file
 vxConvolution.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxConvolution.cpp.s
 .PHONY : vxConvolution.cpp.s
 
 vxDistribution.o: vxDistribution.cpp.o
@@ -258,7 +258,7 @@ vxDistribution.o: vxDistribution.cpp.o
 
 # target to build an object file
 vxDistribution.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.o
 .PHONY : vxDistribution.cpp.o
 
 vxDistribution.i: vxDistribution.cpp.i
@@ -267,7 +267,7 @@ vxDistribution.i: vxDistribution.cpp.i
 
 # target to preprocess a source file
 vxDistribution.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.i
 .PHONY : vxDistribution.cpp.i
 
 vxDistribution.s: vxDistribution.cpp.s
@@ -276,7 +276,7 @@ vxDistribution.s: vxDistribution.cpp.s
 
 # target to generate assembly for a file
 vxDistribution.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxDistribution.cpp.s
 .PHONY : vxDistribution.cpp.s
 
 vxEngine.o: vxEngine.cpp.o
@@ -285,7 +285,7 @@ vxEngine.o: vxEngine.cpp.o
 
 # target to build an object file
 vxEngine.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.o
 .PHONY : vxEngine.cpp.o
 
 vxEngine.i: vxEngine.cpp.i
@@ -294,7 +294,7 @@ vxEngine.i: vxEngine.cpp.i
 
 # target to preprocess a source file
 vxEngine.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.i
 .PHONY : vxEngine.cpp.i
 
 vxEngine.s: vxEngine.cpp.s
@@ -303,7 +303,7 @@ vxEngine.s: vxEngine.cpp.s
 
 # target to generate assembly for a file
 vxEngine.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngine.cpp.s
 .PHONY : vxEngine.cpp.s
 
 vxEngineUtil.o: vxEngineUtil.cpp.o
@@ -312,7 +312,7 @@ vxEngineUtil.o: vxEngineUtil.cpp.o
 
 # target to build an object file
 vxEngineUtil.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.o
 .PHONY : vxEngineUtil.cpp.o
 
 vxEngineUtil.i: vxEngineUtil.cpp.i
@@ -321,7 +321,7 @@ vxEngineUtil.i: vxEngineUtil.cpp.i
 
 # target to preprocess a source file
 vxEngineUtil.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.i
 .PHONY : vxEngineUtil.cpp.i
 
 vxEngineUtil.s: vxEngineUtil.cpp.s
@@ -330,7 +330,7 @@ vxEngineUtil.s: vxEngineUtil.cpp.s
 
 # target to generate assembly for a file
 vxEngineUtil.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxEngineUtil.cpp.s
 .PHONY : vxEngineUtil.cpp.s
 
 vxImage.o: vxImage.cpp.o
@@ -339,7 +339,7 @@ vxImage.o: vxImage.cpp.o
 
 # target to build an object file
 vxImage.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.o
 .PHONY : vxImage.cpp.o
 
 vxImage.i: vxImage.cpp.i
@@ -348,7 +348,7 @@ vxImage.i: vxImage.cpp.i
 
 # target to preprocess a source file
 vxImage.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.i
 .PHONY : vxImage.cpp.i
 
 vxImage.s: vxImage.cpp.s
@@ -357,7 +357,7 @@ vxImage.s: vxImage.cpp.s
 
 # target to generate assembly for a file
 vxImage.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxImage.cpp.s
 .PHONY : vxImage.cpp.s
 
 vxLUT.o: vxLUT.cpp.o
@@ -366,7 +366,7 @@ vxLUT.o: vxLUT.cpp.o
 
 # target to build an object file
 vxLUT.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.o
 .PHONY : vxLUT.cpp.o
 
 vxLUT.i: vxLUT.cpp.i
@@ -375,7 +375,7 @@ vxLUT.i: vxLUT.cpp.i
 
 # target to preprocess a source file
 vxLUT.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.i
 .PHONY : vxLUT.cpp.i
 
 vxLUT.s: vxLUT.cpp.s
@@ -384,7 +384,7 @@ vxLUT.s: vxLUT.cpp.s
 
 # target to generate assembly for a file
 vxLUT.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxLUT.cpp.s
 .PHONY : vxLUT.cpp.s
 
 vxMatrix.o: vxMatrix.cpp.o
@@ -393,7 +393,7 @@ vxMatrix.o: vxMatrix.cpp.o
 
 # target to build an object file
 vxMatrix.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.o
 .PHONY : vxMatrix.cpp.o
 
 vxMatrix.i: vxMatrix.cpp.i
@@ -402,7 +402,7 @@ vxMatrix.i: vxMatrix.cpp.i
 
 # target to preprocess a source file
 vxMatrix.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.i
 .PHONY : vxMatrix.cpp.i
 
 vxMatrix.s: vxMatrix.cpp.s
@@ -411,7 +411,7 @@ vxMatrix.s: vxMatrix.cpp.s
 
 # target to generate assembly for a file
 vxMatrix.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxMatrix.cpp.s
 .PHONY : vxMatrix.cpp.s
 
 vxParamHelper.o: vxParamHelper.cpp.o
@@ -420,7 +420,7 @@ vxParamHelper.o: vxParamHelper.cpp.o
 
 # target to build an object file
 vxParamHelper.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.o
 .PHONY : vxParamHelper.cpp.o
 
 vxParamHelper.i: vxParamHelper.cpp.i
@@ -429,7 +429,7 @@ vxParamHelper.i: vxParamHelper.cpp.i
 
 # target to preprocess a source file
 vxParamHelper.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.i
 .PHONY : vxParamHelper.cpp.i
 
 vxParamHelper.s: vxParamHelper.cpp.s
@@ -438,7 +438,7 @@ vxParamHelper.s: vxParamHelper.cpp.s
 
 # target to generate assembly for a file
 vxParamHelper.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParamHelper.cpp.s
 .PHONY : vxParamHelper.cpp.s
 
 vxParameter.o: vxParameter.cpp.o
@@ -447,7 +447,7 @@ vxParameter.o: vxParameter.cpp.o
 
 # target to build an object file
 vxParameter.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.o
 .PHONY : vxParameter.cpp.o
 
 vxParameter.i: vxParameter.cpp.i
@@ -456,7 +456,7 @@ vxParameter.i: vxParameter.cpp.i
 
 # target to preprocess a source file
 vxParameter.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.i
 .PHONY : vxParameter.cpp.i
 
 vxParameter.s: vxParameter.cpp.s
@@ -465,7 +465,7 @@ vxParameter.s: vxParameter.cpp.s
 
 # target to generate assembly for a file
 vxParameter.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxParameter.cpp.s
 .PHONY : vxParameter.cpp.s
 
 vxPyramid.o: vxPyramid.cpp.o
@@ -474,7 +474,7 @@ vxPyramid.o: vxPyramid.cpp.o
 
 # target to build an object file
 vxPyramid.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.o
 .PHONY : vxPyramid.cpp.o
 
 vxPyramid.i: vxPyramid.cpp.i
@@ -483,7 +483,7 @@ vxPyramid.i: vxPyramid.cpp.i
 
 # target to preprocess a source file
 vxPyramid.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.i
 .PHONY : vxPyramid.cpp.i
 
 vxPyramid.s: vxPyramid.cpp.s
@@ -492,7 +492,7 @@ vxPyramid.s: vxPyramid.cpp.s
 
 # target to generate assembly for a file
 vxPyramid.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxPyramid.cpp.s
 .PHONY : vxPyramid.cpp.s
 
 vxRemap.o: vxRemap.cpp.o
@@ -501,7 +501,7 @@ vxRemap.o: vxRemap.cpp.o
 
 # target to build an object file
 vxRemap.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.o
 .PHONY : vxRemap.cpp.o
 
 vxRemap.i: vxRemap.cpp.i
@@ -510,7 +510,7 @@ vxRemap.i: vxRemap.cpp.i
 
 # target to preprocess a source file
 vxRemap.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.i
 .PHONY : vxRemap.cpp.i
 
 vxRemap.s: vxRemap.cpp.s
@@ -519,7 +519,7 @@ vxRemap.s: vxRemap.cpp.s
 
 # target to generate assembly for a file
 vxRemap.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxRemap.cpp.s
 .PHONY : vxRemap.cpp.s
 
 vxScalar.o: vxScalar.cpp.o
@@ -528,7 +528,7 @@ vxScalar.o: vxScalar.cpp.o
 
 # target to build an object file
 vxScalar.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.o
 .PHONY : vxScalar.cpp.o
 
 vxScalar.i: vxScalar.cpp.i
@@ -537,7 +537,7 @@ vxScalar.i: vxScalar.cpp.i
 
 # target to preprocess a source file
 vxScalar.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.i
 .PHONY : vxScalar.cpp.i
 
 vxScalar.s: vxScalar.cpp.s
@@ -546,7 +546,7 @@ vxScalar.s: vxScalar.cpp.s
 
 # target to generate assembly for a file
 vxScalar.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxScalar.cpp.s
 .PHONY : vxScalar.cpp.s
 
 vxTensor.o: vxTensor.cpp.o
@@ -555,7 +555,7 @@ vxTensor.o: vxTensor.cpp.o
 
 # target to build an object file
 vxTensor.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.o
 .PHONY : vxTensor.cpp.o
 
 vxTensor.i: vxTensor.cpp.i
@@ -564,7 +564,7 @@ vxTensor.i: vxTensor.cpp.i
 
 # target to preprocess a source file
 vxTensor.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.i
 .PHONY : vxTensor.cpp.i
 
 vxTensor.s: vxTensor.cpp.s
@@ -573,7 +573,7 @@ vxTensor.s: vxTensor.cpp.s
 
 # target to generate assembly for a file
 vxTensor.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxTensor.cpp.s
 .PHONY : vxTensor.cpp.s
 
 vxThreshold.o: vxThreshold.cpp.o
@@ -582,7 +582,7 @@ vxThreshold.o: vxThreshold.cpp.o
 
 # target to build an object file
 vxThreshold.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.o
 .PHONY : vxThreshold.cpp.o
 
 vxThreshold.i: vxThreshold.cpp.i
@@ -591,7 +591,7 @@ vxThreshold.i: vxThreshold.cpp.i
 
 # target to preprocess a source file
 vxThreshold.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.i
 .PHONY : vxThreshold.cpp.i
 
 vxThreshold.s: vxThreshold.cpp.s
@@ -600,7 +600,7 @@ vxThreshold.s: vxThreshold.cpp.s
 
 # target to generate assembly for a file
 vxThreshold.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxThreshold.cpp.s
 .PHONY : vxThreshold.cpp.s
 
 vxUtils.o: vxUtils.cpp.o
@@ -609,7 +609,7 @@ vxUtils.o: vxUtils.cpp.o
 
 # target to build an object file
 vxUtils.cpp.o:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.o
 .PHONY : vxUtils.cpp.o
 
 vxUtils.i: vxUtils.cpp.i
@@ -618,7 +618,7 @@ vxUtils.i: vxUtils.cpp.i
 
 # target to preprocess a source file
 vxUtils.cpp.i:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.i
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.i
 .PHONY : vxUtils.cpp.i
 
 vxUtils.s: vxUtils.cpp.s
@@ -627,7 +627,7 @@ vxUtils.s: vxUtils.cpp.s
 
 # target to generate assembly for a file
 vxUtils.cpp.s:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.s
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(MAKE) -f runvx/CMakeFiles/runvx.dir/build.make runvx/CMakeFiles/runvx.dir/vxUtils.cpp.s
 .PHONY : vxUtils.cpp.s
 
 # Help Target
@@ -705,6 +705,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/venomfate/workspace/office/verisilicon/amd_imp/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core && $(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

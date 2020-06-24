@@ -45,6 +45,7 @@ static inline vx_uint32 vxComputePatchOffset(vx_uint32 x, vx_uint32 y, const vx_
 */
 VX_API_ENTRY vx_context VX_API_CALL vxCreateContext()
 {
+	printf("*OPENVX* openvx/api/vx_api: vxCreateContext() \n");
 	vx_context context = agoCreateContextFromPlatform(nullptr);
 	return context;
 }

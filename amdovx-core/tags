@@ -1,0 +1,1341 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	416;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	419;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	422;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	429;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	433;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	437;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	440;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	443;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	448;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	451;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	454;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	459;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	462;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	465;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	468;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	410;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	422;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	425;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	428;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	433;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	436;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	439;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	142;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	190;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	264;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	282;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	285;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	42;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_INTERNAL	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	130;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	138;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	191;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	229;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	258;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	267;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	111;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	118;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	145;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	166;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	203;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	259;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	273;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	97;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	207;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	223;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	246;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	255;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	274;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	27;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	29;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	67;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	76;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_VERSION_TWEAK	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CXX_STD	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	file:
+CXX_STD	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	file:
+C_DIALECT	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	550;"	d	file:
+C_DIALECT	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	552;"	d	file:
+C_DIALECT	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	555;"	d	file:
+C_DIALECT	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	557;"	d	file:
+C_DIALECT	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	559;"	d	file:
+DEC	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	472;"	d	file:
+DEC	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	file:
+HEX	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	483;"	d	file:
+HEX	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	file:
+ID_VOID_MAIN	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+OPENVX_KHR_CLASS	openvx/include/VX/vx_khr_class.h	27;"	d
+OPENVX_KHR_IX	openvx/include/VX/vx_khr_ix.h	25;"	d
+OPENVX_KHR_NN	openvx/include/VX/vx_khr_nn.h	29;"	d
+OPENVX_KHR_TILING	openvx/include/VX/vx_khr_tiling.h	29;"	d
+OPENVX_KHR_XML	openvx/include/VX/vx_khr_xml.h	28;"	d
+OPENVX_TILING_1_1	openvx/include/VX/vx_khr_tiling.h	32;"	d
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	319;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	322;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	325;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	328;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	331;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	334;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	337;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	340;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	343;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	346;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	349;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	352;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	355;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	358;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	361;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	364;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	367;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	370;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	373;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	376;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	379;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	382;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	389;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	392;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	395;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	398;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	401;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	405;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	file:
+PLATFORM_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	file:
+RGB	openvx/include/VX/vx_types.h	/^    vx_uint8 RGB[3]; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_RGB<\/tt> format in the R,G,B order *\/$/;"	m	union:_vx_pixel_value_t
+RGBX	openvx/include/VX/vx_types.h	/^    vx_uint8 RGBX[4]; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_RGBX<\/tt> format in the R,G,B,X order *\/$/;"	m	union:_vx_pixel_value_t
+S16	openvx/include/VX/vx_types.h	/^    vx_int16 S16; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_S16<\/tt> *\/$/;"	m	union:_vx_pixel_value_t
+S32	openvx/include/VX/vx_types.h	/^    vx_int32 S32; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_S32<\/tt> *\/$/;"	m	union:_vx_pixel_value_t
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	21;"	d	file:
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	171;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	309;"	d	file:
+STRINGIFY	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+STRINGIFY_HELPER	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	file:
+U16	openvx/include/VX/vx_types.h	/^    vx_uint16 U16; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_U16<\/tt> *\/$/;"	m	union:_vx_pixel_value_t
+U32	openvx/include/VX/vx_types.h	/^    vx_uint32 U32; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_U32<\/tt> *\/$/;"	m	union:_vx_pixel_value_t
+U8	openvx/include/VX/vx_types.h	/^    vx_uint8 U8; \/*!< \\brief <tt>\\ref VX_DF_IMAGE_U8<\/tt> *\/$/;"	m	union:_vx_pixel_value_t
+VX_1_0_1_NAMING_COMPATIBILITY	openvx/include/VX/vx_compatibility.h	19;"	d
+VX_ACTION_ABANDON	openvx/include/VX/vx_types.h	/^    VX_ACTION_ABANDON  = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ACTION) + 0x1,$/;"	e	enum:vx_action_e
+VX_ACTION_CONTINUE	openvx/include/VX/vx_types.h	/^    VX_ACTION_CONTINUE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ACTION) + 0x0,$/;"	e	enum:vx_action_e
+VX_API_CALL	openvx/include/VX/vx_types.h	55;"	d
+VX_API_CALL	openvx/include/VX/vx_types.h	57;"	d
+VX_API_ENTRY	openvx/include/VX/vx_types.h	51;"	d
+VX_ARRAY_ATTRIBUTE_CAPACITY	openvx/include/VX/vx_compatibility.h	128;"	d
+VX_ARRAY_ATTRIBUTE_ITEMSIZE	openvx/include/VX/vx_compatibility.h	129;"	d
+VX_ARRAY_ATTRIBUTE_ITEMTYPE	openvx/include/VX/vx_compatibility.h	126;"	d
+VX_ARRAY_ATTRIBUTE_NUMITEMS	openvx/include/VX/vx_compatibility.h	127;"	d
+VX_ARRAY_CAPACITY	openvx/include/VX/vx_types.h	/^    VX_ARRAY_CAPACITY = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_ARRAY) + 0x2,$/;"	e	enum:vx_array_attribute_e
+VX_ARRAY_ITEMSIZE	openvx/include/VX/vx_types.h	/^    VX_ARRAY_ITEMSIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_ARRAY) + 0x3,$/;"	e	enum:vx_array_attribute_e
+VX_ARRAY_ITEMTYPE	openvx/include/VX/vx_types.h	/^    VX_ARRAY_ITEMTYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_ARRAY) + 0x0,$/;"	e	enum:vx_array_attribute_e
+VX_ARRAY_NUMITEMS	openvx/include/VX/vx_types.h	/^    VX_ARRAY_NUMITEMS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_ARRAY) + 0x1,$/;"	e	enum:vx_array_attribute_e
+VX_ATTRIBUTE_BASE	openvx/include/VX/vx_types.h	532;"	d
+VX_ATTRIBUTE_ID_MASK	openvx/include/VX/vx_types.h	488;"	d
+VX_BIDIRECTIONAL	openvx/include/VX/vx_types.h	/^    VX_BIDIRECTIONAL = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTION) + 0x2,$/;"	e	enum:vx_direction_e
+VX_BORDER_CONSTANT	openvx/include/VX/vx_types.h	/^    VX_BORDER_CONSTANT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER) + 0x1,$/;"	e	enum:vx_border_e
+VX_BORDER_MODE_CONSTANT	openvx/include/VX/vx_compatibility.h	31;"	d
+VX_BORDER_MODE_POLICY	openvx/include/VX/vx_compatibility.h	29;"	d
+VX_BORDER_MODE_REPLICATE	openvx/include/VX/vx_compatibility.h	32;"	d
+VX_BORDER_MODE_SELF	openvx/include/VX/vx_khr_tiling.h	/^    VX_BORDER_MODE_SELF = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER) + 0x3,$/;"	e	enum:vx_border_tiling_e
+VX_BORDER_MODE_UNDEFINED	openvx/include/VX/vx_compatibility.h	30;"	d
+VX_BORDER_MODE_UNSUPPORTED_POLICY_DEFAULT_TO_UNDEFINED	openvx/include/VX/vx_compatibility.h	33;"	d
+VX_BORDER_MODE_UNSUPPORTED_POLICY_RETURN_ERROR	openvx/include/VX/vx_compatibility.h	34;"	d
+VX_BORDER_POLICY_DEFAULT_TO_UNDEFINED	openvx/include/VX/vx_types.h	/^    VX_BORDER_POLICY_DEFAULT_TO_UNDEFINED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER_POLICY) + 0x0,$/;"	e	enum:vx_border_policy_e
+VX_BORDER_POLICY_RETURN_ERROR	openvx/include/VX/vx_types.h	/^    VX_BORDER_POLICY_RETURN_ERROR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER_POLICY) + 0x1,$/;"	e	enum:vx_border_policy_e
+VX_BORDER_REPLICATE	openvx/include/VX/vx_types.h	/^    VX_BORDER_REPLICATE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER) + 0x2,$/;"	e	enum:vx_border_e
+VX_BORDER_UNDEFINED	openvx/include/VX/vx_types.h	/^    VX_BORDER_UNDEFINED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_BORDER) + 0x0,$/;"	e	enum:vx_border_e
+VX_CALLBACK	openvx/include/VX/vx_types.h	62;"	d
+VX_CALLBACK	openvx/include/VX/vx_types.h	64;"	d
+VX_CHANNEL_0	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_0 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x0,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_1	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_1 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x1,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_2	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_2 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x2,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_3	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_3 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x3,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_A	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_A = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x13,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_B	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_B = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x12,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_G	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_G = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x11,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_R	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_R = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x10,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_RANGE_FULL	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_RANGE_FULL = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_RANGE) + 0x0,$/;"	e	enum:vx_channel_range_e
+VX_CHANNEL_RANGE_RESTRICTED	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_RANGE_RESTRICTED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_RANGE) + 0x1,$/;"	e	enum:vx_channel_range_e
+VX_CHANNEL_U	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_U = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x15,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_V	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_V = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x16,$/;"	e	enum:vx_channel_e
+VX_CHANNEL_Y	openvx/include/VX/vx_types.h	/^    VX_CHANNEL_Y = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CHANNEL) + 0x14,$/;"	e	enum:vx_channel_e
+VX_CLASSIFIER_MODEL_UNDEFINED	openvx/include/VX/vx_khr_class.h	/^	VX_CLASSIFIER_MODEL_UNDEFINED = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_CLASSIFIER_MODEL ) + 0x0,$/;"	e	enum:vx_classifier_model_format_e
+VX_COLOR_SPACE_BT601_525	openvx/include/VX/vx_types.h	/^    VX_COLOR_SPACE_BT601_525 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_SPACE) + 0x1,$/;"	e	enum:vx_color_space_e
+VX_COLOR_SPACE_BT601_625	openvx/include/VX/vx_types.h	/^    VX_COLOR_SPACE_BT601_625 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_SPACE) + 0x2,$/;"	e	enum:vx_color_space_e
+VX_COLOR_SPACE_BT709	openvx/include/VX/vx_types.h	/^    VX_COLOR_SPACE_BT709 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_SPACE) + 0x3,$/;"	e	enum:vx_color_space_e
+VX_COLOR_SPACE_DEFAULT	openvx/include/VX/vx_types.h	/^    VX_COLOR_SPACE_DEFAULT = VX_COLOR_SPACE_BT709,$/;"	e	enum:vx_color_space_e
+VX_COLOR_SPACE_NONE	openvx/include/VX/vx_types.h	/^    VX_COLOR_SPACE_NONE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_COLOR_SPACE) + 0x0,$/;"	e	enum:vx_color_space_e
+VX_COMPARE_CCORR	openvx/include/VX/vx_types.h	/^    VX_COMPARE_CCORR      = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x3,$/;"	e	enum:vx_comp_metric_e
+VX_COMPARE_CCORR_NORM	openvx/include/VX/vx_types.h	/^    VX_COMPARE_CCORR_NORM = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x5$/;"	e	enum:vx_comp_metric_e
+VX_COMPARE_HAMMING	openvx/include/VX/vx_types.h	/^    VX_COMPARE_HAMMING    = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x0,$/;"	e	enum:vx_comp_metric_e
+VX_COMPARE_L1	openvx/include/VX/vx_types.h	/^    VX_COMPARE_L1         = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x1,$/;"	e	enum:vx_comp_metric_e
+VX_COMPARE_L2	openvx/include/VX/vx_types.h	/^    VX_COMPARE_L2         = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x2,$/;"	e	enum:vx_comp_metric_e
+VX_COMPARE_L2_NORM	openvx/include/VX/vx_types.h	/^    VX_COMPARE_L2_NORM    = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_COMP_METRIC ) + 0x4,$/;"	e	enum:vx_comp_metric_e
+VX_CONTEXT_ATTRIBUTE_CONVOLUTION_MAXIMUM_DIMENSION	openvx/include/VX/vx_compatibility.h	48;"	d
+VX_CONTEXT_ATTRIBUTE_EXTENSIONS	openvx/include/VX/vx_compatibility.h	47;"	d
+VX_CONTEXT_ATTRIBUTE_EXTENSIONS_SIZE	openvx/include/VX/vx_compatibility.h	46;"	d
+VX_CONTEXT_ATTRIBUTE_IMMEDIATE_BORDER_MODE	openvx/include/VX/vx_compatibility.h	50;"	d
+VX_CONTEXT_ATTRIBUTE_IMPLEMENTATION	openvx/include/VX/vx_compatibility.h	45;"	d
+VX_CONTEXT_ATTRIBUTE_MODULES	openvx/include/VX/vx_compatibility.h	43;"	d
+VX_CONTEXT_ATTRIBUTE_OPTICAL_FLOW_WINDOW_MAXIMUM_DIMENSION	openvx/include/VX/vx_compatibility.h	49;"	d
+VX_CONTEXT_ATTRIBUTE_REFERENCES	openvx/include/VX/vx_compatibility.h	44;"	d
+VX_CONTEXT_ATTRIBUTE_UNIQUE_KERNELS	openvx/include/VX/vx_compatibility.h	42;"	d
+VX_CONTEXT_ATTRIBUTE_UNIQUE_KERNEL_TABLE	openvx/include/VX/vx_compatibility.h	51;"	d
+VX_CONTEXT_ATTRIBUTE_VENDOR_ID	openvx/include/VX/vx_compatibility.h	40;"	d
+VX_CONTEXT_ATTRIBUTE_VERSION	openvx/include/VX/vx_compatibility.h	41;"	d
+VX_CONTEXT_CONVOLUTION_MAX_DIMENSION	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_CONVOLUTION_MAX_DIMENSION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x8,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_EXTENSIONS	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_EXTENSIONS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x7,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_EXTENSIONS_SIZE	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_EXTENSIONS_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x6,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_IMMEDIATE_BORDER	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_IMMEDIATE_BORDER = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0xA,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_IMMEDIATE_BORDER_POLICY	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_IMMEDIATE_BORDER_POLICY = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0xC,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_IMPLEMENTATION	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_IMPLEMENTATION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x5,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_MAX_TENSOR_DIMS	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_MAX_TENSOR_DIMS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0xE,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_MODULES	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_MODULES = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x3,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_NONLINEAR_MAX_DIMENSION	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_NONLINEAR_MAX_DIMENSION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0xd,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_OPTICAL_FLOW_MAX_WINDOW_DIMENSION	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_OPTICAL_FLOW_MAX_WINDOW_DIMENSION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x9,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_REFERENCES	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_REFERENCES = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x4,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_UNIQUE_KERNELS	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_UNIQUE_KERNELS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x2,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_UNIQUE_KERNEL_TABLE	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_UNIQUE_KERNEL_TABLE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0xB,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_VENDOR_ID	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_VENDOR_ID = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x0,$/;"	e	enum:vx_context_attribute_e
+VX_CONTEXT_VERSION	openvx/include/VX/vx_types.h	/^    VX_CONTEXT_VERSION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONTEXT) + 0x1,$/;"	e	enum:vx_context_attribute_e
+VX_CONVERT_POLICY_SATURATE	openvx/include/VX/vx_types.h	/^    VX_CONVERT_POLICY_SATURATE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CONVERT_POLICY) + 0x1,$/;"	e	enum:vx_convert_policy_e
+VX_CONVERT_POLICY_WRAP	openvx/include/VX/vx_types.h	/^    VX_CONVERT_POLICY_WRAP = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_CONVERT_POLICY) + 0x0,$/;"	e	enum:vx_convert_policy_e
+VX_CONVOLUTION_ATTRIBUTE_COLUMNS	openvx/include/VX/vx_compatibility.h	111;"	d
+VX_CONVOLUTION_ATTRIBUTE_ROWS	openvx/include/VX/vx_compatibility.h	110;"	d
+VX_CONVOLUTION_ATTRIBUTE_SCALE	openvx/include/VX/vx_compatibility.h	112;"	d
+VX_CONVOLUTION_ATTRIBUTE_SIZE	openvx/include/VX/vx_compatibility.h	113;"	d
+VX_CONVOLUTION_COLUMNS	openvx/include/VX/vx_types.h	/^    VX_CONVOLUTION_COLUMNS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONVOLUTION) + 0x1,$/;"	e	enum:vx_convolution_attribute_e
+VX_CONVOLUTION_ROWS	openvx/include/VX/vx_types.h	/^    VX_CONVOLUTION_ROWS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONVOLUTION) + 0x0,$/;"	e	enum:vx_convolution_attribute_e
+VX_CONVOLUTION_SCALE	openvx/include/VX/vx_types.h	/^    VX_CONVOLUTION_SCALE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONVOLUTION) + 0x2,$/;"	e	enum:vx_convolution_attribute_e
+VX_CONVOLUTION_SIZE	openvx/include/VX/vx_types.h	/^    VX_CONVOLUTION_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_CONVOLUTION) + 0x3,$/;"	e	enum:vx_convolution_attribute_e
+VX_DELAY_ATTRIBUTE_SLOTS	openvx/include/VX/vx_compatibility.h	132;"	d
+VX_DELAY_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	131;"	d
+VX_DELAY_SLOTS	openvx/include/VX/vx_types.h	/^    VX_DELAY_SLOTS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DELAY) + 0x1,$/;"	e	enum:vx_delay_attribute_e
+VX_DELAY_TYPE	openvx/include/VX/vx_types.h	/^    VX_DELAY_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DELAY) + 0x0,$/;"	e	enum:vx_delay_attribute_e
+VX_DF_IMAGE	openvx/include/VX/vx_types.h	525;"	d
+VX_DF_IMAGE_IYUV	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_IYUV = VX_DF_IMAGE('I','Y','U','V'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_NV12	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_NV12 = VX_DF_IMAGE('N','V','1','2'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_NV21	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_NV21 = VX_DF_IMAGE('N','V','2','1'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_RGB	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_RGB  = VX_DF_IMAGE('R','G','B','2'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_RGBX	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_RGBX = VX_DF_IMAGE('R','G','B','A'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_S16	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_S16  = VX_DF_IMAGE('S','0','1','6'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_S32	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_S32  = VX_DF_IMAGE('S','0','3','2'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_U16	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_U16  = VX_DF_IMAGE('U','0','1','6'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_U32	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_U32  = VX_DF_IMAGE('U','0','3','2'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_U8	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_U8 = VX_DF_IMAGE('U','0','0','8'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_UYVY	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_UYVY = VX_DF_IMAGE('U','Y','V','Y'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_VIRT	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_VIRT = VX_DF_IMAGE('V','I','R','T'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_YUV4	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_YUV4 = VX_DF_IMAGE('Y','U','V','4'),$/;"	e	enum:vx_df_image_e
+VX_DF_IMAGE_YUYV	openvx/include/VX/vx_types.h	/^    VX_DF_IMAGE_YUYV = VX_DF_IMAGE('Y','U','Y','V'),$/;"	e	enum:vx_df_image_e
+VX_DIRECTIVE_DISABLE_LOGGING	openvx/include/VX/vx_types.h	/^    VX_DIRECTIVE_DISABLE_LOGGING = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTIVE) + 0x0,$/;"	e	enum:vx_directive_e
+VX_DIRECTIVE_DISABLE_PERFORMANCE	openvx/include/VX/vx_types.h	/^    VX_DIRECTIVE_DISABLE_PERFORMANCE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTIVE) + 0x2,$/;"	e	enum:vx_directive_e
+VX_DIRECTIVE_ENABLE_LOGGING	openvx/include/VX/vx_types.h	/^    VX_DIRECTIVE_ENABLE_LOGGING = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTIVE) + 0x1,$/;"	e	enum:vx_directive_e
+VX_DIRECTIVE_ENABLE_PERFORMANCE	openvx/include/VX/vx_types.h	/^    VX_DIRECTIVE_ENABLE_PERFORMANCE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTIVE) + 0x3,$/;"	e	enum:vx_directive_e
+VX_DISTRIBUTION_ATTRIBUTE_BINS	openvx/include/VX/vx_compatibility.h	93;"	d
+VX_DISTRIBUTION_ATTRIBUTE_DIMENSIONS	openvx/include/VX/vx_compatibility.h	90;"	d
+VX_DISTRIBUTION_ATTRIBUTE_OFFSET	openvx/include/VX/vx_compatibility.h	91;"	d
+VX_DISTRIBUTION_ATTRIBUTE_RANGE	openvx/include/VX/vx_compatibility.h	92;"	d
+VX_DISTRIBUTION_ATTRIBUTE_SIZE	openvx/include/VX/vx_compatibility.h	95;"	d
+VX_DISTRIBUTION_ATTRIBUTE_WINDOW	openvx/include/VX/vx_compatibility.h	94;"	d
+VX_DISTRIBUTION_BINS	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_BINS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x3,$/;"	e	enum:vx_distribution_attribute_e
+VX_DISTRIBUTION_DIMENSIONS	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_DIMENSIONS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x0,$/;"	e	enum:vx_distribution_attribute_e
+VX_DISTRIBUTION_OFFSET	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_OFFSET = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x1,$/;"	e	enum:vx_distribution_attribute_e
+VX_DISTRIBUTION_RANGE	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_RANGE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x2,$/;"	e	enum:vx_distribution_attribute_e
+VX_DISTRIBUTION_SIZE	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x5,$/;"	e	enum:vx_distribution_attribute_e
+VX_DISTRIBUTION_WINDOW	openvx/include/VX/vx_types.h	/^    VX_DISTRIBUTION_WINDOW = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_DISTRIBUTION) + 0x4,$/;"	e	enum:vx_distribution_attribute_e
+VX_ENUM_ACCESSOR	openvx/include/VX/vx_types.h	/^    VX_ENUM_ACCESSOR        = 0x11, \/*!< \\brief An accessor flag type. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_ACTION	openvx/include/VX/vx_types.h	/^    VX_ENUM_ACTION          = 0x01, \/*!< \\brief Action Codes. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_BASE	openvx/include/VX/vx_types.h	549;"	d
+VX_ENUM_BORDER	openvx/include/VX/vx_types.h	/^    VX_ENUM_BORDER          = 0x0C, \/*!< \\brief Border Mode List. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_BORDER_MODE	openvx/include/VX/vx_compatibility.h	28;"	d
+VX_ENUM_BORDER_POLICY	openvx/include/VX/vx_types.h	/^    VX_ENUM_BORDER_POLICY   = 0x14, \/*!< \\brief Unsupported Border Mode Policy List. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_CHANNEL	openvx/include/VX/vx_types.h	/^    VX_ENUM_CHANNEL         = 0x09, \/*!< \\brief Channel Name. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_CLASSIFIER_MODEL	openvx/include/VX/vx_khr_class.h	/^	VX_ENUM_CLASSIFIER_MODEL= 0x1E, \/*!< \\brief Classifier model *\/$/;"	e	enum:vx_class_enum_e
+VX_ENUM_COLOR_RANGE	openvx/include/VX/vx_types.h	/^    VX_ENUM_COLOR_RANGE     = 0x07, \/*!< \\brief Color Space Range. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_COLOR_SPACE	openvx/include/VX/vx_types.h	/^    VX_ENUM_COLOR_SPACE     = 0x06, \/*!< \\brief Color Space. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_COMPARISON	openvx/include/VX/vx_types.h	/^    VX_ENUM_COMPARISON      = 0x0D, \/*!< \\brief Comparison Values. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_COMP_METRIC	openvx/include/VX/vx_types.h	/^    VX_ENUM_COMP_METRIC     = 0x19, \/*!< \\brief Compare metric. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_CONVERT_POLICY	openvx/include/VX/vx_types.h	/^    VX_ENUM_CONVERT_POLICY  = 0x0A, \/*!< \\brief Convert Policy. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_DIRECTION	openvx/include/VX/vx_types.h	/^    VX_ENUM_DIRECTION       = 0x00, \/*!< \\brief Parameter Direction. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_DIRECTIVE	openvx/include/VX/vx_types.h	/^    VX_ENUM_DIRECTIVE       = 0x03, \/*!< \\brief Directive Values. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_GRAPH_STATE	openvx/include/VX/vx_types.h	/^    VX_ENUM_GRAPH_STATE     = 0x15, \/*!< \\brief Graph attribute states. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_HINT	openvx/include/VX/vx_types.h	/^    VX_ENUM_HINT            = 0x02, \/*!< \\brief Hint Values. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_IMPORT_MEM	openvx/include/VX/vx_compatibility.h	144;"	d
+VX_ENUM_INTERPOLATION	openvx/include/VX/vx_types.h	/^    VX_ENUM_INTERPOLATION   = 0x04, \/*!< \\brief Interpolation Types. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_IX_USE	openvx/include/VX/vx_import.h	30;"	d
+VX_ENUM_LBP_FORMAT	openvx/include/VX/vx_types.h	/^    VX_ENUM_LBP_FORMAT      = 0x18, \/*!< \\brief Lbp format. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_MASK	openvx/include/VX/vx_types.h	498;"	d
+VX_ENUM_MEMORY_TYPE	openvx/include/VX/vx_types.h	/^    VX_ENUM_MEMORY_TYPE     = 0x0E, \/*!< \\brief The memory type enumeration. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE	openvx/include/VX/vx_khr_nn.h	/^    VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE	= 0x1D,$/;"	e	enum:vx_nn_enum_e
+VX_ENUM_NN_NORMALIZATION_TYPE	openvx/include/VX/vx_khr_nn.h	/^    VX_ENUM_NN_NORMALIZATION_TYPE	= 0x1C,$/;"	e	enum:vx_nn_enum_e
+VX_ENUM_NN_POOLING_TYPE	openvx/include/VX/vx_khr_nn.h	/^    VX_ENUM_NN_POOLING_TYPE	= 0x1B,$/;"	e	enum:vx_nn_enum_e
+VX_ENUM_NN_ROUNDING_TYPE	openvx/include/VX/vx_khr_nn.h	/^    VX_ENUM_NN_ROUNDING_TYPE	= 0x1A,$/;"	e	enum:vx_nn_enum_e
+VX_ENUM_NONLINEAR	openvx/include/VX/vx_types.h	/^    VX_ENUM_NONLINEAR       = 0x16, \/*!< \\brief Non-linear function list. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_NORM_TYPE	openvx/include/VX/vx_types.h	/^    VX_ENUM_NORM_TYPE       = 0x10, \/*!< \\brief A norm type. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_OVERFLOW	openvx/include/VX/vx_types.h	/^    VX_ENUM_OVERFLOW        = 0x05, \/*!< \\brief Overflow Policies. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_PARAMETER_STATE	openvx/include/VX/vx_types.h	/^    VX_ENUM_PARAMETER_STATE = 0x08, \/*!< \\brief Parameter State. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_PATTERN	openvx/include/VX/vx_types.h	/^    VX_ENUM_PATTERN         = 0x17, \/*!< \\brief Matrix pattern enumeration. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_ROUND_POLICY	openvx/include/VX/vx_types.h	/^    VX_ENUM_ROUND_POLICY    = 0x12, \/*!< \\brief Rounding Policy. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_SCALAR_OPERATION	openvx/include/VX/vx_types.h	/^    VX_ENUM_SCALAR_OPERATION= 0X20  \/*!< \\brief Scalar operation list. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_TARGET	openvx/include/VX/vx_types.h	/^    VX_ENUM_TARGET          = 0x13, \/*!< \\brief Target. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_TERM_CRITERIA	openvx/include/VX/vx_types.h	/^    VX_ENUM_TERM_CRITERIA   = 0x0F, \/*!< \\brief A termination criteria. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_THRESHOLD_TYPE	openvx/include/VX/vx_types.h	/^    VX_ENUM_THRESHOLD_TYPE  = 0x0B, \/*!< \\brief Threshold Type List. *\/$/;"	e	enum:vx_enum_e
+VX_ENUM_TYPE	openvx/include/VX/vx_types.h	513;"	d
+VX_ENUM_TYPE_MASK	openvx/include/VX/vx_types.h	493;"	d
+VX_ERROR_GRAPH_ABANDONED	openvx/include/VX/vx_types.h	/^    VX_ERROR_GRAPH_ABANDONED            = -22,\/*!< \\brief Indicates that the graph is stopped due to an error or a callback that abandoned execution. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_GRAPH_SCHEDULED	openvx/include/VX/vx_types.h	/^    VX_ERROR_GRAPH_SCHEDULED            = -21,\/*!< \\brief Indicates that the supplied graph already has been scheduled and may be currently executing. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_DIMENSION	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_DIMENSION          = -15,\/*!< \\brief Indicates that the supplied parameter is too big or too small in dimension. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_FORMAT	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_FORMAT             = -14,\/*!< \\brief Indicates that the supplied parameter is in an invalid format. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_GRAPH	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_GRAPH              = -18,\/*!< \\brief Indicates that the supplied graph has invalid connections (cycles). *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_LINK	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_LINK               = -13,\/*!< \\brief Indicates that the link is not possible as specified. The parameters are incompatible. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_MODULE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_MODULE             = -11,\/*!< \\brief This is returned from <tt>\\ref vxLoadKernels<\/tt> when the module does not contain the entry point. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_NODE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_NODE               = -19,\/*!< \\brief Indicates that the supplied node could not be created.*\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_PARAMETERS	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_PARAMETERS         = -10,\/*!< \\brief Indicates that the supplied parameter information does not match the kernel contract. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_REFERENCE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_REFERENCE          = -12,\/*!< \\brief Indicates that the reference provided is not valid. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_SCOPE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_SCOPE              = -20,\/*!< \\brief Indicates that the supplied parameter is from another scope and cannot be used in the current scope. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_TYPE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_TYPE               = -17,\/*!< \\brief Indicates that the supplied type parameter is incorrect. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_INVALID_VALUE	openvx/include/VX/vx_types.h	/^    VX_ERROR_INVALID_VALUE              = -16,\/*!< \\brief Indicates that the supplied parameter has an incorrect value. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_MULTIPLE_WRITERS	openvx/include/VX/vx_types.h	/^    VX_ERROR_MULTIPLE_WRITERS           = -23,\/*!< \\brief Indicates that the graph has more than one node outputting to the same data object. This is an invalid graph structure. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NOT_ALLOCATED	openvx/include/VX/vx_types.h	/^    VX_ERROR_NOT_ALLOCATED              = -5,\/*!< \\brief Indicates to the system that the parameter must be allocated by the system.  *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NOT_COMPATIBLE	openvx/include/VX/vx_types.h	/^    VX_ERROR_NOT_COMPATIBLE             = -6,\/*!< \\brief Indicates that the attempt to link two parameters together failed due to type incompatibilty. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NOT_IMPLEMENTED	openvx/include/VX/vx_types.h	/^    VX_ERROR_NOT_IMPLEMENTED            = -2,\/*!< \\brief Indicates that the requested kernel is missing. \\see vx_kernel_e vxGetKernelByName. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NOT_SUFFICIENT	openvx/include/VX/vx_types.h	/^    VX_ERROR_NOT_SUFFICIENT             = -4,\/*!< \\brief Indicates that the given graph has failed verification due to an insufficient number of required parameters, which cannot be automatically created. Typically this indicates required atomic parameters. \\see vxVerifyGraph. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NOT_SUPPORTED	openvx/include/VX/vx_types.h	/^    VX_ERROR_NOT_SUPPORTED              = -3,\/*!< \\brief Indicates that the requested set of parameters produce a configuration that cannot be supported. Refer to the supplied documentation on the configured kernels. \\see vx_kernel_e. This is also returned if a function to set an attribute is called on a Read-only attribute.*\/$/;"	e	enum:vx_status_e
+VX_ERROR_NO_MEMORY	openvx/include/VX/vx_types.h	/^    VX_ERROR_NO_MEMORY                  = -8,\/*!< \\brief Indicates that an internal or implicit allocation failed. Typically catastrophic. After detection, deconstruct the context. \\see vxVerifyGraph. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_NO_RESOURCES	openvx/include/VX/vx_types.h	/^    VX_ERROR_NO_RESOURCES               = -7,\/*!< \\brief Indicates that an internal or implicit resource can not be acquired (not memory). This is typically catastrophic. After detection, deconstruct the context. \\see vxVerifyGraph. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_OPTIMIZED_AWAY	openvx/include/VX/vx_types.h	/^    VX_ERROR_OPTIMIZED_AWAY             = -9,\/*!< \\brief Indicates that the object refered to has been optimized out of existence. *\/$/;"	e	enum:vx_status_e
+VX_ERROR_REFERENCE_NONZERO	openvx/include/VX/vx_types.h	/^    VX_ERROR_REFERENCE_NONZERO          = -24,\/*!< \\brief Indicates that an operation did not complete due to a reference count being non-zero. *\/$/;"	e	enum:vx_status_e
+VX_FAILURE	openvx/include/VX/vx_types.h	/^    VX_FAILURE                          = -1,\/*!< \\brief Indicates a generic error code, used when no other describes the error. *\/$/;"	e	enum:vx_status_e
+VX_FMT_REF	openvx/include/VX/vx_types.h	1469;"	d
+VX_FMT_REF	openvx/include/VX/vx_types.h	1478;"	d
+VX_FMT_REF	openvx/include/VX/vx_types.h	1488;"	d
+VX_FMT_SIZE	openvx/include/VX/vx_types.h	1473;"	d
+VX_FMT_SIZE	openvx/include/VX/vx_types.h	1482;"	d
+VX_FMT_SIZE	openvx/include/VX/vx_types.h	1492;"	d
+VX_GRAPH_ATTRIBUTE_NUMNODES	openvx/include/VX/vx_compatibility.h	81;"	d
+VX_GRAPH_ATTRIBUTE_NUMPARAMETERS	openvx/include/VX/vx_compatibility.h	84;"	d
+VX_GRAPH_ATTRIBUTE_PERFORMANCE	openvx/include/VX/vx_compatibility.h	83;"	d
+VX_GRAPH_ATTRIBUTE_STATUS	openvx/include/VX/vx_compatibility.h	82;"	d
+VX_GRAPH_NUMNODES	openvx/include/VX/vx_types.h	/^    VX_GRAPH_NUMNODES = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_GRAPH) + 0x0,$/;"	e	enum:vx_graph_attribute_e
+VX_GRAPH_NUMPARAMETERS	openvx/include/VX/vx_types.h	/^    VX_GRAPH_NUMPARAMETERS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_GRAPH) + 0x3,$/;"	e	enum:vx_graph_attribute_e
+VX_GRAPH_PERFORMANCE	openvx/include/VX/vx_types.h	/^    VX_GRAPH_PERFORMANCE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_GRAPH) + 0x2,$/;"	e	enum:vx_graph_attribute_e
+VX_GRAPH_STATE	openvx/include/VX/vx_types.h	/^    VX_GRAPH_STATE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_GRAPH) + 0x4,$/;"	e	enum:vx_graph_attribute_e
+VX_GRAPH_STATE_ABANDONED	openvx/include/VX/vx_types.h	/^   VX_GRAPH_STATE_ABANDONED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_GRAPH_STATE) + 0x3,$/;"	e	enum:vx_graph_state_e
+VX_GRAPH_STATE_COMPLETED	openvx/include/VX/vx_types.h	/^   VX_GRAPH_STATE_COMPLETED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_GRAPH_STATE) + 0x4,$/;"	e	enum:vx_graph_state_e
+VX_GRAPH_STATE_RUNNING	openvx/include/VX/vx_types.h	/^   VX_GRAPH_STATE_RUNNING = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_GRAPH_STATE) + 0x2,$/;"	e	enum:vx_graph_state_e
+VX_GRAPH_STATE_UNVERIFIED	openvx/include/VX/vx_types.h	/^   VX_GRAPH_STATE_UNVERIFIED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_GRAPH_STATE) + 0x0,$/;"	e	enum:vx_graph_state_e
+VX_GRAPH_STATE_VERIFIED	openvx/include/VX/vx_types.h	/^   VX_GRAPH_STATE_VERIFIED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_GRAPH_STATE) + 0x1,$/;"	e	enum:vx_graph_state_e
+VX_HINT_PERFORMANCE_DEFAULT	openvx/include/VX/vx_types.h	/^    VX_HINT_PERFORMANCE_DEFAULT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_HINT) + 0x1,$/;"	e	enum:vx_hint_e
+VX_HINT_PERFORMANCE_HIGH_SPEED	openvx/include/VX/vx_types.h	/^    VX_HINT_PERFORMANCE_HIGH_SPEED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_HINT) + 0x3,$/;"	e	enum:vx_hint_e
+VX_HINT_PERFORMANCE_LOW_POWER	openvx/include/VX/vx_types.h	/^    VX_HINT_PERFORMANCE_LOW_POWER = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_HINT) + 0x2,$/;"	e	enum:vx_hint_e
+VX_HINT_SERIALIZE	openvx/include/VX/vx_compatibility.h	141;"	d
+VX_ID_AMD	openvx/include/VX/vx_vendors.h	/^    VX_ID_AMD       = 0x00D, \/*!< \\brief Advanced Micro Devices *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_ARM	openvx/include/VX/vx_vendors.h	/^    VX_ID_ARM       = 0x004, \/*!< \\brief ARM Ltd. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_AXIS	openvx/include/VX/vx_vendors.h	/^    VX_ID_AXIS      = 0x009, \/*!< \\brief Axis Communications *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_BDTI	openvx/include/VX/vx_vendors.h	/^    VX_ID_BDTI      = 0x005, \/*!< \\brief Berkley Design Technology, Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_BROADCOM	openvx/include/VX/vx_vendors.h	/^    VX_ID_BROADCOM  = 0x00E, \/*!< \\brief Broadcom Corporation *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_CADENCE	openvx/include/VX/vx_vendors.h	/^    VX_ID_CADENCE   = 0x019, \/*!< \\brief Cadence *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_CEVA	openvx/include/VX/vx_vendors.h	/^    VX_ID_CEVA      = 0x013, \/*!< \\brief CEVA DSP *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_DEFAULT	openvx/include/VX/vx_vendors.h	/^    VX_ID_DEFAULT = VX_ID_MAX,$/;"	e	enum:vx_vendor_id_e
+VX_ID_FREESCALE	openvx/include/VX/vx_vendors.h	/^    VX_ID_FREESCALE = 0x00C, \/*!< \\brief Freescale Semiconductor *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_HUAWEI	openvx/include/VX/vx_vendors.h	/^    VX_ID_HUAWEI    = 0x01A, \/*!< \\brief Huawei *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_IMAGINATION	openvx/include/VX/vx_vendors.h	/^    VX_ID_IMAGINATION=0x015, \/*!< \\brief Imagination Technologies *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_INTEL	openvx/include/VX/vx_vendors.h	/^    VX_ID_INTEL     = 0x00F, \/*!< \\brief Intel Corporation *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_ITSEEZ	openvx/include/VX/vx_vendors.h	/^    VX_ID_ITSEEZ    = 0x014, \/*!< \\brief Itseez, Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_KHRONOS	openvx/include/VX/vx_vendors.h	/^    VX_ID_KHRONOS   = 0x000, \/*!< \\brief The Khronos Group *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_MARVELL	openvx/include/VX/vx_vendors.h	/^    VX_ID_MARVELL   = 0x010, \/*!< \\brief Marvell Technology Group Ltd. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_MAX	openvx/include/VX/vx_vendors.h	/^    VX_ID_MAX       = 0xFFF,$/;"	e	enum:vx_vendor_id_e
+VX_ID_MEDIATEK	openvx/include/VX/vx_vendors.h	/^    VX_ID_MEDIATEK  = 0x011, \/*!< \\brief MediaTek, Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_MOVIDIUS	openvx/include/VX/vx_vendors.h	/^    VX_ID_MOVIDIUS  = 0x00A, \/*!< \\brief Movidius Ltd. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_NVIDIA	openvx/include/VX/vx_vendors.h	/^    VX_ID_NVIDIA    = 0x003, \/*!< \\brief NVIDIA Corporation *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_NXP	openvx/include/VX/vx_vendors.h	/^    VX_ID_NXP       = 0x016, \/*!< \\brief NXP Semiconductors *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_QUALCOMM	openvx/include/VX/vx_vendors.h	/^    VX_ID_QUALCOMM  = 0x002, \/*!< \\brief Qualcomm, Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_RENESAS	openvx/include/VX/vx_vendors.h	/^    VX_ID_RENESAS   = 0x006, \/*!< \\brief Renasas Electronics *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_SAMSUNG	openvx/include/VX/vx_vendors.h	/^    VX_ID_SAMSUNG   = 0x00B, \/*!< \\brief Samsung Electronics *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_SOCIONEXT	openvx/include/VX/vx_vendors.h	/^    VX_ID_SOCIONEXT = 0x01B, \/*!< \\brief Socionext *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_ST	openvx/include/VX/vx_vendors.h	/^    VX_ID_ST        = 0x012, \/*!< \\brief STMicroelectronics *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_SYNOPSYS	openvx/include/VX/vx_vendors.h	/^    VX_ID_SYNOPSYS  = 0x018, \/*!< \\brief Synopsys *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_TI	openvx/include/VX/vx_vendors.h	/^    VX_ID_TI        = 0x001, \/*!< \\brief Texas Instruments, Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_USER	openvx/include/VX/vx_vendors.h	/^    VX_ID_USER      = 0xFFE, \/*!< \\brief For use by vxAllocateUserKernelId and vxAllocateUserKernelLibraryId *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_VIDEANTIS	openvx/include/VX/vx_vendors.h	/^    VX_ID_VIDEANTIS = 0x017, \/*!< \\brief Videantis *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_VIVANTE	openvx/include/VX/vx_vendors.h	/^    VX_ID_VIVANTE   = 0x007, \/*!< \\brief Vivante Corporation *\/$/;"	e	enum:vx_vendor_id_e
+VX_ID_XILINX	openvx/include/VX/vx_vendors.h	/^    VX_ID_XILINX    = 0x008, \/*!< \\brief Xilinx Inc. *\/$/;"	e	enum:vx_vendor_id_e
+VX_IMAGEPATCH_ADDR_INIT	openvx/include/VX/vx_types.h	1532;"	d
+VX_IMAGE_ATTRIBUTE_FORMAT	openvx/include/VX/vx_compatibility.h	73;"	d
+VX_IMAGE_ATTRIBUTE_HEIGHT	openvx/include/VX/vx_compatibility.h	72;"	d
+VX_IMAGE_ATTRIBUTE_PLANES	openvx/include/VX/vx_compatibility.h	74;"	d
+VX_IMAGE_ATTRIBUTE_RANGE	openvx/include/VX/vx_compatibility.h	76;"	d
+VX_IMAGE_ATTRIBUTE_SIZE	openvx/include/VX/vx_compatibility.h	77;"	d
+VX_IMAGE_ATTRIBUTE_SPACE	openvx/include/VX/vx_compatibility.h	75;"	d
+VX_IMAGE_ATTRIBUTE_WIDTH	openvx/include/VX/vx_compatibility.h	71;"	d
+VX_IMAGE_FORMAT	openvx/include/VX/vx_types.h	/^    VX_IMAGE_FORMAT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x2,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_HEIGHT	openvx/include/VX/vx_types.h	/^    VX_IMAGE_HEIGHT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x1,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_IS_UNIFORM	openvx/include/VX/vx_types.h	/^    VX_IMAGE_IS_UNIFORM = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x8,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_MEMORY_TYPE	openvx/include/VX/vx_types.h	/^    VX_IMAGE_MEMORY_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x7,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_PLANES	openvx/include/VX/vx_types.h	/^    VX_IMAGE_PLANES = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x3,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_RANGE	openvx/include/VX/vx_types.h	/^    VX_IMAGE_RANGE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x5,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_SIZE	openvx/include/VX/vx_compatibility.h	138;"	d
+VX_IMAGE_SPACE	openvx/include/VX/vx_types.h	/^    VX_IMAGE_SPACE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x4,$/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_UNIFORM_VALUE	openvx/include/VX/vx_types.h	/^    VX_IMAGE_UNIFORM_VALUE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x9,    $/;"	e	enum:vx_image_attribute_e
+VX_IMAGE_WIDTH	openvx/include/VX/vx_types.h	/^    VX_IMAGE_WIDTH = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMAGE) + 0x0,$/;"	e	enum:vx_image_attribute_e
+VX_IMPORT_ATTRIBUTE_COUNT	openvx/include/VX/vx_khr_xml.h	/^    VX_IMPORT_ATTRIBUTE_COUNT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMPORT) + 0x0,$/;"	e	enum:vx_import_attribute_e
+VX_IMPORT_ATTRIBUTE_TYPE	openvx/include/VX/vx_khr_xml.h	/^    VX_IMPORT_ATTRIBUTE_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_IMPORT) + 0x1,$/;"	e	enum:vx_import_attribute_e
+VX_IMPORT_TYPE_HOST	openvx/include/VX/vx_compatibility.h	146;"	d
+VX_IMPORT_TYPE_NONE	openvx/include/VX/vx_compatibility.h	145;"	d
+VX_IMPORT_TYPE_XML	openvx/include/VX/vx_khr_xml.h	/^    VX_IMPORT_TYPE_XML = 0,\/*!< \\brief The XML import type *\/$/;"	e	enum:vx_ext_import_types_e
+VX_INPUT	openvx/include/VX/vx_types.h	/^    VX_INPUT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTION) + 0x0,$/;"	e	enum:vx_direction_e
+VX_INTERPOLATION_AREA	openvx/include/VX/vx_types.h	/^    VX_INTERPOLATION_AREA = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_INTERPOLATION) + 0x2,$/;"	e	enum:vx_interpolation_type_e
+VX_INTERPOLATION_BILINEAR	openvx/include/VX/vx_types.h	/^    VX_INTERPOLATION_BILINEAR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_INTERPOLATION) + 0x1,$/;"	e	enum:vx_interpolation_type_e
+VX_INTERPOLATION_NEAREST_NEIGHBOR	openvx/include/VX/vx_types.h	/^    VX_INTERPOLATION_NEAREST_NEIGHBOR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_INTERPOLATION) + 0x0,$/;"	e	enum:vx_interpolation_type_e
+VX_INTERPOLATION_TYPE_AREA	openvx/include/VX/vx_compatibility.h	134;"	d
+VX_INTERPOLATION_TYPE_BILINEAR	openvx/include/VX/vx_compatibility.h	135;"	d
+VX_INTERPOLATION_TYPE_NEAREST_NEIGHBOR	openvx/include/VX/vx_compatibility.h	136;"	d
+VX_IX_USE_APPLICATION_CREATE	openvx/include/VX/vx_import.h	34;"	d
+VX_IX_USE_EXPORT_VALUES	openvx/include/VX/vx_import.h	38;"	d
+VX_IX_USE_NO_EXPORT_VALUES	openvx/include/VX/vx_import.h	42;"	d
+VX_KERNEL_ABSDIFF	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ABSDIFF = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xB,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ACCUMULATE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ACCUMULATE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x16,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ACCUMULATE_SQUARE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ACCUMULATE_SQUARE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x18,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ACCUMULATE_WEIGHTED	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ACCUMULATE_WEIGHTED = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x17,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ACTIVATION_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_ACTIVATION_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x5,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_ADD	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ADD = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x21,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_AND	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_AND = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1C,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ATTRIBUTE_ENUM	openvx/include/VX/vx_compatibility.h	55;"	d
+VX_KERNEL_ATTRIBUTE_LOCAL_DATA_PTR	openvx/include/VX/vx_compatibility.h	57;"	d
+VX_KERNEL_ATTRIBUTE_LOCAL_DATA_SIZE	openvx/include/VX/vx_compatibility.h	56;"	d
+VX_KERNEL_ATTRIBUTE_NAME	openvx/include/VX/vx_compatibility.h	54;"	d
+VX_KERNEL_ATTRIBUTE_PARAMETERS	openvx/include/VX/vx_compatibility.h	53;"	d
+VX_KERNEL_BASE	openvx/include/VX/vx_types.h	539;"	d
+VX_KERNEL_BILATERAL_FILTER	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_BILATERAL_FILTER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3C,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_BORDER	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_BORDER                  = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x9,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_BOX_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_BOX_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x12,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CANNY_EDGE_DETECTOR	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_CANNY_EDGE_DETECTOR = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1B,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CHANNEL_COMBINE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_CHANNEL_COMBINE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CHANNEL_EXTRACT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_CHANNEL_EXTRACT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_COLOR_CONVERT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_COLOR_CONVERT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CONVERTDEPTH	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_CONVERTDEPTH = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1A,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CONVOLUTION_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_CONVOLUTION_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x0,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_COPY	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_COPY = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x37,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_CUSTOM_CONVOLUTION	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_CUSTOM_CONVOLUTION = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x14,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_DECONVOLUTION_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_DECONVOLUTION_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x7,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_DILATE_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_DILATE_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xF,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ENUM	openvx/include/VX/vx_types.h	/^    VX_KERNEL_ENUM = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x2,$/;"	e	enum:vx_kernel_attribute_e
+VX_KERNEL_EQUALIZE_HISTOGRAM	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_EQUALIZE_HISTOGRAM = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xA,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ERODE_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_ERODE_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x10,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_FAST_CORNERS	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_FAST_CORNERS = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x26,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_FULLY_CONNECTED_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_FULLY_CONNECTED_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x1,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_GAUSSIAN_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_GAUSSIAN_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x13,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_GAUSSIAN_PYRAMID	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_GAUSSIAN_PYRAMID = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x15,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HALFSCALE_GAUSSIAN	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HALFSCALE_GAUSSIAN = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x29,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HARRIS_CORNERS	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HARRIS_CORNERS = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x25,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HISTOGRAM	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HISTOGRAM = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x9,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HOG_CELLS	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HOG_CELLS = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3B,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HOG_FEATURES	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HOG_FEATURES = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3A,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_HOUGH_LINES_P	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_HOUGH_LINES_P = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2F,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_INPUT_NEIGHBORHOOD	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_INPUT_NEIGHBORHOOD      = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x7,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_INPUT_TILE_BLOCK_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_INPUT_TILE_BLOCK_SIZE   = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0xB,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_INTEGRAL_IMAGE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_INTEGRAL_IMAGE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xE,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_INVALID	openvx/include/VX/vx_compatibility.h	151;"	d
+VX_KERNEL_LAPLACIAN_PYRAMID	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_LAPLACIAN_PYRAMID = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2A,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_LAPLACIAN_RECONSTRUCT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_LAPLACIAN_RECONSTRUCT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2B,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_LBP	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_LBP = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2E,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_LOCAL_DATA_SIZE	openvx/include/VX/vx_types.h	/^    VX_KERNEL_LOCAL_DATA_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x3,$/;"	e	enum:vx_kernel_attribute_e
+VX_KERNEL_MAGNITUDE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MAGNITUDE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x5,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MASK	openvx/include/VX/vx_types.h	483;"	d
+VX_KERNEL_MATCH_TEMPLATE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MATCH_TEMPLATE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2D,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MAX	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MAX = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3E,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MAX_1_0	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MAX_1_0, \/*!< \\internal Used for VX1.0 bounds checking in the conformance test. *\/$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MAX_1_1	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MAX_1_1, \/*!< \\internal Used for VX1.1 bounds checking in the conformance test. *\/$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MAX_1_2	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MAX_1_2, \/*!< \\internal Used for VX1.2 bounds checking in the conformance test. *\/$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MEAN_STDDEV	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MEAN_STDDEV = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xC,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MEDIAN_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MEDIAN_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x11,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MIN	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MIN = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3F,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MINMAXLOC	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MINMAXLOC = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x19,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_MULTIPLY	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_MULTIPLY = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x20,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_NAME	openvx/include/VX/vx_types.h	/^    VX_KERNEL_NAME = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x1,$/;"	e	enum:vx_kernel_attribute_e
+VX_KERNEL_NON_LINEAR_FILTER	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_NON_LINEAR_FILTER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x2C,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_NON_MAX_SUPPRESSION	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_NON_MAX_SUPPRESSION = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x38,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_NORMALIZATION_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_NORMALIZATION_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x4,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_NOT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_NOT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1F,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_OPTICAL_FLOW_PYR_LK	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_OPTICAL_FLOW_PYR_LK = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x27,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_OR	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_OR = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1D,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_OUTPUT_NEIGHBORHOOD	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_OUTPUT_NEIGHBORHOOD     = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0xC,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_OUTPUT_TILE_BLOCK_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_OUTPUT_TILE_BLOCK_SIZE  = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x8,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_PARAMETERS	openvx/include/VX/vx_types.h	/^    VX_KERNEL_PARAMETERS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0x0,$/;"	e	enum:vx_kernel_attribute_e
+VX_KERNEL_PHASE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_PHASE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x6,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_POOLING_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_POOLING_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x2,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_REMAP	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_REMAP = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x28,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_ROI_POOLING_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_ROI_POOLING_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x6,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_SCALAR_OPERATION	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_SCALAR_OPERATION = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x39,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_SCALE_IMAGE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_SCALE_IMAGE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x7,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_SCAN_CLASSIFIER	openvx/include/VX/vx_khr_class.h	/^    VX_KERNEL_SCAN_CLASSIFIER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_CLASS_EXTENSION) + 0x0,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_SELECT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_SELECT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x3D,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_SOBEL_3x3	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_SOBEL_3x3 = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x4,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_SOFTMAX_LAYER	openvx/include/VX/vx_khr_nn.h	/^    VX_KERNEL_SOFTMAX_LAYER = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_NN_EXTENSION) + 0x3,$/;"	e	enum:vx_kernel_nn_ext_e
+VX_KERNEL_SUBTRACT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_SUBTRACT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x22,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TABLE_LOOKUP	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TABLE_LOOKUP = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x8,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_ADD	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_ADD = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x31,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_CONVERT_DEPTH	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_CONVERT_DEPTH = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x35,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_MATRIX_MULTIPLY	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_MATRIX_MULTIPLY = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x36,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_MULTIPLY	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_MULTIPLY = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x30,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_SUBTRACT	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_SUBTRACT = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x32,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_TABLE_LOOKUP	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_TABLE_LOOKUP = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x33,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TENSOR_TRANSPOSE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_TENSOR_TRANSPOSE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x34,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_THRESHOLD	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_THRESHOLD = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0xD,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_TILE_MEMORY_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_KERNEL_TILE_MEMORY_SIZE        = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_KERNEL) + 0xA,$/;"	e	enum:vx_kernel_attribute_tiling_e
+VX_KERNEL_WARP_AFFINE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_WARP_AFFINE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x23,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_WARP_PERSPECTIVE	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_WARP_PERSPECTIVE = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x24,$/;"	e	enum:vx_kernel_e
+VX_KERNEL_XOR	openvx/include/VX/vx_kernels.h	/^    VX_KERNEL_XOR = VX_KERNEL_BASE(VX_ID_KHRONOS, VX_LIBRARY_KHR_BASE) + 0x1E,$/;"	e	enum:vx_kernel_e
+VX_LBP	openvx/include/VX/vx_types.h	/^    VX_LBP  = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_LBP_FORMAT ) + 0x0,$/;"	e	enum:vx_lbp_format_e
+VX_LIBRARY	openvx/include/VX/vx_types.h	518;"	d
+VX_LIBRARY_KHR_BASE	openvx/include/VX/vx_kernels.h	/^    VX_LIBRARY_KHR_BASE = 0x0,$/;"	e	enum:vx_library_e
+VX_LIBRARY_KHR_CLASS_EXTENSION	openvx/include/VX/vx_khr_class.h	38;"	d
+VX_LIBRARY_KHR_NN_EXTENSION	openvx/include/VX/vx_khr_nn.h	46;"	d
+VX_LIBRARY_MASK	openvx/include/VX/vx_types.h	478;"	d
+VX_LUT_ATTRIBUTE_COUNT	openvx/include/VX/vx_compatibility.h	87;"	d
+VX_LUT_ATTRIBUTE_SIZE	openvx/include/VX/vx_compatibility.h	88;"	d
+VX_LUT_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	86;"	d
+VX_LUT_COUNT	openvx/include/VX/vx_types.h	/^    VX_LUT_COUNT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS,VX_TYPE_LUT) + 0x1,$/;"	e	enum:vx_lut_attribute_e
+VX_LUT_OFFSET	openvx/include/VX/vx_types.h	/^    VX_LUT_OFFSET = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS,VX_TYPE_LUT) + 0x3,$/;"	e	enum:vx_lut_attribute_e
+VX_LUT_SIZE	openvx/include/VX/vx_types.h	/^    VX_LUT_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS,VX_TYPE_LUT) + 0x2,$/;"	e	enum:vx_lut_attribute_e
+VX_LUT_TYPE	openvx/include/VX/vx_types.h	/^    VX_LUT_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS,VX_TYPE_LUT) + 0x0,$/;"	e	enum:vx_lut_attribute_e
+VX_MATRIX_ATTRIBUTE_COLUMNS	openvx/include/VX/vx_compatibility.h	107;"	d
+VX_MATRIX_ATTRIBUTE_ROWS	openvx/include/VX/vx_compatibility.h	106;"	d
+VX_MATRIX_ATTRIBUTE_SIZE	openvx/include/VX/vx_compatibility.h	108;"	d
+VX_MATRIX_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	105;"	d
+VX_MATRIX_COLUMNS	openvx/include/VX/vx_types.h	/^    VX_MATRIX_COLUMNS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x2,$/;"	e	enum:vx_matrix_attribute_e
+VX_MATRIX_ORIGIN	openvx/include/VX/vx_types.h	/^    VX_MATRIX_ORIGIN = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x4,$/;"	e	enum:vx_matrix_attribute_e
+VX_MATRIX_PATTERN	openvx/include/VX/vx_types.h	/^    VX_MATRIX_PATTERN = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x5,$/;"	e	enum:vx_matrix_attribute_e
+VX_MATRIX_ROWS	openvx/include/VX/vx_types.h	/^    VX_MATRIX_ROWS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x1,$/;"	e	enum:vx_matrix_attribute_e
+VX_MATRIX_SIZE	openvx/include/VX/vx_types.h	/^    VX_MATRIX_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x3,$/;"	e	enum:vx_matrix_attribute_e
+VX_MATRIX_TYPE	openvx/include/VX/vx_types.h	/^    VX_MATRIX_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_MATRIX) + 0x0,$/;"	e	enum:vx_matrix_attribute_e
+VX_MAX_IMPLEMENTATION_NAME	openvx/include/VX/vx.h	29;"	d
+VX_MAX_KERNEL_NAME	openvx/include/VX/vx.h	34;"	d
+VX_MAX_LOG_MESSAGE_LEN	openvx/include/VX/vx.h	39;"	d
+VX_MAX_REFERENCE_NAME	openvx/include/VX/vx.h	45;"	d
+VX_MAX_TILING_PLANES	openvx/include/VX/vx_khr_tiling.h	91;"	d
+VX_MEMORY_TYPE_HOST	openvx/include/VX/vx_types.h	/^    VX_MEMORY_TYPE_HOST = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_MEMORY_TYPE) + 0x1,$/;"	e	enum:vx_memory_type_e
+VX_MEMORY_TYPE_NONE	openvx/include/VX/vx_types.h	/^    VX_MEMORY_TYPE_NONE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_MEMORY_TYPE) + 0x0,$/;"	e	enum:vx_memory_type_e
+VX_META_FORMAT_ATTRIBUTE_DELTA_RECTANGLE	openvx/include/VX/vx_compatibility.h	140;"	d
+VX_MLBP	openvx/include/VX/vx_types.h	/^    VX_MLBP = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_LBP_FORMAT ) + 0x1,$/;"	e	enum:vx_lbp_format_e
+VX_NN_ACTIVATION_ABS	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_ABS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x5,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_BRELU	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_BRELU = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x3,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_HYPERBOLIC_TAN	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_HYPERBOLIC_TAN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x1,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_LINEAR	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_LINEAR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x8,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_LOGISTIC	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_LOGISTIC = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x0,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_RELU	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_RELU = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x2,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_SOFTRELU	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_SOFTRELU = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x4,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_SQRT	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_SQRT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x7,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_ACTIVATION_SQUARE	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_ACTIVATION_SQUARE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ACTIVATION_FUNCTION_TYPE) + 0x6,$/;"	e	enum:vx_nn_activation_function_e
+VX_NN_DS_SIZE_ROUNDING_CEILING	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_DS_SIZE_ROUNDING_CEILING = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ROUNDING_TYPE) + 0x1$/;"	e	enum:vx_nn_rounding_type_e
+VX_NN_DS_SIZE_ROUNDING_FLOOR	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_DS_SIZE_ROUNDING_FLOOR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_ROUNDING_TYPE) + 0x0,$/;"	e	enum:vx_nn_rounding_type_e
+VX_NN_NORMALIZATION_ACROSS_MAPS	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_NORMALIZATION_ACROSS_MAPS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_NORMALIZATION_TYPE) + 0x1,$/;"	e	enum:vx_nn_norm_type_e
+VX_NN_NORMALIZATION_SAME_MAP	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_NORMALIZATION_SAME_MAP = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_NORMALIZATION_TYPE) + 0x0,$/;"	e	enum:vx_nn_norm_type_e
+VX_NN_POOLING_AVG	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_POOLING_AVG = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_POOLING_TYPE) + 0x1$/;"	e	enum:vx_nn_pooling_type_e
+VX_NN_POOLING_MAX	openvx/include/VX/vx_khr_nn.h	/^    VX_NN_POOLING_MAX = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NN_POOLING_TYPE) + 0x0,$/;"	e	enum:vx_nn_pooling_type_e
+VX_NODE_ATTRIBUTE_BORDER_MODE	openvx/include/VX/vx_compatibility.h	61;"	d
+VX_NODE_ATTRIBUTE_LOCAL_DATA_PTR	openvx/include/VX/vx_compatibility.h	63;"	d
+VX_NODE_ATTRIBUTE_LOCAL_DATA_SIZE	openvx/include/VX/vx_compatibility.h	62;"	d
+VX_NODE_ATTRIBUTE_PERFORMANCE	openvx/include/VX/vx_compatibility.h	60;"	d
+VX_NODE_ATTRIBUTE_STATUS	openvx/include/VX/vx_compatibility.h	59;"	d
+VX_NODE_BORDER	openvx/include/VX/vx_types.h	/^    VX_NODE_BORDER = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x2,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_INPUT_NEIGHBORHOOD	openvx/include/VX/vx_khr_tiling.h	/^    VX_NODE_INPUT_NEIGHBORHOOD      = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0xB,$/;"	e	enum:vx_node_attribute_tiling_e
+VX_NODE_INPUT_TILE_BLOCK_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_NODE_INPUT_TILE_BLOCK_SIZE   = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0xE,$/;"	e	enum:vx_node_attribute_tiling_e
+VX_NODE_IS_REPLICATED	openvx/include/VX/vx_types.h	/^    VX_NODE_IS_REPLICATED = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x6,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_LOCAL_DATA_PTR	openvx/include/VX/vx_types.h	/^    VX_NODE_LOCAL_DATA_PTR = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x4,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_LOCAL_DATA_SIZE	openvx/include/VX/vx_types.h	/^    VX_NODE_LOCAL_DATA_SIZE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x3,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_OUTPUT_NEIGHBORHOOD	openvx/include/VX/vx_khr_tiling.h	/^    VX_NODE_OUTPUT_NEIGHBORHOOD     = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0xF,$/;"	e	enum:vx_node_attribute_tiling_e
+VX_NODE_OUTPUT_TILE_BLOCK_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_NODE_OUTPUT_TILE_BLOCK_SIZE  = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0xC,$/;"	e	enum:vx_node_attribute_tiling_e
+VX_NODE_PARAMETERS	openvx/include/VX/vx_types.h	/^    VX_NODE_PARAMETERS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x5,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_PERFORMANCE	openvx/include/VX/vx_types.h	/^    VX_NODE_PERFORMANCE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x1,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_REPLICATE_FLAGS	openvx/include/VX/vx_types.h	/^    VX_NODE_REPLICATE_FLAGS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x7,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_STATUS	openvx/include/VX/vx_types.h	/^    VX_NODE_STATUS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x0,$/;"	e	enum:vx_node_attribute_e
+VX_NODE_TILE_MEMORY_SIZE	openvx/include/VX/vx_khr_tiling.h	/^    VX_NODE_TILE_MEMORY_SIZE        = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0xD,$/;"	e	enum:vx_node_attribute_tiling_e
+VX_NODE_VALID_RECT_RESET	openvx/include/VX/vx_types.h	/^    VX_NODE_VALID_RECT_RESET = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_NODE) + 0x8,$/;"	e	enum:vx_node_attribute_e
+VX_NOGAP_X	openvx/include/VX/vx_types.h	/^     VX_NOGAP_X = 1,  \/*!< \\brief No Gap. *\/$/;"	e	enum:vx_map_flag_e
+VX_NONLINEAR_FILTER_MAX	openvx/include/VX/vx_types.h	/^    VX_NONLINEAR_FILTER_MAX = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NONLINEAR) + 0x2,$/;"	e	enum:vx_non_linear_filter_e
+VX_NONLINEAR_FILTER_MEDIAN	openvx/include/VX/vx_types.h	/^    VX_NONLINEAR_FILTER_MEDIAN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NONLINEAR) + 0x0,$/;"	e	enum:vx_non_linear_filter_e
+VX_NONLINEAR_FILTER_MIN	openvx/include/VX/vx_types.h	/^    VX_NONLINEAR_FILTER_MIN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NONLINEAR) + 0x1 ,$/;"	e	enum:vx_non_linear_filter_e
+VX_NORM_L1	openvx/include/VX/vx_types.h	/^    VX_NORM_L1 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NORM_TYPE) + 0x0,$/;"	e	enum:vx_norm_type_e
+VX_NORM_L2	openvx/include/VX/vx_types.h	/^    VX_NORM_L2 = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_NORM_TYPE) + 0x1,$/;"	e	enum:vx_norm_type_e
+VX_OBJECT_ARRAY_ITEMTYPE	openvx/include/VX/vx_types.h	/^    VX_OBJECT_ARRAY_ITEMTYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_OBJECT_ARRAY) + 0x0,$/;"	e	enum:vx_object_array_attribute_e
+VX_OBJECT_ARRAY_NUMITEMS	openvx/include/VX/vx_types.h	/^    VX_OBJECT_ARRAY_NUMITEMS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_OBJECT_ARRAY) + 0x1,$/;"	e	enum:vx_object_array_attribute_e
+VX_OUTPUT	openvx/include/VX/vx_types.h	/^    VX_OUTPUT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_DIRECTION) + 0x1,$/;"	e	enum:vx_direction_e
+VX_PARAMETER_ATTRIBUTE_DIRECTION	openvx/include/VX/vx_compatibility.h	66;"	d
+VX_PARAMETER_ATTRIBUTE_INDEX	openvx/include/VX/vx_compatibility.h	65;"	d
+VX_PARAMETER_ATTRIBUTE_REF	openvx/include/VX/vx_compatibility.h	69;"	d
+VX_PARAMETER_ATTRIBUTE_STATE	openvx/include/VX/vx_compatibility.h	68;"	d
+VX_PARAMETER_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	67;"	d
+VX_PARAMETER_DIRECTION	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_DIRECTION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PARAMETER) + 0x1,$/;"	e	enum:vx_parameter_attribute_e
+VX_PARAMETER_INDEX	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_INDEX = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PARAMETER) + 0x0,$/;"	e	enum:vx_parameter_attribute_e
+VX_PARAMETER_REF	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_REF = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PARAMETER) + 0x4,$/;"	e	enum:vx_parameter_attribute_e
+VX_PARAMETER_STATE	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_STATE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PARAMETER) + 0x3,$/;"	e	enum:vx_parameter_attribute_e
+VX_PARAMETER_STATE_OPTIONAL	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_STATE_OPTIONAL = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PARAMETER_STATE) + 0x1,$/;"	e	enum:vx_parameter_state_e
+VX_PARAMETER_STATE_REQUIRED	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_STATE_REQUIRED = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PARAMETER_STATE) + 0x0,$/;"	e	enum:vx_parameter_state_e
+VX_PARAMETER_TYPE	openvx/include/VX/vx_types.h	/^    VX_PARAMETER_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PARAMETER) + 0x2,$/;"	e	enum:vx_parameter_attribute_e
+VX_PATTERN_BOX	openvx/include/VX/vx_types.h	/^    VX_PATTERN_BOX = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PATTERN) + 0x0,$/;"	e	enum:vx_pattern_e
+VX_PATTERN_CROSS	openvx/include/VX/vx_types.h	/^    VX_PATTERN_CROSS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PATTERN) + 0x1 ,$/;"	e	enum:vx_pattern_e
+VX_PATTERN_DISK	openvx/include/VX/vx_types.h	/^    VX_PATTERN_DISK = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PATTERN) + 0x2,$/;"	e	enum:vx_pattern_e
+VX_PATTERN_OTHER	openvx/include/VX/vx_types.h	/^    VX_PATTERN_OTHER = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_PATTERN) + 0x3,$/;"	e	enum:vx_pattern_e
+VX_PERF_INIT	openvx/include/VX/vx_types.h	1601;"	d
+VX_PYRAMID_ATTRIBUTE_FORMAT	openvx/include/VX/vx_compatibility.h	119;"	d
+VX_PYRAMID_ATTRIBUTE_HEIGHT	openvx/include/VX/vx_compatibility.h	118;"	d
+VX_PYRAMID_ATTRIBUTE_LEVELS	openvx/include/VX/vx_compatibility.h	115;"	d
+VX_PYRAMID_ATTRIBUTE_SCALE	openvx/include/VX/vx_compatibility.h	116;"	d
+VX_PYRAMID_ATTRIBUTE_WIDTH	openvx/include/VX/vx_compatibility.h	117;"	d
+VX_PYRAMID_FORMAT	openvx/include/VX/vx_types.h	/^    VX_PYRAMID_FORMAT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PYRAMID) + 0x4,$/;"	e	enum:vx_pyramid_attribute_e
+VX_PYRAMID_HEIGHT	openvx/include/VX/vx_types.h	/^    VX_PYRAMID_HEIGHT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PYRAMID) + 0x3,$/;"	e	enum:vx_pyramid_attribute_e
+VX_PYRAMID_LEVELS	openvx/include/VX/vx_types.h	/^    VX_PYRAMID_LEVELS = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PYRAMID) + 0x0,$/;"	e	enum:vx_pyramid_attribute_e
+VX_PYRAMID_SCALE	openvx/include/VX/vx_types.h	/^    VX_PYRAMID_SCALE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PYRAMID) + 0x1,$/;"	e	enum:vx_pyramid_attribute_e
+VX_PYRAMID_WIDTH	openvx/include/VX/vx_types.h	/^    VX_PYRAMID_WIDTH = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_PYRAMID) + 0x2,$/;"	e	enum:vx_pyramid_attribute_e
+VX_READ_AND_WRITE	openvx/include/VX/vx_types.h	/^    VX_READ_AND_WRITE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ACCESSOR) + 0x3,$/;"	e	enum:vx_accessor_e
+VX_READ_ONLY	openvx/include/VX/vx_types.h	/^    VX_READ_ONLY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ACCESSOR) + 0x1,$/;"	e	enum:vx_accessor_e
+VX_REFERENCE_COUNT	openvx/include/VX/vx_types.h	/^    VX_REFERENCE_COUNT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REFERENCE) + 0x0,$/;"	e	enum:vx_reference_attribute_e
+VX_REFERENCE_NAME	openvx/include/VX/vx_types.h	/^    VX_REFERENCE_NAME = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REFERENCE) + 0x2,$/;"	e	enum:vx_reference_attribute_e
+VX_REFERENCE_TYPE	openvx/include/VX/vx_types.h	/^    VX_REFERENCE_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REFERENCE) + 0x1,$/;"	e	enum:vx_reference_attribute_e
+VX_REF_ATTRIBUTE_COUNT	openvx/include/VX/vx_compatibility.h	36;"	d
+VX_REF_ATTRIBUTE_NAME	openvx/include/VX/vx_compatibility.h	38;"	d
+VX_REF_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	37;"	d
+VX_REMAP_ATTRIBUTE_DESTINATION_HEIGHT	openvx/include/VX/vx_compatibility.h	124;"	d
+VX_REMAP_ATTRIBUTE_DESTINATION_WIDTH	openvx/include/VX/vx_compatibility.h	123;"	d
+VX_REMAP_ATTRIBUTE_SOURCE_HEIGHT	openvx/include/VX/vx_compatibility.h	122;"	d
+VX_REMAP_ATTRIBUTE_SOURCE_WIDTH	openvx/include/VX/vx_compatibility.h	121;"	d
+VX_REMAP_DESTINATION_HEIGHT	openvx/include/VX/vx_types.h	/^    VX_REMAP_DESTINATION_HEIGHT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REMAP) + 0x3,$/;"	e	enum:vx_remap_attribute_e
+VX_REMAP_DESTINATION_WIDTH	openvx/include/VX/vx_types.h	/^    VX_REMAP_DESTINATION_WIDTH = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REMAP) + 0x2,$/;"	e	enum:vx_remap_attribute_e
+VX_REMAP_SOURCE_HEIGHT	openvx/include/VX/vx_types.h	/^    VX_REMAP_SOURCE_HEIGHT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REMAP) + 0x1,$/;"	e	enum:vx_remap_attribute_e
+VX_REMAP_SOURCE_WIDTH	openvx/include/VX/vx_types.h	/^    VX_REMAP_SOURCE_WIDTH = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_REMAP) + 0x0,$/;"	e	enum:vx_remap_attribute_e
+VX_RESTRICT	openvx/include/VX/vx_khr_tiling.h	45;"	d
+VX_RESTRICT	openvx/include/VX/vx_khr_tiling.h	48;"	d
+VX_RESTRICT	openvx/include/VX/vx_khr_tiling.h	50;"	d
+VX_ROUND_POLICY_TO_NEAREST_EVEN	openvx/include/VX/vx_types.h	/^    VX_ROUND_POLICY_TO_NEAREST_EVEN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ROUND_POLICY) + 0x2,$/;"	e	enum:vx_round_policy_e
+VX_ROUND_POLICY_TO_ZERO	openvx/include/VX/vx_types.h	/^    VX_ROUND_POLICY_TO_ZERO = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ROUND_POLICY) + 0x1,$/;"	e	enum:vx_round_policy_e
+VX_SCALAR_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	79;"	d
+VX_SCALAR_OP_ADD	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_ADD = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xA,  $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_AND	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_AND = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x0,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_DIVIDE	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_DIVIDE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xD,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_EQUAL	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_EQUAL = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x4,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_GREATER	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_GREATER = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x8,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_GREATEREQ	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_GREATEREQ = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x9,  $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_LESS	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_LESS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x6,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_LESSEQ	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_LESSEQ = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x7,  $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_MAX	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_MAX = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x10,      $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_MIN	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_MIN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xF,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_MODULUS	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_MODULUS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xE,  $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_MULTIPLY	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_MULTIPLY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xC,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_NAND	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_NAND = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x3,  $/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_NOTEQUAL	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_NOTEQUAL = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x5,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_OR	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_OR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x1,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_SUBTRACT	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_SUBTRACT = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0xB,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_OP_XOR	openvx/include/VX/vx_types.h	/^    VX_SCALAR_OP_XOR = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_SCALAR_OPERATION) + 0x2,$/;"	e	enum:vx_scalar_operation_e
+VX_SCALAR_TYPE	openvx/include/VX/vx_types.h	/^    VX_SCALAR_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_SCALAR) + 0x0,$/;"	e	enum:vx_scalar_attribute_e
+VX_SCALE_PYRAMID_HALF	openvx/include/VX/vx_types.h	1624;"	d
+VX_SCALE_PYRAMID_ORB	openvx/include/VX/vx_types.h	1629;"	d
+VX_SCALE_UNITY	openvx/include/VX/vx_types.h	1497;"	d
+VX_STATUS_MIN	openvx/include/VX/vx_types.h	/^    VX_STATUS_MIN                       = -25,\/*!< \\brief Indicates the lower bound of status codes in VX. Used for bounds checks only. *\/$/;"	e	enum:vx_status_e
+VX_SUCCESS	openvx/include/VX/vx_types.h	/^    VX_SUCCESS                          =  0,\/*!< \\brief No error. *\/$/;"	e	enum:vx_status_e
+VX_TARGET_ANY	openvx/include/VX/vx_types.h	/^    VX_TARGET_ANY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TARGET) + 0x0000,$/;"	e	enum:vx_target_e
+VX_TARGET_STRING	openvx/include/VX/vx_types.h	/^    VX_TARGET_STRING = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TARGET) + 0x0001,$/;"	e	enum:vx_target_e
+VX_TARGET_VENDOR_BEGIN	openvx/include/VX/vx_types.h	/^    VX_TARGET_VENDOR_BEGIN = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TARGET) + 0x1000,$/;"	e	enum:vx_target_e
+VX_TENSOR_DATA_TYPE	openvx/include/VX/vx_types.h	/^    VX_TENSOR_DATA_TYPE   = VX_ATTRIBUTE_BASE( VX_ID_KHRONOS, VX_TYPE_TENSOR ) + 0x2,$/;"	e	enum:vx_tensor_attribute_e
+VX_TENSOR_DIMS	openvx/include/VX/vx_types.h	/^    VX_TENSOR_DIMS        = VX_ATTRIBUTE_BASE( VX_ID_KHRONOS, VX_TYPE_TENSOR ) + 0x1,$/;"	e	enum:vx_tensor_attribute_e
+VX_TENSOR_FIXED_POINT_POSITION	openvx/include/VX/vx_types.h	/^    VX_TENSOR_FIXED_POINT_POSITION = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_TENSOR) + 0x3$/;"	e	enum:vx_tensor_attribute_e
+VX_TENSOR_NUMBER_OF_DIMS	openvx/include/VX/vx_types.h	/^    VX_TENSOR_NUMBER_OF_DIMS = VX_ATTRIBUTE_BASE( VX_ID_KHRONOS, VX_TYPE_TENSOR ) + 0x0,$/;"	e	enum:vx_tensor_attribute_e
+VX_TERM_CRITERIA_BOTH	openvx/include/VX/vx_types.h	/^    VX_TERM_CRITERIA_BOTH = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x2,$/;"	e	enum:vx_termination_criteria_e
+VX_TERM_CRITERIA_EPSILON	openvx/include/VX/vx_types.h	/^    VX_TERM_CRITERIA_EPSILON = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x1,$/;"	e	enum:vx_termination_criteria_e
+VX_TERM_CRITERIA_ITERATIONS	openvx/include/VX/vx_types.h	/^    VX_TERM_CRITERIA_ITERATIONS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x0,$/;"	e	enum:vx_termination_criteria_e
+VX_THRESHOLD_ATTRIBUTE_DATA_TYPE	openvx/include/VX/vx_compatibility.h	103;"	d
+VX_THRESHOLD_ATTRIBUTE_FALSE_VALUE	openvx/include/VX/vx_compatibility.h	102;"	d
+VX_THRESHOLD_ATTRIBUTE_THRESHOLD_LOWER	openvx/include/VX/vx_compatibility.h	99;"	d
+VX_THRESHOLD_ATTRIBUTE_THRESHOLD_UPPER	openvx/include/VX/vx_compatibility.h	100;"	d
+VX_THRESHOLD_ATTRIBUTE_THRESHOLD_VALUE	openvx/include/VX/vx_compatibility.h	98;"	d
+VX_THRESHOLD_ATTRIBUTE_TRUE_VALUE	openvx/include/VX/vx_compatibility.h	101;"	d
+VX_THRESHOLD_ATTRIBUTE_TYPE	openvx/include/VX/vx_compatibility.h	97;"	d
+VX_THRESHOLD_DATA_TYPE	openvx/include/VX/vx_compatibility.h	158;"	d
+VX_THRESHOLD_FALSE_VALUE	openvx/include/VX/vx_compatibility.h	157;"	d
+VX_THRESHOLD_INPUT_FORMAT	openvx/include/VX/vx_types.h	/^    VX_THRESHOLD_INPUT_FORMAT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_THRESHOLD) + 0x7,$/;"	e	enum:vx_threshold_attribute_e
+VX_THRESHOLD_OUTPUT_FORMAT	openvx/include/VX/vx_types.h	/^    VX_THRESHOLD_OUTPUT_FORMAT = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_THRESHOLD) + 0x8$/;"	e	enum:vx_threshold_attribute_e
+VX_THRESHOLD_THRESHOLD_LOWER	openvx/include/VX/vx_compatibility.h	154;"	d
+VX_THRESHOLD_THRESHOLD_UPPER	openvx/include/VX/vx_compatibility.h	155;"	d
+VX_THRESHOLD_THRESHOLD_VALUE	openvx/include/VX/vx_compatibility.h	153;"	d
+VX_THRESHOLD_TRUE_VALUE	openvx/include/VX/vx_compatibility.h	156;"	d
+VX_THRESHOLD_TYPE	openvx/include/VX/vx_types.h	/^    VX_THRESHOLD_TYPE = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_THRESHOLD) + 0x0,$/;"	e	enum:vx_threshold_attribute_e
+VX_THRESHOLD_TYPE_BINARY	openvx/include/VX/vx_types.h	/^    VX_THRESHOLD_TYPE_BINARY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_THRESHOLD_TYPE) + 0x0,$/;"	e	enum:vx_threshold_type_e
+VX_THRESHOLD_TYPE_RANGE	openvx/include/VX/vx_types.h	/^    VX_THRESHOLD_TYPE_RANGE = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_THRESHOLD_TYPE) + 0x1,$/;"	e	enum:vx_threshold_type_e
+VX_TYPE	openvx/include/VX/vx_types.h	508;"	d
+VX_TYPE_ARRAY	openvx/include/VX/vx_types.h	/^    VX_TYPE_ARRAY           = 0x80E,\/*!< \\brief A <tt>\\ref vx_array<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_BOOL	openvx/include/VX/vx_types.h	/^    VX_TYPE_BOOL            = 0x010,\/*!< \\brief A <tt>\\ref vx_bool<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_CHAR	openvx/include/VX/vx_types.h	/^    VX_TYPE_CHAR            = 0x001,\/*!< \\brief A <tt>\\ref vx_char<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_CLASSIFER_MODEL	openvx/include/VX/vx_khr_class.h	/^	VX_TYPE_CLASSIFER_MODEL     = 0x02C,\/*!< \\brief A <tt>\\ref vx_classifier_model<\/tt>. type *\/$/;"	e	enum:vx_classifier_type_e
+VX_TYPE_CONTEXT	openvx/include/VX/vx_types.h	/^    VX_TYPE_CONTEXT         = 0x801,\/*!< \\brief A <tt>\\ref vx_context<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_CONVOLUTION	openvx/include/VX/vx_types.h	/^    VX_TYPE_CONVOLUTION     = 0x80C,\/*!< \\brief A <tt>\\ref vx_convolution<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_COORDINATES2D	openvx/include/VX/vx_types.h	/^    VX_TYPE_COORDINATES2D   = 0x022,\/*!< \\brief A <tt>\\ref vx_coordinates2d_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_COORDINATES2DF	openvx/include/VX/vx_types.h	/^    VX_TYPE_COORDINATES2DF  = 0x024,\/*!< \\brief A <tt>\\ref vx_coordinates2df_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_COORDINATES3D	openvx/include/VX/vx_types.h	/^    VX_TYPE_COORDINATES3D   = 0x023,\/*!< \\brief A <tt>\\ref vx_coordinates3d_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_DELAY	openvx/include/VX/vx_types.h	/^    VX_TYPE_DELAY           = 0x806,\/*!< \\brief A <tt>\\ref vx_delay<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_DF_IMAGE	openvx/include/VX/vx_types.h	/^    VX_TYPE_DF_IMAGE        = 0x00E,\/*!< \\brief A <tt>\\ref vx_df_image<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_DISTRIBUTION	openvx/include/VX/vx_types.h	/^    VX_TYPE_DISTRIBUTION    = 0x808,\/*!< \\brief A <tt>\\ref vx_distribution<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_ENUM	openvx/include/VX/vx_types.h	/^    VX_TYPE_ENUM            = 0x00C,\/*!< \\brief A <tt>\\ref vx_enum<\/tt>. Equivalent in size to a <tt>\\ref vx_int32<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_ERROR	openvx/include/VX/vx_types.h	/^    VX_TYPE_ERROR           = 0x811,\/*!< \\brief An error object which has no type. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_FLOAT16	openvx/include/VX/vx_types.h	/^    VX_TYPE_FLOAT16         = 0x00F,\/*!< \\brief A <tt>\\ref vx_float16<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_FLOAT32	openvx/include/VX/vx_types.h	/^    VX_TYPE_FLOAT32         = 0x00A,\/*!< \\brief A <tt>\\ref vx_float32<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_FLOAT64	openvx/include/VX/vx_types.h	/^    VX_TYPE_FLOAT64         = 0x00B,\/*!< \\brief A <tt>\\ref vx_float64<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_GRAPH	openvx/include/VX/vx_types.h	/^    VX_TYPE_GRAPH           = 0x802,\/*!< \\brief A <tt>\\ref vx_graph<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_HOG_PARAMS	openvx/include/VX/vx_types.h	/^	VX_TYPE_HOG_PARAMS                       = 0x028, \/*!< \\brief A <tt>\\ref vx_hog_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_HOUGH_LINES_PARAMS	openvx/include/VX/vx_types.h	/^	VX_TYPE_HOUGH_LINES_PARAMS               = 0x029, \/*!< \\brief A <tt>\\ref vx_hough_lines_p_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_IMAGE	openvx/include/VX/vx_types.h	/^    VX_TYPE_IMAGE           = 0x80F,\/*!< \\brief A <tt>\\ref vx_image<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_IMPORT	openvx/include/VX/vx_import.h	57;"	d
+VX_TYPE_IMPORT	openvx/include/VX/vx_khr_xml.h	/^    VX_TYPE_IMPORT = 0x814,\/*!< \\brief A <tt>\\ref vx_import<\/tt> *\/$/;"	e	enum:vx_ext_import_type_e
+VX_TYPE_INT16	openvx/include/VX/vx_types.h	/^    VX_TYPE_INT16           = 0x004,\/*!< \\brief A <tt>\\ref vx_int16<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_INT32	openvx/include/VX/vx_types.h	/^    VX_TYPE_INT32           = 0x006,\/*!< \\brief A <tt>\\ref vx_int32<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_INT64	openvx/include/VX/vx_types.h	/^    VX_TYPE_INT64           = 0x008,\/*!< \\brief A <tt>\\ref vx_int64<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_INT8	openvx/include/VX/vx_types.h	/^    VX_TYPE_INT8            = 0x002,\/*!< \\brief A <tt>\\ref vx_int8<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_INVALID	openvx/include/VX/vx_types.h	/^    VX_TYPE_INVALID         = 0x000,\/*!< \\brief An invalid type value. When passed an error must be returned. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_KERNEL	openvx/include/VX/vx_types.h	/^    VX_TYPE_KERNEL          = 0x804,\/*!< \\brief A <tt>\\ref vx_kernel<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_KEYPOINT	openvx/include/VX/vx_types.h	/^    VX_TYPE_KEYPOINT        = 0x021,\/*!< \\brief A <tt>\\ref vx_keypoint_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_KHRONOS_OBJECT_END	openvx/include/VX/vx_types.h	/^    VX_TYPE_KHRONOS_OBJECT_END   = VX_TYPE_VENDOR_OBJECT_START - 1,\/*!< \\brief A value for comparison between Khronos defined objects and vendor structs. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_KHRONOS_OBJECT_START	openvx/include/VX/vx_types.h	/^    VX_TYPE_KHRONOS_OBJECT_START = 0x800,\/*!< \\brief A Khronos defined object base index. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_KHRONOS_STRUCT_MAX	openvx/include/VX/vx_types.h	/^    VX_TYPE_KHRONOS_STRUCT_MAX   = VX_TYPE_USER_STRUCT_START - 1,\/*!< \\brief A value for comparison between Khronos defined structs and user structs. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_LINE_2D	openvx/include/VX/vx_types.h	/^	VX_TYPE_LINE_2D                          = 0x02A, \/*!< \\brief A <tt>\\ref vx_line2d_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_LUT	openvx/include/VX/vx_types.h	/^    VX_TYPE_LUT             = 0x807,\/*!< \\brief A <tt>\\ref vx_lut<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_MASK	openvx/include/VX/vx_types.h	472;"	d
+VX_TYPE_MATRIX	openvx/include/VX/vx_types.h	/^    VX_TYPE_MATRIX          = 0x80B,\/*!< \\brief A <tt>\\ref vx_matrix<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_META_FORMAT	openvx/include/VX/vx_types.h	/^    VX_TYPE_META_FORMAT     = 0x812,\/*!< \\brief A <tt>\\ref vx_meta_format<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_NN_CONVOLUTION_PARAMS	openvx/include/VX/vx_khr_nn.h	/^	VX_TYPE_NN_CONVOLUTION_PARAMS     = 0x025,\/*!< \\brief A <tt>\\ref vx_nn_convolution_params_t<\/tt>. *\/$/;"	e	enum:vx_nn_type_e
+VX_TYPE_NN_DECONVOLUTION_PARAMS	openvx/include/VX/vx_khr_nn.h	/^	VX_TYPE_NN_DECONVOLUTION_PARAMS   = 0x026,\/*!< \\brief A <tt>\\ref vx_nn_deconvolution_params_t<\/tt>. *\/$/;"	e	enum:vx_nn_type_e
+VX_TYPE_NN_ROI_POOL_PARAMS	openvx/include/VX/vx_khr_nn.h	/^	VX_TYPE_NN_ROI_POOL_PARAMS        = 0x027,\/*!< \\brief A <tt>\\ref vx_nn_roi_pool_params_t<\/tt>. *\/$/;"	e	enum:vx_nn_type_e
+VX_TYPE_NODE	openvx/include/VX/vx_types.h	/^    VX_TYPE_NODE            = 0x803,\/*!< \\brief A <tt>\\ref vx_node<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_OBJECT_ARRAY	openvx/include/VX/vx_types.h	/^    VX_TYPE_OBJECT_ARRAY    = 0x813,\/*!< \\brief A <tt>\\ref vx_object_array<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_OBJECT_MAX	openvx/include/VX/vx_compatibility.h	148;"	d
+VX_TYPE_PARAMETER	openvx/include/VX/vx_types.h	/^    VX_TYPE_PARAMETER       = 0x805,\/*!< \\brief A <tt>\\ref vx_parameter<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_PYRAMID	openvx/include/VX/vx_types.h	/^    VX_TYPE_PYRAMID         = 0x809,\/*!< \\brief A <tt>\\ref vx_pyramid<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_RECTANGLE	openvx/include/VX/vx_types.h	/^    VX_TYPE_RECTANGLE       = 0x020,\/*!< \\brief A <tt>\\ref vx_rectangle_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_REFERENCE	openvx/include/VX/vx_types.h	/^    VX_TYPE_REFERENCE       = 0x800,\/*!< \\brief A <tt>\\ref vx_reference<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_REMAP	openvx/include/VX/vx_types.h	/^    VX_TYPE_REMAP           = 0x810,\/*!< \\brief A <tt>\\ref vx_remap<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_SCALAR	openvx/include/VX/vx_types.h	/^    VX_TYPE_SCALAR          = 0x80D,\/*!< \\brief A <tt>\\ref vx_scalar<\/tt>. when needed to be completely generic for kernel validation. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_SCALAR_MAX	openvx/include/VX/vx_compatibility.h	21;"	d
+VX_TYPE_SIZE	openvx/include/VX/vx_types.h	/^    VX_TYPE_SIZE            = 0x00D,\/*!< \\brief A <tt>\\ref vx_size<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_STRUCT_MAX	openvx/include/VX/vx_compatibility.h	149;"	d
+VX_TYPE_TENSOR	openvx/include/VX/vx_types.h	/^    VX_TYPE_TENSOR          = 0x815,\/*!< \\brief A <tt>\\ref vx_tensor<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_TENSOR_MATRIX_MULTIPLY_PARAMS	openvx/include/VX/vx_types.h	/^	VX_TYPE_TENSOR_MATRIX_MULTIPLY_PARAMS    = 0x02B, \/*!< \\brief A <tt>\\ref vx_tensor_matrix_multiply_params_t<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_THRESHOLD	openvx/include/VX/vx_types.h	/^    VX_TYPE_THRESHOLD       = 0x80A,\/*!< \\brief A <tt>\\ref vx_threshold<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_UINT16	openvx/include/VX/vx_types.h	/^    VX_TYPE_UINT16          = 0x005,\/*!< \\brief A <tt>\\ref vx_uint16<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_UINT32	openvx/include/VX/vx_types.h	/^    VX_TYPE_UINT32          = 0x007,\/*!< \\brief A <tt>\\ref vx_uint32<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_UINT64	openvx/include/VX/vx_types.h	/^    VX_TYPE_UINT64          = 0x009,\/*!< \\brief A <tt>\\ref vx_uint64<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_UINT8	openvx/include/VX/vx_types.h	/^    VX_TYPE_UINT8           = 0x003,\/*!< \\brief A <tt>\\ref vx_uint8<\/tt>. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_USER_STRUCT_END	openvx/include/VX/vx_types.h	/^    VX_TYPE_USER_STRUCT_END      = VX_TYPE_VENDOR_STRUCT_START - 1,\/*!< \\brief A value for comparison between user structs and vendor structs. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_USER_STRUCT_START	openvx/include/VX/vx_types.h	/^    VX_TYPE_USER_STRUCT_START    = 0x100,\/*!< \\brief A user-defined struct base index.*\/$/;"	e	enum:vx_type_e
+VX_TYPE_VENDOR_OBJECT_END	openvx/include/VX/vx_types.h	/^    VX_TYPE_VENDOR_OBJECT_END    = 0xFFF,\/*!< \\brief A value used for bound checking of vendor objects *\/$/;"	e	enum:vx_type_e
+VX_TYPE_VENDOR_OBJECT_START	openvx/include/VX/vx_types.h	/^    VX_TYPE_VENDOR_OBJECT_START  = 0xC00,\/*!< \\brief A vendor defined object base index. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_VENDOR_STRUCT_END	openvx/include/VX/vx_types.h	/^    VX_TYPE_VENDOR_STRUCT_END    = VX_TYPE_KHRONOS_OBJECT_START - 1,\/*!< \\brief A value for comparison between vendor structs and Khronos defined objects. *\/$/;"	e	enum:vx_type_e
+VX_TYPE_VENDOR_STRUCT_START	openvx/include/VX/vx_types.h	/^    VX_TYPE_VENDOR_STRUCT_START  = 0x400,\/*!< \\brief A vendor-defined struct base index.*\/$/;"	e	enum:vx_type_e
+VX_ULBP	openvx/include/VX/vx_types.h	/^    VX_ULBP = VX_ENUM_BASE( VX_ID_KHRONOS, VX_ENUM_LBP_FORMAT ) + 0x2$/;"	e	enum:vx_lbp_format_e
+VX_VALID_RECT_CALLBACK	openvx/include/VX/vx_types.h	/^    VX_VALID_RECT_CALLBACK = VX_ATTRIBUTE_BASE(VX_ID_KHRONOS, VX_TYPE_META_FORMAT) + 0x1,$/;"	e	enum:vx_meta_valid_rect_attribute_e
+VX_VENDOR	openvx/include/VX/vx_types.h	503;"	d
+VX_VENDOR_MASK	openvx/include/VX/vx_types.h	465;"	d
+VX_VERSION	openvx/include/VX/vx.h	81;"	d
+VX_VERSION_1_0	openvx/include/VX/vx.h	66;"	d
+VX_VERSION_1_1	openvx/include/VX/vx.h	71;"	d
+VX_VERSION_1_2	openvx/include/VX/vx.h	76;"	d
+VX_VERSION_MAJOR	openvx/include/VX/vx.h	56;"	d
+VX_VERSION_MINOR	openvx/include/VX/vx.h	61;"	d
+VX_WRITE_ONLY	openvx/include/VX/vx_types.h	/^    VX_WRITE_ONLY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_ACCESSOR) + 0x2,$/;"	e	enum:vx_accessor_e
+YUV	openvx/include/VX/vx_types.h	/^    vx_uint8 YUV[3]; \/*!< \\brief All YUV formats in the Y,U,V order *\/$/;"	m	union:_vx_pixel_value_t
+_OPENVX_API_H_	openvx/include/VX/vx_api.h	19;"	d
+_OPENVX_H_	openvx/include/VX/vx.h	19;"	d
+_OPENVX_IMPORT_EXPORT_H_	openvx/include/VX/vx_khr_ix.h	18;"	d
+_OPENVX_IMPORT_H_	openvx/include/VX/vx_import.h	18;"	d
+_OPENVX_KERNELS_H_	openvx/include/VX/vx_kernels.h	19;"	d
+_OPENVX_NODES_H_	openvx/include/VX/vx_nodes.h	19;"	d
+_OPENVX_TYPES_H_	openvx/include/VX/vx_types.h	19;"	d
+_OPENVX_UTILITY_H_	openvx/include/VX/vxu.h	19;"	d
+_OPENVX_VENDORS_H_	openvx/include/VX/vx_vendors.h	19;"	d
+_VX_KHR_CLASSIFIER_H_	openvx/include/VX/vx_khr_class.h	19;"	d
+_VX_KHR_ICD_H_	openvx/include/VX/vx_khr_icd.h	25;"	d
+_VX_KHR_NN_H_	openvx/include/VX/vx_khr_nn.h	19;"	d
+_VX_KHR_TILING_H_	openvx/include/VX/vx_khr_tiling.h	19;"	d
+_VX_KHR_XML_H_	openvx/include/VX/vx_khr_xml.h	19;"	d
+_vx_bool_e	openvx/include/VX/vx_types.h	/^typedef enum _vx_bool_e {$/;"	g
+_vx_border_mode_t	openvx/include/VX/vx_compatibility.h	25;"	d
+_vx_border_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_border_t {$/;"	s
+_vx_coordinates2d_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_coordinates2d_t {$/;"	s
+_vx_coordinates2df_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_coordinates2df_t {$/;"	s
+_vx_coordinates3d_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_coordinates3d_t {$/;"	s
+_vx_delta_rectangle_t	openvx/include/VX/vx_compatibility.h	/^typedef struct _vx_delta_rectangle_t {$/;"	s
+_vx_hough_lines_p_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_hough_lines_p_t$/;"	s
+_vx_image_description_t	openvx/include/VX/vx_khr_tiling.h	/^typedef struct _vx_image_description_t {$/;"	s
+_vx_imagepatch_addressing_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_imagepatch_addressing_t {$/;"	s
+_vx_kernel_info_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_kernel_info_t {$/;"	s
+_vx_keypoint_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_keypoint_t {$/;"	s
+_vx_line2d_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_line2d_t$/;"	s
+_vx_neighborhood_size_t	openvx/include/VX/vx_khr_tiling.h	/^typedef struct _vx_neighborhood_size_t {$/;"	s
+_vx_nn_convolution_params_t	openvx/include/VX/vx_khr_nn.h	/^typedef struct _vx_nn_convolution_params_t$/;"	s
+_vx_nn_deconvolution_params_t	openvx/include/VX/vx_khr_nn.h	/^typedef struct _vx_nn_deconvolution_params_t$/;"	s
+_vx_nn_roi_pool_params_t	openvx/include/VX/vx_khr_nn.h	/^typedef struct _vx_nn_roi_pool_params_t$/;"	s
+_vx_perf_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_perf_t {$/;"	s
+_vx_pixel_value_t	openvx/include/VX/vx_types.h	/^typedef union _vx_pixel_value_t {$/;"	u
+_vx_rectangle_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_rectangle_t {$/;"	s
+_vx_tensor_matrix_multiply_params_t	openvx/include/VX/vx_types.h	/^typedef struct _vx_tensor_matrix_multiply_params_t{$/;"	s
+_vx_tile_block_size_t	openvx/include/VX/vx_khr_tiling.h	/^typedef struct _vx_tile_block_size_t {$/;"	s
+_vx_tile_t	openvx/include/VX/vx_khr_tiling.h	/^typedef struct _vx_tile_t {$/;"	s
+a_x	openvx/include/VX/vx_khr_nn.h	/^    vx_size a_x;                 \/*!< \\brief user-specified quantity used to distinguish between the \\f$upscale_x\\f$ different possible output sizes. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+a_y	openvx/include/VX/vx_khr_nn.h	/^    vx_size a_y;                 \/*!< \\brief user-specified quantity used to distinguish between the \\f$upscale_y\\f$ different possible output sizes. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+addr	openvx/include/VX/vx_khr_tiling.h	/^    vx_imagepatch_addressing_t addr[VX_MAX_TILING_PLANES];$/;"	m	struct:_vx_tile_t
+avg	openvx/include/VX/vx_types.h	/^    vx_uint64 avg;          \/*!< \\brief Holds the average of the durations. *\/$/;"	m	struct:_vx_perf_t
+base	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint8 * VX_RESTRICT base[VX_MAX_TILING_PLANES];$/;"	m	struct:_vx_tile_t
+beg	openvx/include/VX/vx_types.h	/^    vx_uint64 beg;          \/*!< \\brief Holds the first measurement in a set. *\/$/;"	m	struct:_vx_perf_t
+block_height	openvx/include/VX/vx_types.h	/^    vx_int32 block_height; $/;"	m	struct:__anon1
+block_stride	openvx/include/VX/vx_types.h	/^    vx_int32 block_stride;$/;"	m	struct:__anon1
+block_width	openvx/include/VX/vx_types.h	/^    vx_int32 block_width; $/;"	m	struct:__anon1
+bottom	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 bottom; \/*!< \\brief Bottom of the tile block. *\/$/;"	m	struct:_vx_neighborhood_size_t
+cell_height	openvx/include/VX/vx_types.h	/^    vx_int32 cell_height; $/;"	m	struct:__anon1
+cell_width	openvx/include/VX/vx_types.h	/^    vx_int32 cell_width; $/;"	m	struct:__anon1
+const	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+constant_value	openvx/include/VX/vx_types.h	/^    vx_pixel_value_t constant_value;$/;"	m	struct:_vx_border_t
+delta_end_x	openvx/include/VX/vx_compatibility.h	/^    vx_int32 delta_end_x;   \/*!< \\brief The change in the end x. *\/$/;"	m	struct:_vx_delta_rectangle_t
+delta_end_y	openvx/include/VX/vx_compatibility.h	/^    vx_int32 delta_end_y;   \/*!< \\brief The change in the end y. *\/$/;"	m	struct:_vx_delta_rectangle_t
+delta_start_x	openvx/include/VX/vx_compatibility.h	/^    vx_int32 delta_start_x; \/*!< \\brief The change in the start x. *\/$/;"	m	struct:_vx_delta_rectangle_t
+delta_start_y	openvx/include/VX/vx_compatibility.h	/^    vx_int32 delta_start_y; \/*!< \\brief The change in the start y. *\/$/;"	m	struct:_vx_delta_rectangle_t
+dilation_x	openvx/include/VX/vx_khr_nn.h	/^    vx_size dilation_x;            \/*!< \\brief “inflate” the kernel by inserting zeros between the kernel elements in the x direction. The value is the number of zeros to insert.*\/$/;"	m	struct:_vx_nn_convolution_params_t
+dilation_y	openvx/include/VX/vx_khr_nn.h	/^    vx_size dilation_y;            \/*!< \\brief “inflate” the kernel by inserting zeros between the kernel elements in the y direction. The value is the number of zeros to insert.*\/$/;"	m	struct:_vx_nn_convolution_params_t
+dim_x	openvx/include/VX/vx_types.h	/^    vx_uint32 dim_x;        \/*!< \\brief Width of patch in X dimension in pixels. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+dim_y	openvx/include/VX/vx_types.h	/^    vx_uint32 dim_y;        \/*!< \\brief Height of patch in Y dimension in pixels. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+down_scale_size_rounding	openvx/include/VX/vx_khr_nn.h	/^    vx_enum down_scale_size_rounding; \/*!< \\brief Rounding method for calculating output dimensions. See <tt>\\ref vx_nn_rounding_type_e<\/tt> *\/$/;"	m	struct:_vx_nn_convolution_params_t
+end	openvx/include/VX/vx_types.h	/^    vx_uint64 end;          \/*!< \\brief Holds the last measurement in a set. *\/$/;"	m	struct:_vx_perf_t
+end_x	openvx/include/VX/vx_types.h	/^    vx_float32 end_x;$/;"	m	struct:_vx_line2d_t
+end_x	openvx/include/VX/vx_types.h	/^    vx_uint32 end_x;            \/*!< \\brief The End X coordinate. *\/$/;"	m	struct:_vx_rectangle_t
+end_y	openvx/include/VX/vx_types.h	/^    vx_float32 end_y;$/;"	m	struct:_vx_line2d_t
+end_y	openvx/include/VX/vx_types.h	/^    vx_uint32 end_y;            \/*!< \\brief The End Y coordinate. *\/$/;"	m	struct:_vx_rectangle_t
+enumeration	openvx/include/VX/vx_types.h	/^    vx_enum enumeration;$/;"	m	struct:_vx_kernel_info_t
+error	openvx/include/VX/vx_types.h	/^    vx_float32 error;           \/*!< \\brief A tracking method specific error. Initialized to 0 by corner detectors. *\/$/;"	m	struct:_vx_keypoint_t
+format	openvx/include/VX/vx_khr_tiling.h	/^    vx_df_image format; \/*!< \\brief The <tt>\\ref vx_df_image_e<\/tt> of the image *\/$/;"	m	struct:_vx_image_description_t
+height	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 height; \/*!< \\brief Tile block height in pixels. *\/$/;"	m	struct:_vx_tile_block_size_t
+height	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint32 height; \/*!< \\brief Height of the image *\/$/;"	m	struct:_vx_image_description_t
+image	openvx/include/VX/vx_khr_tiling.h	/^    vx_image_description_t image;$/;"	m	struct:_vx_tile_t
+info_arch	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v
+info_language_dialect_default	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+info_version_internal	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v
+info_version_internal	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v
+left	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 left;   \/*!< \\brief Left of the tile block. *\/$/;"	m	struct:_vx_neighborhood_size_t
+line_gap	openvx/include/VX/vx_types.h	/^    vx_int32 line_gap;$/;"	m	struct:_vx_hough_lines_p_t
+line_length	openvx/include/VX/vx_types.h	/^    vx_int32 line_length;$/;"	m	struct:_vx_hough_lines_p_t
+main	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+max	openvx/include/VX/vx_types.h	/^    vx_uint64 max;          \/*!< \\brief Holds the maximum of the durations. *\/$/;"	m	struct:_vx_perf_t
+min	openvx/include/VX/vx_types.h	/^    vx_uint64 min;          \/*!< \\brief Holds the minimum of the durations. *\/$/;"	m	struct:_vx_perf_t
+mode	openvx/include/VX/vx_types.h	/^    vx_enum mode;$/;"	m	struct:_vx_border_t
+name	openvx/include/VX/vx_types.h	/^    vx_char name[VX_MAX_KERNEL_NAME];$/;"	m	struct:_vx_kernel_info_t
+neighborhood	openvx/include/VX/vx_khr_tiling.h	/^    vx_neighborhood_size_t neighborhood;$/;"	m	struct:_vx_tile_t
+num	openvx/include/VX/vx_types.h	/^    vx_uint64 num;          \/*!< \\brief Holds the number of measurements. *\/$/;"	m	struct:_vx_perf_t
+num_bins	openvx/include/VX/vx_types.h	/^    vx_int32 num_bins;$/;"	m	struct:__anon1
+orientation	openvx/include/VX/vx_types.h	/^    vx_float32 orientation;     \/*!< \\brief Initialized to 0 by corner detectors. *\/$/;"	m	struct:_vx_keypoint_t
+overflow_policy	openvx/include/VX/vx_khr_nn.h	/^	vx_enum overflow_policy;         \/*!< \\brief A <tt> VX_TYPE_ENUM<\/tt> of the <tt> vx_convert_policy_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_nn_convolution_params_t
+overflow_policy	openvx/include/VX/vx_khr_nn.h	/^	vx_enum overflow_policy;         \/*!< \\brief A <tt> VX_TYPE_ENUM<\/tt> of the <tt> vx_convert_policy_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+padding_x	openvx/include/VX/vx_khr_nn.h	/^    vx_size padding_x;                 \/*!< \\brief Number of elements added at each side in the x dimension of the input. *\/$/;"	m	struct:_vx_nn_convolution_params_t
+padding_x	openvx/include/VX/vx_khr_nn.h	/^    vx_size padding_x;                 \/*!< \\brief Number of elements subtracted at each side in the x dimension of the output. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+padding_y	openvx/include/VX/vx_khr_nn.h	/^    vx_size padding_y;                 \/*!< \\brief Number of elements added at each side in the y dimension of the input. *\/$/;"	m	struct:_vx_nn_convolution_params_t
+padding_y	openvx/include/VX/vx_khr_nn.h	/^    vx_size padding_y;                 \/*!< \\brief Number of elements subtracted at each side in the y dimension of the output. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+planes	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint32 planes; \/*!< \\brief The number of planes in the image *\/$/;"	m	struct:_vx_image_description_t
+pool_type	openvx/include/VX/vx_khr_nn.h	/^	vx_enum pool_type;  \/*!< \\brief Of type <tt>\\ref vx_nn_pooling_type_e<\/tt>. Only <tt>\\ref VX_NN_POOLING_MAX<\/tt> pooling is supported. *\/$/;"	m	struct:_vx_nn_roi_pool_params_t
+qnxnto	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+range	openvx/include/VX/vx_khr_tiling.h	/^    vx_enum range;    \/*!< \\brief The <tt>\\ref vx_channel_range_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_image_description_t
+reserved	openvx/include/VX/vx_types.h	/^    vx_uint8 reserved[16];$/;"	m	union:_vx_pixel_value_t
+rho	openvx/include/VX/vx_types.h	/^    vx_float32 rho;$/;"	m	struct:_vx_hough_lines_p_t
+right	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 right;  \/*!< \\brief Right of the tile block. *\/$/;"	m	struct:_vx_neighborhood_size_t
+rounding_policy	openvx/include/VX/vx_khr_nn.h	/^    vx_enum rounding_policy;         \/*!< \\brief A <tt> VX_TYPE_ENUM<\/tt> of the <tt> vx_round_policy_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_nn_convolution_params_t
+rounding_policy	openvx/include/VX/vx_khr_nn.h	/^    vx_enum rounding_policy;         \/*!< \\brief A <tt> VX_TYPE_ENUM<\/tt> of the <tt> vx_round_policy_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_nn_deconvolution_params_t
+scale	openvx/include/VX/vx_types.h	/^    vx_float32 scale;           \/*!< \\brief Initialized to 0 by corner detectors. *\/$/;"	m	struct:_vx_keypoint_t
+scale_x	openvx/include/VX/vx_types.h	/^    vx_uint32 scale_x;      \/*!< \\brief Scale of X dimension. For sub-sampled planes this is the scaling factor of the dimension of the plane in relation to the zero plane. Use <tt>\\ref VX_SCALE_UNITY<\/tt> in the numerator. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+scale_y	openvx/include/VX/vx_types.h	/^    vx_uint32 scale_y;      \/*!< \\brief Scale of Y dimension. For sub-sampled planes this is the scaling factor of the dimension of the plane in relation to the zero plane. Use <tt>\\ref VX_SCALE_UNITY<\/tt> in the numerator.  *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+space	openvx/include/VX/vx_khr_tiling.h	/^    vx_enum space;    \/*!< \\brief The <tt>\\ref vx_color_space_e<\/tt> enumeration. *\/$/;"	m	struct:_vx_image_description_t
+start_x	openvx/include/VX/vx_types.h	/^    vx_float32 start_x;$/;"	m	struct:_vx_line2d_t
+start_x	openvx/include/VX/vx_types.h	/^    vx_uint32 start_x;          \/*!< \\brief The Start X coordinate. *\/$/;"	m	struct:_vx_rectangle_t
+start_y	openvx/include/VX/vx_types.h	/^    vx_float32 start_y;$/;"	m	struct:_vx_line2d_t
+start_y	openvx/include/VX/vx_types.h	/^    vx_uint32 start_y;          \/*!< \\brief The Start Y coordinate. *\/$/;"	m	struct:_vx_rectangle_t
+step_x	openvx/include/VX/vx_types.h	/^    vx_uint32 step_x;       \/*!< \\brief Step of X dimension in pixels. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+step_y	openvx/include/VX/vx_types.h	/^    vx_uint32 step_y;       \/*!< \\brief Step of Y dimension in pixels. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+strength	openvx/include/VX/vx_types.h	/^    vx_float32 strength;        \/*!< \\brief The strength of the keypoint. Its definition is specific to the corner detector. *\/$/;"	m	struct:_vx_keypoint_t
+stride_x	openvx/include/VX/vx_types.h	/^    vx_int32  stride_x;     \/*!< \\brief Stride in X dimension in bytes. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+stride_y	openvx/include/VX/vx_types.h	/^    vx_int32  stride_y;     \/*!< \\brief Stride in Y dimension in bytes. *\/$/;"	m	struct:_vx_imagepatch_addressing_t
+sum	openvx/include/VX/vx_types.h	/^    vx_uint64 sum;          \/*!< \\brief Holds the summation of durations. *\/$/;"	m	struct:_vx_perf_t
+theta	openvx/include/VX/vx_types.h	/^    vx_float32 theta;$/;"	m	struct:_vx_hough_lines_p_t
+theta_max	openvx/include/VX/vx_types.h	/^    vx_float32 theta_max;$/;"	m	struct:_vx_hough_lines_p_t
+theta_min	openvx/include/VX/vx_types.h	/^    vx_float32 theta_min;$/;"	m	struct:_vx_hough_lines_p_t
+threshold	openvx/include/VX/vx_types.h	/^    vx_float32 threshold;$/;"	m	struct:__anon1
+threshold	openvx/include/VX/vx_types.h	/^    vx_int32 threshold;$/;"	m	struct:_vx_hough_lines_p_t
+tile_block	openvx/include/VX/vx_khr_tiling.h	/^    vx_tile_block_size_t tile_block;$/;"	m	struct:_vx_tile_t
+tile_x	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint32 tile_x;$/;"	m	struct:_vx_tile_t
+tile_y	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint32 tile_y;$/;"	m	struct:_vx_tile_t
+tmp	openvx/include/VX/vx_types.h	/^    vx_uint64 tmp;          \/*!< \\brief Holds the last measurement. *\/$/;"	m	struct:_vx_perf_t
+top	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 top;    \/*!< \\brief Top of the tile block. *\/$/;"	m	struct:_vx_neighborhood_size_t
+tracking_status	openvx/include/VX/vx_types.h	/^    vx_int32 tracking_status;   \/*!< \\brief A zero indicates a lost point. Initialized to 1 by corner detectors. *\/$/;"	m	struct:_vx_keypoint_t
+transpose_input1	openvx/include/VX/vx_types.h	/^	vx_bool  transpose_input1;$/;"	m	struct:_vx_tensor_matrix_multiply_params_t
+transpose_input2	openvx/include/VX/vx_types.h	/^	vx_bool  transpose_input2;$/;"	m	struct:_vx_tensor_matrix_multiply_params_t
+transpose_input3	openvx/include/VX/vx_types.h	/^	vx_bool  transpose_input3;$/;"	m	struct:_vx_tensor_matrix_multiply_params_t
+volatile	CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c	11;"	d	file:
+vxArrayItem	openvx/include/VX/vx_api.h	2887;"	d
+vxFormatArrayPointer	openvx/include/VX/vx_api.h	2876;"	d
+vxImageHeight	openvx/include/VX/vx_khr_tiling.h	120;"	d
+vxImageOffset	openvx/include/VX/vx_khr_tiling.h	315;"	d
+vxImagePixel	openvx/include/VX/vx_khr_tiling.h	331;"	d
+vxImageWidth	openvx/include/VX/vx_khr_tiling.h	127;"	d
+vxNeighborhoodBottom	openvx/include/VX/vx_khr_tiling.h	199;"	d
+vxNeighborhoodLeft	openvx/include/VX/vx_khr_tiling.h	178;"	d
+vxNeighborhoodRight	openvx/include/VX/vx_khr_tiling.h	185;"	d
+vxNeighborhoodTop	openvx/include/VX/vx_khr_tiling.h	192;"	d
+vxTileBlockHeight	openvx/include/VX/vx_khr_tiling.h	164;"	d
+vxTileBlockWidth	openvx/include/VX/vx_khr_tiling.h	171;"	d
+vxTileHeight	openvx/include/VX/vx_khr_tiling.h	157;"	d
+vxTileWidth	openvx/include/VX/vx_khr_tiling.h	149;"	d
+vxTileX	openvx/include/VX/vx_khr_tiling.h	134;"	d
+vxTileY	openvx/include/VX/vx_khr_tiling.h	141;"	d
+vx_accessor_e	openvx/include/VX/vx_types.h	/^enum vx_accessor_e {$/;"	g
+vx_action	openvx/include/VX/vx_types.h	/^typedef vx_enum vx_action;$/;"	t
+vx_action_e	openvx/include/VX/vx_types.h	/^enum vx_action_e {$/;"	g
+vx_array	openvx/include/VX/vx_types.h	/^typedef struct _vx_array *vx_array;$/;"	t	typeref:struct:_vx_array
+vx_array_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_array_attribute_e {$/;"	g
+vx_bitfield	openvx/include/VX/vx_types.h	/^typedef uint32_t vx_bitfield;$/;"	t
+vx_bool	openvx/include/VX/vx_types.h	/^typedef vx_enum vx_bool;$/;"	t
+vx_bool_e	openvx/include/VX/vx_types.h	/^} vx_bool_e;$/;"	t	typeref:enum:_vx_bool_e
+vx_border_e	openvx/include/VX/vx_types.h	/^enum vx_border_e {$/;"	g
+vx_border_mode_e	openvx/include/VX/vx_compatibility.h	23;"	d
+vx_border_mode_policy_e	openvx/include/VX/vx_compatibility.h	24;"	d
+vx_border_mode_t	openvx/include/VX/vx_compatibility.h	26;"	d
+vx_border_policy_e	openvx/include/VX/vx_types.h	/^enum vx_border_policy_e {$/;"	g
+vx_border_t	openvx/include/VX/vx_types.h	/^} vx_border_t;$/;"	t	typeref:struct:_vx_border_t
+vx_border_tiling_e	openvx/include/VX/vx_khr_tiling.h	/^enum vx_border_tiling_e {$/;"	g
+vx_channel_e	openvx/include/VX/vx_types.h	/^enum vx_channel_e {$/;"	g
+vx_channel_range_e	openvx/include/VX/vx_types.h	/^enum vx_channel_range_e {$/;"	g
+vx_char	openvx/include/VX/vx_types.h	/^typedef char     vx_char;$/;"	t
+vx_class_enum_e	openvx/include/VX/vx_khr_class.h	/^enum vx_class_enum_e$/;"	g
+vx_classifier_model	openvx/include/VX/vx_khr_class.h	/^typedef struct _vx_classifier_model* vx_classifier_model;$/;"	t	typeref:struct:_vx_classifier_model
+vx_classifier_model_format_e	openvx/include/VX/vx_khr_class.h	/^enum vx_classifier_model_format_e $/;"	g
+vx_classifier_type_e	openvx/include/VX/vx_khr_class.h	/^enum vx_classifier_type_e {$/;"	g
+vx_color_space_e	openvx/include/VX/vx_types.h	/^enum vx_color_space_e {$/;"	g
+vx_comp_metric_e	openvx/include/VX/vx_types.h	/^enum vx_comp_metric_e$/;"	g
+vx_context	openvx/include/VX/vx_types.h	/^typedef struct _vx_context *vx_context;$/;"	t	typeref:struct:_vx_context
+vx_context_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_context_attribute_e {$/;"	g
+vx_convert_policy_e	openvx/include/VX/vx_types.h	/^enum vx_convert_policy_e {$/;"	g
+vx_convolution	openvx/include/VX/vx_types.h	/^typedef struct _vx_convolution *vx_convolution;$/;"	t	typeref:struct:_vx_convolution
+vx_convolution_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_convolution_attribute_e {$/;"	g
+vx_coordinates2d_t	openvx/include/VX/vx_types.h	/^} vx_coordinates2d_t;$/;"	t	typeref:struct:_vx_coordinates2d_t
+vx_coordinates2df_t	openvx/include/VX/vx_types.h	/^} vx_coordinates2df_t;$/;"	t	typeref:struct:_vx_coordinates2df_t
+vx_coordinates3d_t	openvx/include/VX/vx_types.h	/^} vx_coordinates3d_t;$/;"	t	typeref:struct:_vx_coordinates3d_t
+vx_delay	openvx/include/VX/vx_types.h	/^typedef struct _vx_delay *vx_delay;$/;"	t	typeref:struct:_vx_delay
+vx_delay_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_delay_attribute_e {$/;"	g
+vx_delta_rectangle_t	openvx/include/VX/vx_compatibility.h	/^} vx_delta_rectangle_t;$/;"	t	typeref:struct:_vx_delta_rectangle_t
+vx_df_image	openvx/include/VX/vx_types.h	/^typedef uint32_t vx_df_image;$/;"	t
+vx_df_image_e	openvx/include/VX/vx_types.h	/^enum vx_df_image_e {$/;"	g
+vx_direction_e	openvx/include/VX/vx_types.h	/^enum vx_direction_e {$/;"	g
+vx_directive_e	openvx/include/VX/vx_types.h	/^enum vx_directive_e {$/;"	g
+vx_distribution	openvx/include/VX/vx_types.h	/^typedef struct _vx_distribution *vx_distribution;$/;"	t	typeref:struct:_vx_distribution
+vx_distribution_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_distribution_attribute_e {$/;"	g
+vx_enum	openvx/include/VX/vx_types.h	/^typedef int32_t vx_enum;$/;"	t
+vx_enum_e	openvx/include/VX/vx_types.h	/^enum vx_enum_e {$/;"	g
+vx_ext_import_type_e	openvx/include/VX/vx_khr_xml.h	/^enum vx_ext_import_type_e {$/;"	g
+vx_ext_import_types_e	openvx/include/VX/vx_khr_xml.h	/^enum vx_ext_import_types_e {$/;"	g
+vx_false_e	openvx/include/VX/vx_types.h	/^    vx_false_e = 0,$/;"	e	enum:_vx_bool_e
+vx_float16	openvx/include/VX/vx_types.h	/^typedef hfloat   vx_float16;$/;"	t
+vx_float32	openvx/include/VX/vx_types.h	/^typedef float    vx_float32;$/;"	t
+vx_float64	openvx/include/VX/vx_types.h	/^typedef double   vx_float64;$/;"	t
+vx_graph	openvx/include/VX/vx_types.h	/^typedef struct _vx_graph *vx_graph;$/;"	t	typeref:struct:_vx_graph
+vx_graph_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_graph_attribute_e {$/;"	g
+vx_graph_state_e	openvx/include/VX/vx_types.h	/^enum vx_graph_state_e {$/;"	g
+vx_hint_e	openvx/include/VX/vx_types.h	/^enum vx_hint_e {$/;"	g
+vx_hog_t	openvx/include/VX/vx_types.h	/^} vx_hog_t;$/;"	t	typeref:struct:__anon1
+vx_hough_lines_p_t	openvx/include/VX/vx_types.h	/^} vx_hough_lines_p_t;$/;"	t	typeref:struct:_vx_hough_lines_p_t
+vx_image	openvx/include/VX/vx_types.h	/^typedef struct _vx_image *vx_image;$/;"	t	typeref:struct:_vx_image
+vx_image_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_image_attribute_e {$/;"	g
+vx_image_description_t	openvx/include/VX/vx_khr_tiling.h	/^} vx_image_description_t;$/;"	t	typeref:struct:_vx_image_description_t
+vx_imagepatch_addressing_t	openvx/include/VX/vx_types.h	/^} vx_imagepatch_addressing_t;$/;"	t	typeref:struct:_vx_imagepatch_addressing_t
+vx_import	openvx/include/VX/vx_import.h	/^typedef struct _vx_import *vx_import;$/;"	t	typeref:struct:_vx_import
+vx_import	openvx/include/VX/vx_khr_xml.h	/^typedef struct _vx_import *vx_import;$/;"	t	typeref:struct:_vx_import
+vx_import_attribute_e	openvx/include/VX/vx_khr_xml.h	/^enum vx_import_attribute_e {$/;"	g
+vx_import_type_e	openvx/include/VX/vx_compatibility.h	143;"	d
+vx_int16	openvx/include/VX/vx_types.h	/^typedef int16_t  vx_int16;$/;"	t
+vx_int32	openvx/include/VX/vx_types.h	/^typedef int32_t  vx_int32;$/;"	t
+vx_int64	openvx/include/VX/vx_types.h	/^typedef int64_t  vx_int64;$/;"	t
+vx_int8	openvx/include/VX/vx_types.h	/^typedef int8_t   vx_int8;$/;"	t
+vx_interpolation_type_e	openvx/include/VX/vx_types.h	/^enum vx_interpolation_type_e {$/;"	g
+vx_kernel	openvx/include/VX/vx_types.h	/^typedef struct _vx_kernel *vx_kernel;$/;"	t	typeref:struct:_vx_kernel
+vx_kernel_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_kernel_attribute_e {$/;"	g
+vx_kernel_attribute_tiling_e	openvx/include/VX/vx_khr_tiling.h	/^enum vx_kernel_attribute_tiling_e {$/;"	g
+vx_kernel_deinitialize_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_deinitialize_f)(vx_node node, const vx_reference *parameters, vx_uint32 num);$/;"	t
+vx_kernel_e	openvx/include/VX/vx_kernels.h	/^enum vx_kernel_e {$/;"	g
+vx_kernel_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_f)(vx_node node, const vx_reference *parameters, vx_uint32 num);$/;"	t
+vx_kernel_image_valid_rectangle_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_image_valid_rectangle_f)(vx_node node, vx_uint32 index, const vx_rectangle_t* const input_valid[], vx_rectangle_t* const output_valid[]);$/;"	t
+vx_kernel_info_t	openvx/include/VX/vx_types.h	/^} vx_kernel_info_t;$/;"	t	typeref:struct:_vx_kernel_info_t
+vx_kernel_initialize_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_initialize_f)(vx_node node, const vx_reference *parameters, vx_uint32 num);$/;"	t
+vx_kernel_input_validate_f	openvx/include/VX/vx_compatibility.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_input_validate_f)(vx_node node, vx_uint32 index);$/;"	t
+vx_kernel_nn_ext_e	openvx/include/VX/vx_khr_class.h	/^enum vx_kernel_nn_ext_e {$/;"	g
+vx_kernel_nn_ext_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_kernel_nn_ext_e {$/;"	g
+vx_kernel_output_validate_f	openvx/include/VX/vx_compatibility.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_output_validate_f)(vx_node node, vx_uint32 index, vx_meta_format meta);$/;"	t
+vx_kernel_validate_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_CALLBACK *vx_kernel_validate_f)(vx_node node, const vx_reference parameters[], vx_uint32 num, vx_meta_format metas[]);$/;"	t
+vx_keypoint_t	openvx/include/VX/vx_types.h	/^} vx_keypoint_t;$/;"	t	typeref:struct:_vx_keypoint_t
+vx_lbp_format_e	openvx/include/VX/vx_types.h	/^enum vx_lbp_format_e$/;"	g
+vx_library_e	openvx/include/VX/vx_kernels.h	/^enum vx_library_e {$/;"	g
+vx_line2d_t	openvx/include/VX/vx_types.h	/^} vx_line2d_t;$/;"	t	typeref:struct:_vx_line2d_t
+vx_log_callback_f	openvx/include/VX/vx_types.h	/^typedef void (VX_CALLBACK *vx_log_callback_f)(vx_context context,$/;"	t
+vx_lut	openvx/include/VX/vx_types.h	/^typedef struct _vx_lut *vx_lut;$/;"	t	typeref:struct:_vx_lut
+vx_lut_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_lut_attribute_e {$/;"	g
+vx_map_flag_e	openvx/include/VX/vx_types.h	/^enum vx_map_flag_e {$/;"	g
+vx_map_id	openvx/include/VX/vx_types.h	/^typedef uintptr_t vx_map_id;$/;"	t
+vx_matrix	openvx/include/VX/vx_types.h	/^typedef struct _vx_matrix *vx_matrix;$/;"	t	typeref:struct:_vx_matrix
+vx_matrix_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_matrix_attribute_e {$/;"	g
+vx_memory_type_e	openvx/include/VX/vx_types.h	/^enum vx_memory_type_e {$/;"	g
+vx_meta_format	openvx/include/VX/vx_types.h	/^typedef struct _vx_meta_format* vx_meta_format;$/;"	t	typeref:struct:_vx_meta_format
+vx_meta_valid_rect_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_meta_valid_rect_attribute_e {$/;"	g
+vx_neighborhood_size_t	openvx/include/VX/vx_khr_tiling.h	/^} vx_neighborhood_size_t;$/;"	t	typeref:struct:_vx_neighborhood_size_t
+vx_nn_activation_function_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_activation_function_e$/;"	g
+vx_nn_convolution_params_t	openvx/include/VX/vx_khr_nn.h	/^} vx_nn_convolution_params_t;$/;"	t	typeref:struct:_vx_nn_convolution_params_t
+vx_nn_deconvolution_params_t	openvx/include/VX/vx_khr_nn.h	/^} vx_nn_deconvolution_params_t;$/;"	t	typeref:struct:_vx_nn_deconvolution_params_t
+vx_nn_enum_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_enum_e$/;"	g
+vx_nn_norm_type_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_norm_type_e$/;"	g
+vx_nn_pooling_type_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_pooling_type_e$/;"	g
+vx_nn_roi_pool_params_t	openvx/include/VX/vx_khr_nn.h	/^} vx_nn_roi_pool_params_t;$/;"	t	typeref:struct:_vx_nn_roi_pool_params_t
+vx_nn_rounding_type_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_rounding_type_e$/;"	g
+vx_nn_type_e	openvx/include/VX/vx_khr_nn.h	/^enum vx_nn_type_e {$/;"	g
+vx_node	openvx/include/VX/vx_types.h	/^typedef struct _vx_node *vx_node;$/;"	t	typeref:struct:_vx_node
+vx_node_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_node_attribute_e {$/;"	g
+vx_node_attribute_tiling_e	openvx/include/VX/vx_khr_tiling.h	/^enum vx_node_attribute_tiling_e {$/;"	g
+vx_nodecomplete_f	openvx/include/VX/vx_types.h	/^typedef vx_action (VX_CALLBACK *vx_nodecomplete_f)(vx_node node);$/;"	t
+vx_non_linear_filter_e	openvx/include/VX/vx_types.h	/^enum vx_non_linear_filter_e {$/;"	g
+vx_norm_type_e	openvx/include/VX/vx_types.h	/^enum vx_norm_type_e {$/;"	g
+vx_object_array	openvx/include/VX/vx_types.h	/^typedef struct _vx_object_array *vx_object_array;$/;"	t	typeref:struct:_vx_object_array
+vx_object_array_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_object_array_attribute_e {$/;"	g
+vx_parameter	openvx/include/VX/vx_types.h	/^typedef struct _vx_parameter *vx_parameter;$/;"	t	typeref:struct:_vx_parameter
+vx_parameter_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_parameter_attribute_e {$/;"	g
+vx_parameter_state_e	openvx/include/VX/vx_types.h	/^enum vx_parameter_state_e {$/;"	g
+vx_pattern_e	openvx/include/VX/vx_types.h	/^enum vx_pattern_e {$/;"	g
+vx_perf_t	openvx/include/VX/vx_types.h	/^} vx_perf_t;$/;"	t	typeref:struct:_vx_perf_t
+vx_pixel_value_t	openvx/include/VX/vx_types.h	/^} vx_pixel_value_t;$/;"	t	typeref:union:_vx_pixel_value_t
+vx_platform	openvx/include/VX/vx_khr_icd.h	/^typedef struct _vx_platform * vx_platform;$/;"	t	typeref:struct:_vx_platform
+vx_publish_kernels_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_API_CALL *vx_publish_kernels_f)(vx_context context);$/;"	t
+vx_pyramid	openvx/include/VX/vx_types.h	/^typedef struct _vx_pyramid *vx_pyramid;$/;"	t	typeref:struct:_vx_pyramid
+vx_pyramid_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_pyramid_attribute_e {$/;"	g
+vx_rectangle_t	openvx/include/VX/vx_types.h	/^} vx_rectangle_t;$/;"	t	typeref:struct:_vx_rectangle_t
+vx_reference	openvx/include/VX/vx_types.h	/^typedef struct _vx_reference *vx_reference;$/;"	t	typeref:struct:_vx_reference
+vx_reference_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_reference_attribute_e {$/;"	g
+vx_remap	openvx/include/VX/vx_types.h	/^typedef struct _vx_remap *vx_remap;$/;"	t	typeref:struct:_vx_remap
+vx_remap_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_remap_attribute_e {$/;"	g
+vx_round_policy_e	openvx/include/VX/vx_types.h	/^enum vx_round_policy_e {$/;"	g
+vx_scalar	openvx/include/VX/vx_types.h	/^typedef struct _vx_scalar *vx_scalar;$/;"	t	typeref:struct:_vx_scalar
+vx_scalar_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_scalar_attribute_e {$/;"	g
+vx_scalar_operation_e	openvx/include/VX/vx_types.h	/^enum vx_scalar_operation_e {$/;"	g
+vx_size	openvx/include/VX/vx_types.h	/^typedef size_t vx_size;$/;"	t
+vx_status	openvx/include/VX/vx_types.h	/^typedef vx_enum vx_status;$/;"	t
+vx_status_e	openvx/include/VX/vx_types.h	/^enum vx_status_e {$/;"	g
+vx_target_e	openvx/include/VX/vx_types.h	/^enum vx_target_e {$/;"	g
+vx_tensor	openvx/include/VX/vx_types.h	/^typedef struct _vx_tensor_t * vx_tensor;$/;"	t	typeref:struct:_vx_tensor_t
+vx_tensor_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_tensor_attribute_e$/;"	g
+vx_tensor_matrix_multiply_params_t	openvx/include/VX/vx_types.h	/^} vx_tensor_matrix_multiply_params_t;$/;"	t	typeref:struct:_vx_tensor_matrix_multiply_params_t
+vx_termination_criteria_e	openvx/include/VX/vx_types.h	/^enum vx_termination_criteria_e {$/;"	g
+vx_threshold	openvx/include/VX/vx_types.h	/^typedef struct _vx_threshold *vx_threshold;$/;"	t	typeref:struct:_vx_threshold
+vx_threshold_attribute_e	openvx/include/VX/vx_types.h	/^enum vx_threshold_attribute_e {$/;"	g
+vx_threshold_type_e	openvx/include/VX/vx_types.h	/^enum vx_threshold_type_e {$/;"	g
+vx_tile_block_size_t	openvx/include/VX/vx_khr_tiling.h	/^} vx_tile_block_size_t;$/;"	t	typeref:struct:_vx_tile_block_size_t
+vx_tile_t	openvx/include/VX/vx_khr_tiling.h	/^} vx_tile_t;$/;"	t	typeref:struct:_vx_tile_t
+vx_tiling_kernel_f	openvx/include/VX/vx_khr_tiling.h	/^typedef void (*vx_tiling_kernel_f)(void * VX_RESTRICT parameters[VX_RESTRICT],$/;"	t
+vx_tiling_kernel_f	openvx/include/VX/vx_khr_tiling.h	/^typedef void (*vx_tiling_kernel_f)(void * VX_RESTRICT parameters[],$/;"	t
+vx_true_e	openvx/include/VX/vx_types.h	/^    vx_true_e,$/;"	e	enum:_vx_bool_e
+vx_type_e	openvx/include/VX/vx_types.h	/^enum vx_type_e {$/;"	g
+vx_uint16	openvx/include/VX/vx_types.h	/^typedef uint16_t vx_uint16;$/;"	t
+vx_uint32	openvx/include/VX/vx_types.h	/^typedef uint32_t vx_uint32;$/;"	t
+vx_uint64	openvx/include/VX/vx_types.h	/^typedef uint64_t vx_uint64;$/;"	t
+vx_uint8	openvx/include/VX/vx_types.h	/^typedef uint8_t  vx_uint8;$/;"	t
+vx_unpublish_kernels_f	openvx/include/VX/vx_types.h	/^typedef vx_status(VX_API_CALL *vx_unpublish_kernels_f)(vx_context context);$/;"	t
+vx_vendor_id_e	openvx/include/VX/vx_vendors.h	/^enum vx_vendor_id_e {$/;"	g
+width	openvx/include/VX/vx_khr_tiling.h	/^    vx_int32 width; \/*!< \\brief Tile block width in pixels. *\/$/;"	m	struct:_vx_tile_block_size_t
+width	openvx/include/VX/vx_khr_tiling.h	/^    vx_uint32 width;  \/*!< \\brief Width of the image *\/$/;"	m	struct:_vx_image_description_t
+window_height	openvx/include/VX/vx_types.h	/^    vx_int32 window_height;$/;"	m	struct:__anon1
+window_stride	openvx/include/VX/vx_types.h	/^    vx_int32 window_stride;$/;"	m	struct:__anon1
+window_width	openvx/include/VX/vx_types.h	/^    vx_int32 window_width;$/;"	m	struct:__anon1
+x	openvx/include/VX/vx_types.h	/^    vx_float32 x;    \/*!< \\brief The X coordinate. *\/$/;"	m	struct:_vx_coordinates2df_t
+x	openvx/include/VX/vx_types.h	/^    vx_int32 x;                 \/*!< \\brief The x coordinate. *\/$/;"	m	struct:_vx_keypoint_t
+x	openvx/include/VX/vx_types.h	/^    vx_uint32 x;    \/*!< \\brief The X coordinate. *\/$/;"	m	struct:_vx_coordinates2d_t
+x	openvx/include/VX/vx_types.h	/^    vx_uint32 x;    \/*!< \\brief The X coordinate. *\/$/;"	m	struct:_vx_coordinates3d_t
+y	openvx/include/VX/vx_types.h	/^    vx_float32 y;    \/*!< \\brief The Y coordinate. *\/$/;"	m	struct:_vx_coordinates2df_t
+y	openvx/include/VX/vx_types.h	/^    vx_int32 y;                 \/*!< \\brief The y coordinate. *\/$/;"	m	struct:_vx_keypoint_t
+y	openvx/include/VX/vx_types.h	/^    vx_uint32 y;    \/*!< \\brief The Y coordinate. *\/$/;"	m	struct:_vx_coordinates2d_t
+y	openvx/include/VX/vx_types.h	/^    vx_uint32 y;    \/*!< \\brief The Y coordinate. *\/$/;"	m	struct:_vx_coordinates3d_t
+z	openvx/include/VX/vx_types.h	/^    vx_uint32 z;    \/*!< \\brief The Z coordinate. *\/$/;"	m	struct:_vx_coordinates3d_t

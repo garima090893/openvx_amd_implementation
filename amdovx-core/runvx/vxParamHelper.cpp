@@ -20,10 +20,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
+#define NAUTICS_DEBUG
+#ifdef NAUTICS_DEBUG
+#endif
+
 #define _CRT_SECURE_NO_WARNINGS
 #include "vxParamHelper.h"
-
+#include <stdio.h>
 int g_numCvUse = 0;
+
 
 // input track bars connected to scalar objects
 #define MAX_INPUT_TRACK_BARS  12
@@ -36,6 +41,9 @@ static float g_trackBarValueR[MAX_INPUT_TRACK_BARS] = { 0.0f }, g_trackBarAngle[
 // input track bars connected to scalar objects
 int GuiTrackBarInitializeScalar(vx_reference obj, int id, float valueMin, float valueMax, float valueInc)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxParamHelper.cpp: GuiTrackBarInitializeScalar()\n");
+#endif
 	if (id < 0 || id >= MAX_INPUT_TRACK_BARS)
 		return -1;
 	if (!obj) {
@@ -52,6 +60,9 @@ int GuiTrackBarInitializeScalar(vx_reference obj, int id, float valueMin, float 
 }
 int GuiTrackBarInitializeMatrix(vx_reference obj, int id, float valueR, float valueInc)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxParamHelper.cpp: GuiTrackBarInitializeScalar()\n");
+#endif
 	if (id < 0 || id >= MAX_INPUT_TRACK_BARS)
 		return -1;
 	if (!obj) {
@@ -67,6 +78,9 @@ int GuiTrackBarInitializeMatrix(vx_reference obj, int id, float valueR, float va
 }
 int GuiTrackBarShutdown(vx_reference obj)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxParamHelper.cpp: GuiTrackBarShutdown()\n");
+#endif
 	for (int id = 0; id < MAX_INPUT_TRACK_BARS; id++) {
 		if (g_trackBarObj[id] == obj) {
 			g_trackBarObj[id] = nullptr;
@@ -77,6 +91,9 @@ int GuiTrackBarShutdown(vx_reference obj)
 }
 int GuiTrackBarProcessKey(int key)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxParamHelper.cpp: GuiTrackBarProcessKey()\n");
+#endif
 	int keyInc = '+', keyDec = '-';
 	int id = g_trackBarActive;
 	if (key >= 0x00700000 && key <= 0x007b0000)
@@ -153,6 +170,9 @@ int GuiTrackBarProcessKey(int key)
 // global OpenCV image count and specified read inputs count
 int ProcessCvWindowKeyRefresh(int waitKeyDelayInMilliSeconds)
 {
+#ifdef NAUTICS_DEBUG
+	printf("\nvxParamHelper.cpp: ProcessCvWindowKeyRefresh()\n");
+#endif
 #if ENABLE_OPENCV
 	if (g_numCvUse > 0) {
 		// process keyboard
