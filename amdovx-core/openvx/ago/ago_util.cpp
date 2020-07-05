@@ -227,6 +227,7 @@ void agoReleaseMemory(void * mem)
 
 void agoResetReference(AgoReference * ref, vx_enum type, vx_context context, vx_reference scope)
 {
+	//printf("*OPENVX* openvx/ago/ago_util.cpp:agoResetReference()\n");
 	ref->platform = context ? context->ref.platform : nullptr;
 	ref->magic = AGO_MAGIC_VALID;
 	ref->type = type;
@@ -955,6 +956,7 @@ int agoParseListFromDescription(const char *& desc, vx_size num_dims, vx_size * 
 
 int agoGetDataFromDescription(AgoContext * acontext, AgoGraph * agraph, AgoData * data, const char * desc)
 {
+	printf("*OPENVX* openvx/ago/ago_util.cpp: agoGetDataFromDescription()\n");
 	if (!data->ref.context) data->ref.context = acontext; // needed by recursive calls to agoDataSanityCheckAndUpdate
 
 	if (!strncmp(desc, "delay:", 6) || !strncmp(desc, "delay-virtual:", 14)) {
@@ -1780,6 +1782,7 @@ int agoGetDataFromDescription(AgoContext * acontext, AgoGraph * agraph, AgoData 
 
 AgoData * agoCreateDataFromDescription(AgoContext * acontext, AgoGraph * agraph, const char * desc, bool isForExternalUse)
 {
+	printf("*OPENVX* openvx/ago/ago_util.cpp:agoCreateDataFromDescription()-> %s\n", desc);
 	AgoData * data = new AgoData;
 	int status = agoGetDataFromDescription(acontext, agraph, data, desc);
 	if (status < 0) {
@@ -2026,19 +2029,25 @@ bool agoIsValidParameter(vx_parameter parameter)
 
 bool agoIsValidReference(vx_reference ref)
 {
+        printf("*OPENVX* openvx/ago/ago_util.cpp: agoIsValidReference()\n");	
 	bool ret = false;
 	if ((ref != NULL) && (ref->magic == AGO_MAGIC_VALID) && ((ref->external_count + ref->internal_count) > 0)) {
 		ret = true;
 	}
+	printf("*********reference ret: %d************\n", ret);
 	return ret;
 }
 
 bool agoIsValidContext(vx_context context)
 {
+        printf("*OPENVX* openvx/ago/ago_util.cpp: agoIsValidContext()\n");	
 	bool ret = false;
+	if(context != nullptr) printf("*********has some context************\n");
+	else printf("*********has no context yet************\n");
 	if (agoIsValidReference((vx_reference) context) && (context->ref.type == VX_TYPE_CONTEXT)) {
 		ret = true; /* this is the top level context */
 	}
+	printf("*********ret: %d************\n", ret);
 	return ret;
 }
 
@@ -2882,6 +2891,7 @@ void agoPerfCopyNormalize(AgoContext * context, vx_perf_t * perfDst, vx_perf_t *
 
 void agoRegisterLogCallback(vx_context context, vx_log_callback_f callback, vx_bool reentrant)
 {
+	printf("*OPENVX* openvx/ago/ago_util.cpp: agoRegisterLogCallback()\n");
 	if (agoIsValidContext(context)) {
 		context->callback_log = callback;
 		context->callback_reentrant = reentrant;
@@ -3116,6 +3126,7 @@ AgoContext::AgoContext()
       , opencl_cmdq_properties{ 0 }
 #endif
 {
+        printf("*OPENVX* openvx/ago/ago_util.cpp:AgoContext::AgoContext()\n");
 	memset(&kernelList, 0, sizeof(kernelList));
 	memset(&dataList, 0, sizeof(dataList));
 	memset(&graphList, 0, sizeof(graphList));

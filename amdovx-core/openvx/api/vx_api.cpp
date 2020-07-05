@@ -4174,6 +4174,7 @@ VX_API_ENTRY void VX_API_CALL vxAddLogEntry(vx_reference ref, vx_status status, 
 */
 VX_API_ENTRY void VX_API_CALL vxRegisterLogCallback(vx_context context, vx_log_callback_f callback, vx_bool reentrant)
 {
+	printf("*OPENVX* api/vx_api.cpp: vxRegisterLogCallback()\n ");
 	agoRegisterLogCallback(context, callback, reentrant);
 }
 

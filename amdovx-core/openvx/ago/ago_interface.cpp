@@ -45,6 +45,7 @@ static DWORD WINAPI agoGraphThreadFunction(LPVOID graph_)
 
 AgoContext * agoCreateContextFromPlatform(struct _vx_platform * platform)
 {
+        printf("*OPENVX* openvx/ago/ago_interface.cpp: agoCreateContextFromPlatform()\n");	
 	CAgoLockGlobalContext lock;
 
 	// check if CPU hardware supports

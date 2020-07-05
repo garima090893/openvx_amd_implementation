@@ -231,8 +231,6 @@ ago_haf_gpu.h
 /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_api.cpp
 ago_internal.h
 /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/ago_internal.h
-stdio.h
--
 
 /home/venomfate/workspace/office/verisilicon/amd_imp/openvx_amd_implementation/amdovx-core/openvx/api/vx_nodes.cpp
 ago_internal.h

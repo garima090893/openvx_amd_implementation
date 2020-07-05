@@ -1522,7 +1522,7 @@ VX_SCALAR_TYPE	include/VX/vx_types.h	/^    VX_SCALAR_TYPE = VX_ATTRIBUTE_BASE(VX
 VX_SCALE_PYRAMID_HALF	include/VX/vx_types.h	1624;"	d
 VX_SCALE_PYRAMID_ORB	include/VX/vx_types.h	1629;"	d
 VX_SCALE_UNITY	include/VX/vx_types.h	1497;"	d
-VX_SEMAPHORE	ago/ago_platform.cpp	145;"	d	file:
+VX_SEMAPHORE	ago/ago_platform.cpp	146;"	d	file:
 VX_STATUS_MIN	include/VX/vx_types.h	/^    VX_STATUS_MIN                       = -25,\/*!< \\brief Indicates the lower bound of status codes in VX. Used for bounds checks only. *\/$/;"	e	enum:vx_status_e
 VX_SUCCESS	include/VX/vx_types.h	/^    VX_SUCCESS                          =  0,\/*!< \\brief No error. *\/$/;"	e	enum:vx_status_e
 VX_TARGET_ANY	include/VX/vx_types.h	/^    VX_TARGET_ANY = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TARGET) + 0x0000,$/;"	e	enum:vx_target_e
@@ -1539,7 +1539,7 @@ VX_TENSOR_STRIDE_OPENCL	include/vx_ext_amd.h	/^	VX_TENSOR_STRIDE_OPENCL   = VX_A
 VX_TERM_CRITERIA_BOTH	include/VX/vx_types.h	/^    VX_TERM_CRITERIA_BOTH = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x2,$/;"	e	enum:vx_termination_criteria_e
 VX_TERM_CRITERIA_EPSILON	include/VX/vx_types.h	/^    VX_TERM_CRITERIA_EPSILON = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x1,$/;"	e	enum:vx_termination_criteria_e
 VX_TERM_CRITERIA_ITERATIONS	include/VX/vx_types.h	/^    VX_TERM_CRITERIA_ITERATIONS = VX_ENUM_BASE(VX_ID_KHRONOS, VX_ENUM_TERM_CRITERIA) + 0x0,$/;"	e	enum:vx_termination_criteria_e
-VX_THREAD	ago/ago_platform.cpp	146;"	d	file:
+VX_THREAD	ago/ago_platform.cpp	147;"	d	file:
 VX_THRESHOLD_ATTRIBUTE_DATA_TYPE	include/VX/vx_compatibility.h	103;"	d
 VX_THRESHOLD_ATTRIBUTE_FALSE_VALUE	include/VX/vx_compatibility.h	102;"	d
 VX_THRESHOLD_ATTRIBUTE_THRESHOLD_LOWER	include/VX/vx_compatibility.h	99;"	d

@@ -1,0 +1,261 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+vxAbsDiffNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAbsDiffNode(vx_graph graph, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxAccessArrayRange	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAccessArrayRange(vx_array arr, vx_size start, vx_size end, vx_size *stride, void **ptr, vx_enum usage)$/;"	f
+vxAccessDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAccessDistribution(vx_distribution distribution, void **ptr, vx_enum usage)$/;"	f
+vxAccessImagePatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAccessImagePatch(vx_image image_,$/;"	f
+vxAccessLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAccessLUT(vx_lut lut, void **ptr, vx_enum usage)$/;"	f
+vxAccumulateImageNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAccumulateImageNode(vx_graph graph, vx_image input, vx_image accum)$/;"	f
+vxAccumulateSquareImageNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAccumulateSquareImageNode(vx_graph graph, vx_image input, vx_scalar scalar, vx_image accum)$/;"	f
+vxAccumulateWeightedImageNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAccumulateWeightedImageNode(vx_graph graph, vx_image input, vx_scalar alpha, vx_image accum)$/;"	f
+vxAddArrayItems	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAddArrayItems(vx_array arr, vx_size count, const void *ptr, vx_size stride)$/;"	f
+vxAddKernel	vx_api.cpp	/^VX_API_ENTRY vx_kernel VX_API_CALL vxAddKernel(vx_context context,$/;"	f
+vxAddLogEntry	vx_api.cpp	/^VX_API_ENTRY void VX_API_CALL vxAddLogEntry(vx_reference ref, vx_status status, const char *message, ...)$/;"	f
+vxAddNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAddNode(vx_graph graph, vx_image in1, vx_image in2, vx_enum policy, vx_image out)$/;"	f
+vxAddParameterToGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAddParameterToGraph(vx_graph graph, vx_parameter parameter)$/;"	f
+vxAddParameterToKernel	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAddParameterToKernel(vx_kernel kernel, vx_uint32 index, vx_enum dir, vx_enum data_type, vx_enum state)$/;"	f
+vxAddUserKernel	vx_api.cpp	/^VX_API_ENTRY vx_kernel VX_API_CALL vxAddUserKernel(vx_context context,$/;"	f
+vxAgeDelay	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAgeDelay(vx_delay delay)$/;"	f
+vxAliasTensor	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAliasTensor(vx_tensor tensorMaster, vx_size offset, vx_tensor tensor)$/;"	f
+vxAllocateUserKernelId	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAllocateUserKernelId(vx_context context, vx_enum * pKernelEnumId)$/;"	f
+vxAllocateUserKernelLibraryId	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAllocateUserKernelLibraryId(vx_context context, vx_enum * pLibraryId)$/;"	f
+vxAndNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxAndNode(vx_graph graph, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxAssignNodeCallback	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxAssignNodeCallback(vx_node node, vx_nodecomplete_f callback)$/;"	f
+vxBox3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxBox3x3Node(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxCannyEdgeDetectorNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxCannyEdgeDetectorNode(vx_graph graph, vx_image input, vx_threshold hyst,$/;"	f
+vxChannelCombineNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxChannelCombineNode(vx_graph graph,$/;"	f
+vxChannelExtractNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxChannelExtractNode(vx_graph graph,$/;"	f
+vxColorConvertNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxColorConvertNode(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxCommitArrayRange	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCommitArrayRange(vx_array arr, vx_size start, vx_size end, const void *ptr)$/;"	f
+vxCommitDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCommitDistribution(vx_distribution distribution, const void * ptr)$/;"	f
+vxCommitImagePatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCommitImagePatch(vx_image image_,$/;"	f
+vxCommitLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCommitLUT(vx_lut lut, const void *ptr)$/;"	f
+vxComputeImagePatchSize	vx_api.cpp	/^VX_API_ENTRY vx_size VX_API_CALL vxComputeImagePatchSize(vx_image image_,$/;"	f
+vxComputePatchOffset	vx_api.cpp	/^static inline vx_uint32 vxComputePatchOffset(vx_uint32 x, vx_uint32 y, const vx_imagepatch_addressing_t *addr)$/;"	f	file:
+vxConvertDepthNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxConvertDepthNode(vx_graph graph, vx_image input, vx_image output, vx_enum policy, vx_scalar shift)$/;"	f
+vxConvolveNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxConvolveNode(vx_graph graph, vx_image input, vx_convolution conv, vx_image output)$/;"	f
+vxCopyArrayRange	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyArrayRange(vx_array array, vx_size range_start, vx_size range_end, vx_size user_stride, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyConvolutionCoefficients	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyConvolutionCoefficients(vx_convolution conv, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyDistribution(vx_distribution distribution, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyImagePatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyImagePatch(vx_image image_, const vx_rectangle_t *image_rect, vx_uint32 image_plane_index, const vx_imagepatch_addressing_t *user_addr, void * user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyLUT(vx_lut lut, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyMatrix	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyMatrix(vx_matrix matrix, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxCopyNode(vx_graph graph, vx_reference input, vx_reference output)$/;"	f
+vxCopyScalar	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyScalar(vx_scalar scalar_, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyScalarWithSize	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyScalarWithSize(vx_scalar scalar_, vx_size size, void *user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCopyTensorPatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxCopyTensorPatch(vx_tensor tensor, vx_size num_of_dims, const vx_size * roi_start, const vx_size * roi_end, const vx_size * user_stride, void * user_ptr, vx_enum usage, vx_enum user_mem_type)$/;"	f
+vxCreateArray	vx_api.cpp	/^VX_API_ENTRY vx_array VX_API_CALL vxCreateArray(vx_context context, vx_enum item_type, vx_size capacity)$/;"	f
+vxCreateContext	vx_api.cpp	/^VX_API_ENTRY vx_context VX_API_CALL vxCreateContext()$/;"	f
+vxCreateContextFromPlatform	vx_api.cpp	/^VX_API_ENTRY vx_context VX_API_CALL vxCreateContextFromPlatform(struct _vx_platform * platform)$/;"	f
+vxCreateConvolution	vx_api.cpp	/^VX_API_ENTRY vx_convolution VX_API_CALL vxCreateConvolution(vx_context context, vx_size columns, vx_size rows)$/;"	f
+vxCreateDelay	vx_api.cpp	/^VX_API_ENTRY vx_delay VX_API_CALL vxCreateDelay(vx_context context,$/;"	f
+vxCreateDistribution	vx_api.cpp	/^VX_API_ENTRY vx_distribution VX_API_CALL vxCreateDistribution(vx_context context, vx_size numBins, vx_int32 offset, vx_uint32 range)$/;"	f
+vxCreateGenericNode	vx_api.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxCreateGenericNode(vx_graph graph, vx_kernel kernel)$/;"	f
+vxCreateGraph	vx_api.cpp	/^VX_API_ENTRY vx_graph VX_API_CALL vxCreateGraph(vx_context context)$/;"	f
+vxCreateImage	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateImage(vx_context context, vx_uint32 width, vx_uint32 height, vx_df_image color)$/;"	f
+vxCreateImageFromChannel	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateImageFromChannel(vx_image img, vx_enum channel)$/;"	f
+vxCreateImageFromHandle	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateImageFromHandle(vx_context context, vx_df_image color, const vx_imagepatch_addressing_t addrs[], void *const ptrs[], vx_enum memory_type)$/;"	f
+vxCreateImageFromROI	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateImageFromROI(vx_image img, const vx_rectangle_t *rect)$/;"	f
+vxCreateLUT	vx_api.cpp	/^VX_API_ENTRY vx_lut VX_API_CALL vxCreateLUT(vx_context context, vx_enum data_type, vx_size count)$/;"	f
+vxCreateMatrix	vx_api.cpp	/^VX_API_ENTRY vx_matrix VX_API_CALL vxCreateMatrix(vx_context context, vx_enum data_type, vx_size columns, vx_size rows)$/;"	f
+vxCreateMatrixFromPattern	vx_api.cpp	/^VX_API_ENTRY vx_matrix VX_API_CALL vxCreateMatrixFromPattern(vx_context context, vx_enum pattern, vx_size columns, vx_size rows)$/;"	f
+vxCreateNodeByStructure	vx_nodes.cpp	/^static vx_node vxCreateNodeByStructure(vx_graph graph,$/;"	f	file:
+vxCreatePyramid	vx_api.cpp	/^VX_API_ENTRY vx_pyramid VX_API_CALL vxCreatePyramid(vx_context context, vx_size levels, vx_float32 scale, vx_uint32 width, vx_uint32 height, vx_df_image format)$/;"	f
+vxCreateRemap	vx_api.cpp	/^VX_API_ENTRY vx_remap VX_API_CALL vxCreateRemap(vx_context context,$/;"	f
+vxCreateScalar	vx_api.cpp	/^VX_API_ENTRY vx_scalar VX_API_CALL vxCreateScalar(vx_context context, vx_enum data_type, const void *ptr)$/;"	f
+vxCreateScalarWithSize	vx_api.cpp	/^VX_API_ENTRY vx_scalar VX_API_CALL vxCreateScalarWithSize(vx_context context, vx_enum data_type, const void *ptr, vx_size size)$/;"	f
+vxCreateTensor	vx_api.cpp	/^VX_API_ENTRY vx_tensor VX_API_CALL vxCreateTensor(vx_context context, vx_size num_of_dims, const vx_size * dims, vx_enum data_format, vx_int8 fixed_point_pos)$/;"	f
+vxCreateTensorFromHandle	vx_api.cpp	/^VX_API_ENTRY vx_tensor VX_API_CALL vxCreateTensorFromHandle(vx_context context, vx_size number_of_dims, const vx_size * dims, vx_enum data_type, vx_int8 fixed_point_position, const vx_size * stride, void * ptr, vx_enum memory_type)$/;"	f
+vxCreateTensorFromView	vx_api.cpp	/^VX_API_ENTRY vx_tensor VX_API_CALL vxCreateTensorFromView(vx_tensor tensor, vx_size num_of_dims, const vx_size * roi_start, const vx_size * roi_end)$/;"	f
+vxCreateThreshold	vx_api.cpp	/^VX_API_ENTRY vx_threshold VX_API_CALL vxCreateThreshold(vx_context context, vx_enum thresh_type, vx_enum data_type)$/;"	f
+vxCreateUniformImage	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateUniformImage(vx_context context, vx_uint32 width, vx_uint32 height, vx_df_image color, const vx_pixel_value_t *value)$/;"	f
+vxCreateVirtualArray	vx_api.cpp	/^VX_API_ENTRY vx_array VX_API_CALL vxCreateVirtualArray(vx_graph graph, vx_enum item_type, vx_size capacity)$/;"	f
+vxCreateVirtualImage	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxCreateVirtualImage(vx_graph graph, vx_uint32 width, vx_uint32 height, vx_df_image color)$/;"	f
+vxCreateVirtualPyramid	vx_api.cpp	/^VX_API_ENTRY vx_pyramid VX_API_CALL vxCreateVirtualPyramid(vx_graph graph, vx_size levels, vx_float32 scale, vx_uint32 width, vx_uint32 height, vx_df_image format)$/;"	f
+vxCreateVirtualTensor	vx_api.cpp	/^VX_API_ENTRY vx_tensor VX_API_CALL vxCreateVirtualTensor(vx_graph graph, vx_size num_of_dims, const vx_size * dims, vx_enum data_format, vx_int8 fixed_point_pos)$/;"	f
+vxDilate3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxDilate3x3Node(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxDirective	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxDirective(vx_reference reference, vx_enum directive)$/;"	f
+vxEqualizeHistNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxEqualizeHistNode(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxErode3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxErode3x3Node(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxFastCornersNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxFastCornersNode(vx_graph graph, vx_image input, vx_scalar strength_thresh, vx_bool nonmax_supression, vx_array corners, vx_scalar num_corners)$/;"	f
+vxFinalizeKernel	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxFinalizeKernel(vx_kernel kernel)$/;"	f
+vxFormatImagePatchAddress1d	vx_api.cpp	/^VX_API_ENTRY void * VX_API_CALL vxFormatImagePatchAddress1d(void *ptr, vx_uint32 index, const vx_imagepatch_addressing_t *addr)$/;"	f
+vxFormatImagePatchAddress2d	vx_api.cpp	/^VX_API_ENTRY void * VX_API_CALL vxFormatImagePatchAddress2d(void *ptr, vx_uint32 x, vx_uint32 y, const vx_imagepatch_addressing_t *addr)$/;"	f
+vxGaussian3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxGaussian3x3Node(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxGaussianPyramidNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxGaussianPyramidNode(vx_graph graph, vx_image input, vx_pyramid gaussian)$/;"	f
+vxGetContext	vx_api.cpp	/^VX_API_ENTRY vx_context VX_API_CALL vxGetContext(vx_reference reference)$/;"	f
+vxGetContextImageFormatDescription	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetContextImageFormatDescription(vx_context context, vx_df_image format, AgoImageFormatDescription * desc)$/;"	f
+vxGetGraphParameterByIndex	vx_api.cpp	/^VX_API_ENTRY vx_parameter VX_API_CALL vxGetGraphParameterByIndex(vx_graph graph, vx_uint32 index)$/;"	f
+vxGetKernelByEnum	vx_api.cpp	/^VX_API_ENTRY vx_kernel VX_API_CALL vxGetKernelByEnum(vx_context context, vx_enum kernel)$/;"	f
+vxGetKernelByName	vx_api.cpp	/^VX_API_ENTRY vx_kernel VX_API_CALL vxGetKernelByName(vx_context context, const vx_char *name)$/;"	f
+vxGetKernelParameterByIndex	vx_api.cpp	/^VX_API_ENTRY vx_parameter VX_API_CALL vxGetKernelParameterByIndex(vx_kernel kernel, vx_uint32 index)$/;"	f
+vxGetModuleHandle	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetModuleHandle(vx_node node, const vx_char * module, void ** ptr)$/;"	f
+vxGetModuleInternalData	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetModuleInternalData(vx_context context, const vx_char * module, void ** ptr, vx_size * size)$/;"	f
+vxGetParameterByIndex	vx_api.cpp	/^VX_API_ENTRY vx_parameter VX_API_CALL vxGetParameterByIndex(vx_node node, vx_uint32 index)$/;"	f
+vxGetPyramidLevel	vx_api.cpp	/^VX_API_ENTRY vx_image VX_API_CALL vxGetPyramidLevel(vx_pyramid pyr, vx_uint32 index)$/;"	f
+vxGetReferenceFromDelay	vx_api.cpp	/^VX_API_ENTRY vx_reference VX_API_CALL vxGetReferenceFromDelay(vx_delay delay, vx_int32 index)$/;"	f
+vxGetReferenceName	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetReferenceName(vx_reference ref, vx_char name[], vx_size size)$/;"	f
+vxGetRemapPoint	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetRemapPoint(vx_remap table,$/;"	f
+vxGetStatus	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetStatus(vx_reference reference)$/;"	f
+vxGetValidRegionImage	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxGetValidRegionImage(vx_image image_, vx_rectangle_t *rect)$/;"	f
+vxHalfScaleGaussianNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxHalfScaleGaussianNode(vx_graph graph, vx_image input, vx_image output, vx_int32 kernel_size)$/;"	f
+vxHarrisCornersNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxHarrisCornersNode(vx_graph graph,$/;"	f
+vxHint	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxHint(vx_reference reference, vx_enum hint, const void* data, vx_size data_size)$/;"	f
+vxHistogramNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxHistogramNode(vx_graph graph, vx_image input, vx_distribution distribution)$/;"	f
+vxIntegralImageNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxIntegralImageNode(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxIsGraphVerified	vx_api.cpp	/^VX_API_ENTRY vx_bool VX_API_CALL vxIsGraphVerified(vx_graph graph)$/;"	f
+vxIsTensorAliased	vx_api.cpp	/^VX_API_ENTRY vx_bool VX_API_CALL vxIsTensorAliased(vx_tensor tensorMaster, vx_size offset, vx_tensor tensor)$/;"	f
+vxLoadKernels	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxLoadKernels(vx_context context, const vx_char *module)$/;"	f
+vxMagnitudeNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxMagnitudeNode(vx_graph graph, vx_image grad_x, vx_image grad_y, vx_image mag)$/;"	f
+vxMapArrayRange	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxMapArrayRange(vx_array array, vx_size range_start, vx_size range_end, vx_map_id *map_id, vx_size *stride, void **ptr, vx_enum usage, vx_enum mem_type, vx_uint32 flags)$/;"	f
+vxMapDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxMapDistribution(vx_distribution distribution, vx_map_id *map_id, void **ptr, vx_enum usage, vx_enum mem_type, vx_bitfield flags)$/;"	f
+vxMapImagePatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxMapImagePatch(vx_image image_, const vx_rectangle_t *rect, vx_uint32 plane_index, vx_map_id *map_id, vx_imagepatch_addressing_t *addr, void **ptr, vx_enum usage, vx_enum mem_type, vx_uint32 flags)$/;"	f
+vxMapLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxMapLUT(vx_lut lut, vx_map_id *map_id, void **ptr, vx_enum usage, vx_enum mem_type, vx_bitfield flags)$/;"	f
+vxMapTensorPatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxMapTensorPatch(vx_tensor tensor, vx_size num_of_dims, const vx_size * roi_start, const vx_size * roi_end, vx_map_id * map_id, vx_size * stride, void ** ptr, vx_enum usage, vx_enum mem_type, vx_uint32 flags)$/;"	f
+vxMeanStdDevNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxMeanStdDevNode(vx_graph graph, vx_image input, vx_scalar mean, vx_scalar stddev)$/;"	f
+vxMedian3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxMedian3x3Node(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxMinMaxLocNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxMinMaxLocNode(vx_graph graph,$/;"	f
+vxMultiplyNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxMultiplyNode(vx_graph graph, vx_image in1, vx_image in2, vx_scalar scale, vx_enum overflow_policy, vx_enum rounding_policy, vx_image out)$/;"	f
+vxNotNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxNotNode(vx_graph graph, vx_image input, vx_image output)$/;"	f
+vxOpticalFlowPyrLKNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxOpticalFlowPyrLKNode(vx_graph graph,$/;"	f
+vxOrNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxOrNode(vx_graph graph, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxPhaseNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxPhaseNode(vx_graph graph, vx_image grad_x, vx_image grad_y, vx_image orientation)$/;"	f
+vxProcessGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxProcessGraph(vx_graph graph)$/;"	f
+vxQueryArray	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryArray(vx_array arr, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryContext	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryContext(vx_context context, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryConvolution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryConvolution(vx_convolution conv, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryDelay	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryDelay(vx_delay delay, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryDistribution(vx_distribution distribution, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryGraph(vx_graph graph, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryImage	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryImage(vx_image image_, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryKernel	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryKernel(vx_kernel kernel, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryLUT(vx_lut lut, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryMatrix	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryMatrix(vx_matrix mat, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryNode	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryNode(vx_node node, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryParameter	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryParameter(vx_parameter param, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryPyramid	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryPyramid(vx_pyramid pyr, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryReference	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryReference(vx_reference ref, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryRemap	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryRemap(vx_remap r, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryScalar	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryScalar(vx_scalar scalar, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryTensor	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryTensor(vx_tensor tensor, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxQueryThreshold	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxQueryThreshold(vx_threshold thresh, vx_enum attribute, void *ptr, vx_size size)$/;"	f
+vxReadConvolutionCoefficients	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReadConvolutionCoefficients(vx_convolution conv, vx_int16 *array)$/;"	f
+vxReadMatrix	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReadMatrix(vx_matrix mat, void *array)$/;"	f
+vxReadScalarValue	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReadScalarValue(vx_scalar ref, void *ptr)$/;"	f
+vxRegisterAutoAging	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxRegisterAutoAging(vx_graph graph, vx_delay delay_)$/;"	f
+vxRegisterLogCallback	vx_api.cpp	/^VX_API_ENTRY void VX_API_CALL vxRegisterLogCallback(vx_context context, vx_log_callback_f callback, vx_bool reentrant)$/;"	f
+vxRegisterUserStruct	vx_api.cpp	/^VX_API_ENTRY vx_enum VX_API_CALL vxRegisterUserStruct(vx_context context, vx_size size)$/;"	f
+vxReleaseArray	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseArray(vx_array *arr)$/;"	f
+vxReleaseContext	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseContext(vx_context *context)$/;"	f
+vxReleaseConvolution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseConvolution(vx_convolution *conv)$/;"	f
+vxReleaseDelay	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseDelay(vx_delay *delay)$/;"	f
+vxReleaseDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseDistribution(vx_distribution *distribution)$/;"	f
+vxReleaseGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseGraph(vx_graph *graph)$/;"	f
+vxReleaseImage	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseImage(vx_image *image)$/;"	f
+vxReleaseKernel	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseKernel(vx_kernel *kernel)$/;"	f
+vxReleaseLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseLUT(vx_lut *lut)$/;"	f
+vxReleaseMatrix	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseMatrix(vx_matrix *mat)$/;"	f
+vxReleaseNode	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseNode(vx_node *node)$/;"	f
+vxReleaseParameter	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseParameter(vx_parameter *param)$/;"	f
+vxReleasePyramid	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleasePyramid(vx_pyramid *pyr)$/;"	f
+vxReleaseReference	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseReference(vx_reference* ref_ptr)$/;"	f
+vxReleaseRemap	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseRemap(vx_remap *table)$/;"	f
+vxReleaseScalar	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseScalar(vx_scalar *scalar)$/;"	f
+vxReleaseTensor	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseTensor(vx_tensor *tensor)$/;"	f
+vxReleaseThreshold	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReleaseThreshold(vx_threshold *thresh)$/;"	f
+vxRemapNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxRemapNode(vx_graph graph,$/;"	f
+vxRemoveKernel	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxRemoveKernel(vx_kernel kernel)$/;"	f
+vxRemoveNode	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxRemoveNode(vx_node *node)$/;"	f
+vxReplicateNode	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxReplicateNode(vx_graph graph, vx_node first_node, vx_bool replicate[], vx_uint32 number_of_parameters)$/;"	f
+vxRetainReference	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxRetainReference(vx_reference ref)$/;"	f
+vxRetrieveNodeCallback	vx_api.cpp	/^VX_API_ENTRY vx_nodecomplete_f VX_API_CALL vxRetrieveNodeCallback(vx_node node)$/;"	f
+vxScaleImageNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxScaleImageNode(vx_graph graph, vx_image src, vx_image dst, vx_enum type)$/;"	f
+vxScheduleGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxScheduleGraph(vx_graph graph)$/;"	f
+vxSetContextAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetContextAttribute(vx_context context, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetContextImageFormatDescription	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetContextImageFormatDescription(vx_context context, vx_df_image format, const AgoImageFormatDescription * desc)$/;"	f
+vxSetConvolutionAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetConvolutionAttribute(vx_convolution conv, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetGraphAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetGraphAttribute(vx_graph graph, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetGraphParameterByIndex	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetGraphParameterByIndex(vx_graph graph, vx_uint32 index, vx_reference value)$/;"	f
+vxSetImageAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetImageAttribute(vx_image image_, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetImageValidRectangle	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetImageValidRectangle(vx_image image_, const vx_rectangle_t *rect)$/;"	f
+vxSetImmediateModeTarget	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetImmediateModeTarget(vx_context context, vx_enum target_enum, const char* target_string)$/;"	f
+vxSetKernelAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetKernelAttribute(vx_kernel kernel, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetMetaFormatAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetMetaFormatAttribute(vx_meta_format meta, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetMetaFormatFromReference	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetMetaFormatFromReference(vx_meta_format meta, vx_reference exemplar)$/;"	f
+vxSetModuleHandle	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetModuleHandle(vx_node node, const vx_char * module, void * ptr)$/;"	f
+vxSetModuleInternalData	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetModuleInternalData(vx_context context, const vx_char * module, void * ptr, vx_size size)$/;"	f
+vxSetNodeAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetNodeAttribute(vx_node node, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSetNodeTarget	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetNodeTarget(vx_node node, vx_enum target_enum, const char* target_string)$/;"	f
+vxSetParameterByIndex	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetParameterByIndex(vx_node node, vx_uint32 index, vx_reference value)$/;"	f
+vxSetParameterByReference	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetParameterByReference(vx_parameter parameter, vx_reference value)$/;"	f
+vxSetReferenceName	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetReferenceName(vx_reference ref, const vx_char *name)$/;"	f
+vxSetRemapPoint	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetRemapPoint(vx_remap table,$/;"	f
+vxSetThresholdAttribute	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSetThresholdAttribute(vx_threshold thresh, vx_enum attribute, const void *ptr, vx_size size)$/;"	f
+vxSobel3x3Node	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxSobel3x3Node(vx_graph graph, vx_image input, vx_image output_x, vx_image output_y)$/;"	f
+vxSubtractNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxSubtractNode(vx_graph graph, vx_image in1, vx_image in2, vx_enum policy, vx_image out)$/;"	f
+vxSwapImageHandle	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSwapImageHandle(vx_image image_, void* const new_ptrs[], void* prev_ptrs[], vx_size num_planes)$/;"	f
+vxSwapTensorHandle	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxSwapTensorHandle(vx_tensor tensor, void * new_ptr, void** prev_ptr)$/;"	f
+vxTableLookupNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxTableLookupNode(vx_graph graph, vx_image input, vx_lut lut, vx_image output)$/;"	f
+vxThresholdNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxThresholdNode(vx_graph graph, vx_image input, vx_threshold thesh, vx_image output)$/;"	f
+vxTruncateArray	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxTruncateArray(vx_array arr, vx_size new_num_items)$/;"	f
+vxUnloadKernels	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnloadKernels(vx_context context, const vx_char *module)$/;"	f
+vxUnmapArrayRange	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnmapArrayRange(vx_array array, vx_map_id map_id)$/;"	f
+vxUnmapDistribution	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnmapDistribution(vx_distribution distribution, vx_map_id map_id)$/;"	f
+vxUnmapImagePatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnmapImagePatch(vx_image image_, vx_map_id map_id)$/;"	f
+vxUnmapLUT	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnmapLUT(vx_lut lut, vx_map_id map_id)$/;"	f
+vxUnmapTensorPatch	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxUnmapTensorPatch(vx_tensor tensor, vx_map_id map_id)$/;"	f
+vxVerifyGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxVerifyGraph(vx_graph graph)$/;"	f
+vxWaitGraph	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxWaitGraph(vx_graph graph)$/;"	f
+vxWarpAffineNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxWarpAffineNode(vx_graph graph, vx_image input, vx_matrix matrix, vx_enum type, vx_image output)$/;"	f
+vxWarpPerspectiveNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxWarpPerspectiveNode(vx_graph graph, vx_image input, vx_matrix matrix, vx_enum type, vx_image output)$/;"	f
+vxWriteConvolutionCoefficients	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxWriteConvolutionCoefficients(vx_convolution conv, const vx_int16 *array)$/;"	f
+vxWriteMatrix	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxWriteMatrix(vx_matrix mat, const void *array)$/;"	f
+vxWriteScalarValue	vx_api.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxWriteScalarValue(vx_scalar ref, const void *ptr)$/;"	f
+vxXorNode	vx_nodes.cpp	/^VX_API_ENTRY vx_node VX_API_CALL vxXorNode(vx_graph graph, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vx_useImmediateBorderMode	vxu.cpp	/^static vx_status vx_useImmediateBorderMode(vx_context context, vx_node node)$/;"	f	file:
+vxuAbsDiff	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAbsDiff(vx_context context, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxuAccumulateImage	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAccumulateImage(vx_context context, vx_image input, vx_image accum)$/;"	f
+vxuAccumulateSquareImage	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAccumulateSquareImage(vx_context context, vx_image input, vx_scalar scale, vx_image accum)$/;"	f
+vxuAccumulateWeightedImage	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAccumulateWeightedImage(vx_context context, vx_image input, vx_scalar scale, vx_image accum)$/;"	f
+vxuAdd	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAdd(vx_context context, vx_image in1, vx_image in2, vx_enum policy, vx_image out)$/;"	f
+vxuAnd	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuAnd(vx_context context, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxuBox3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuBox3x3(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuCannyEdgeDetector	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuCannyEdgeDetector(vx_context context, vx_image input, vx_threshold hyst,$/;"	f
+vxuChannelCombine	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuChannelCombine(vx_context context,$/;"	f
+vxuChannelExtract	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuChannelExtract(vx_context context, vx_image src, vx_enum channel, vx_image dst)$/;"	f
+vxuColorConvert	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuColorConvert(vx_context context, vx_image src, vx_image dst)$/;"	f
+vxuConvertDepth	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuConvertDepth(vx_context context, vx_image input, vx_image output, vx_enum policy, vx_int32 shift)$/;"	f
+vxuConvolve	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuConvolve(vx_context context, vx_image input, vx_convolution conv, vx_image output)$/;"	f
+vxuDilate3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuDilate3x3(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuEqualizeHist	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuEqualizeHist(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuErode3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuErode3x3(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuFastCorners	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuFastCorners(vx_context context, vx_image input, vx_scalar sens, vx_bool nonmax, vx_array corners, vx_scalar num_corners)$/;"	f
+vxuGaussian3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuGaussian3x3(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuGaussianPyramid	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuGaussianPyramid(vx_context context, vx_image input, vx_pyramid gaussian)$/;"	f
+vxuHalfScaleGaussian	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuHalfScaleGaussian(vx_context context, vx_image input, vx_image output, vx_int32 kernel_size)$/;"	f
+vxuHarrisCorners	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuHarrisCorners(vx_context context, vx_image input,$/;"	f
+vxuHistogram	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuHistogram(vx_context context, vx_image input, vx_distribution distribution)$/;"	f
+vxuIntegralImage	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuIntegralImage(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuMagnitude	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuMagnitude(vx_context context, vx_image grad_x, vx_image grad_y, vx_image dst)$/;"	f
+vxuMeanStdDev	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuMeanStdDev(vx_context context, vx_image input, vx_float32 *mean, vx_float32 *stddev)$/;"	f
+vxuMedian3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuMedian3x3(vx_context context, vx_image input, vx_image output)$/;"	f
+vxuMinMaxLoc	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuMinMaxLoc(vx_context context, vx_image input,$/;"	f
+vxuMultiply	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuMultiply(vx_context context, vx_image in1, vx_image in2, vx_float32 scale, vx_enum overflow_policy, vx_enum rounding_policy, vx_image out)$/;"	f
+vxuNot	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuNot(vx_context context, vx_image input, vx_image out)$/;"	f
+vxuOpticalFlowPyrLK	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuOpticalFlowPyrLK(vx_context context, vx_pyramid old_images,$/;"	f
+vxuOr	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuOr(vx_context context, vx_image in1, vx_image in2, vx_image out)$/;"	f
+vxuPhase	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuPhase(vx_context context, vx_image grad_x, vx_image grad_y, vx_image dst)$/;"	f
+vxuRemap	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuRemap(vx_context context, vx_image input, vx_remap table, vx_enum policy, vx_image output)$/;"	f
+vxuScaleImage	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuScaleImage(vx_context context, vx_image src, vx_image dst, vx_enum type)$/;"	f
+vxuSetGraphAffinityDefault	vxu.cpp	/^static void vxuSetGraphAffinityDefault(vx_graph graph)$/;"	f	file:
+vxuSobel3x3	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuSobel3x3(vx_context context, vx_image src, vx_image output_x, vx_image output_y)$/;"	f
+vxuSubtract	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuSubtract(vx_context context, vx_image in1, vx_image in2, vx_enum policy, vx_image out)$/;"	f
+vxuTableLookup	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuTableLookup(vx_context context, vx_image input, vx_lut lut, vx_image output)$/;"	f
+vxuThreshold	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuThreshold(vx_context context, vx_image input, vx_threshold thresh, vx_image output)$/;"	f
+vxuWarpAffine	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuWarpAffine(vx_context context, vx_image input, vx_matrix matrix, vx_enum type, vx_image output)$/;"	f
+vxuWarpPerspective	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuWarpPerspective(vx_context context, vx_image input, vx_matrix matrix, vx_enum type, vx_image output)$/;"	f
+vxuXor	vxu.cpp	/^VX_API_ENTRY vx_status VX_API_CALL vxuXor(vx_context context, vx_image in1, vx_image in2, vx_image out)$/;"	f

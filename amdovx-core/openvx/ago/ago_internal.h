@@ -397,7 +397,9 @@ struct AgoData {
 	vx_uint8 * reserved;
 	vx_uint8 * reserved_allocated;
 	vx_uint32  buffer_sync_flags;
-#if ENABLE_OPENCL
+#if ENAB        std::vector<ModuleData> modules;
+
+ LE_OPENCL
 	cl_mem     opencl_buffer;
 	cl_mem     opencl_buffer_allocated;
 #if defined(CL_VERSION_2_0)

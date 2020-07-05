@@ -17,8 +17,8 @@ BuildAndProcessGraphFromLine	vxEngine.cpp	/^int CVxEngine::BuildAndProcessGraphF
 CFileBuffer	vxEngineUtil.h	/^	CFileBuffer(const char * fileName) {$/;"	f	class:CFileBuffer
 CFileBuffer	vxEngineUtil.h	/^	CFileBuffer(size_t _size_in_bytes, size_t _prefix_bytes = 0, size_t _postfix_bytes = 0) {$/;"	f	class:CFileBuffer
 CFileBuffer	vxEngineUtil.h	/^class CFileBuffer {$/;"	c
-CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1107;"	d	file:
-CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1133;"	d	file:
+CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1112;"	d	file:
+CHECK_BACKSLASH_AT_LINE_ENDING	vxEngine.cpp	1138;"	d	file:
 CHasher	vxUtils.cpp	/^CHasher::CHasher(){$/;"	f	class:CHasher
 CHasher	vxUtils.h	/^class CHasher {$/;"	c
 CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/venomfate\/workspace\/office\/verisilicon\/amd_imp\/openvx_amd_implementation\/amdovx-core$/;"	m

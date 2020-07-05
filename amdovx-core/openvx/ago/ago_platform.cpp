@@ -34,7 +34,7 @@ THE SOFTWARE.
 
 bool agoIsCpuHardwareSupported()
 {
-	printf("*OPENVX* ago_platform.cpp: agoIsCpuHardwareSupported()\n");
+	printf("*OPENVX* openvx/ago/ago_platform.cpp: agoIsCpuHardwareSupported()\n");
 	bool isHardwareSupported = false;
 	int CPUInfo[4] = { -1 };
 	__cpuid(CPUInfo, 0);
